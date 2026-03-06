@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Magic: The Gathering Vault</title>
+  <meta name="description" content="Static GitHub Pages dashboard for the Magic: The Gathering Obsidian vault.">
+  <link rel="stylesheet" href="assets/site.css">
+  <script type="module" src="assets/site.js"></script>
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <p class="eyebrow">Obsidian vault and GitHub Pages front end</p>
+      <h1>Magic: The Gathering Vault</h1>
+      <p class="hero-copy">
+        Browse the tracked inventory by color and type, keep the collection readable outside Obsidian,
+        and keep a featured <code>60</code> card deck visible at the top of the project.
+      </p>
+      <div class="hero-actions">
+        <a class="button button-primary" href="#inventory">Browse Inventory</a>
+        <a class="button button-secondary" href="#deck">Featured Deck</a>
+        <a class="button button-ghost" href="#deploy">Deployment Notes</a>
+      </div>
+      <div class="hero-strip">
+        <span>Repo root already correct</span>
+        <span>Inventory source: <code>Cards/Card Inventory.md</code></span>
+        <span>Designed for GitHub Pages</span>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="panel control-panel" id="inventory">
+        <div class="panel-head">
+          <div>
+            <p class="panel-kicker">Inventory Controls</p>
+            <h2>Filter the vault</h2>
+          </div>
+          <p class="panel-copy">
+            Dual-color cards stay in the dual-color section but still respond to both color tags.
+          </p>
+        </div>
+        <div class="controls">
+          <label>
+            <span>Search</span>
+            <input id="searchInput" type="search" placeholder="Search by card, creature type, or tag">
+          </label>
+          <label>
+            <span>Color</span>
+            <select id="colorFilter">
+              <option value="all">All colors</option>
+              <option value="white">White</option>
+              <option value="blue">Blue</option>
+              <option value="black">Black</option>
+              <option value="red">Red</option>
+              <option value="green">Green</option>
+              <option value="multi">Multi-color</option>
+              <option value="colorless">Colorless</option>
+            </select>
+          </label>
+          <label>
+            <span>Type</span>
+            <select id="typeFilter">
+              <option value="all">All types</option>
+            </select>
+          </label>
+        </div>
+      </section>
+
+      <section class="panel summary-panel">
+        <div class="panel-head">
+          <div>
+            <p class="panel-kicker">Collection Snapshot</p>
+            <h2>Current totals</h2>
+          </div>
+          <p class="panel-copy">Numbers update as filters change.</p>
+        </div>
+        <div class="summary-grid" id="summaryGrid"></div>
+      </section>
+
+      <section class="panel browser-panel">
+        <div class="panel-head">
+          <div>
+            <p class="panel-kicker">Inventory Browser</p>
+            <h2>Color buckets and card rows</h2>
+          </div>
+          <p class="panel-copy" id="inventoryStatus">Loading inventory note...</p>
+        </div>
+        <div id="inventorySections" class="inventory-sections"></div>
+      </section>
+
+      <aside class="panel deck-panel" id="deck">
+        <div class="panel-head">
+          <div>
+            <p class="panel-kicker">Featured Deck</p>
+            <h2>Life-gain swarm, <code>60</code> cards</h2>
+          </div>
+          <p class="panel-copy">Built from the currently tracked white pool for a stable first pass.</p>
+        </div>
+        <div id="featuredDeck"></div>
+      </aside>
+
+      <aside class="panel deploy-panel" id="deploy">
+        <div class="panel-head">
+          <div>
+            <p class="panel-kicker">Deployment Notes</p>
+            <h2>What still happens on GitHub</h2>
+          </div>
+          <p class="panel-copy">The local scaffold is ready. Repository settings still require your authenticated GitHub account.</p>
+        </div>
+        <ol class="checklist">
+          <li>No folder move is needed. This repository already sits at the correct root.</li>
+          <li>Push the new root files and the <code>assets/</code> folder to your default branch.</li>
+          <li>In GitHub, open <code>Settings -&gt; Pages</code>, choose <code>Deploy from a branch</code>, then select <code>main</code> and <code>/ (root)</code>.</li>
+          <li>Keep the source repository private if you want, but plan around the published GitHub Pages site being public.</li>
+        </ol>
+      </aside>
+    </main>
+  </div>
+</body>
+</html>
+

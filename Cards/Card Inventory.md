@@ -24,8 +24,8 @@
 
 ---
 
-<details>
-<summary><strong>Green</strong></summary>
+
+### Green
 
 #### Creatures
 - [[Elvish Regrower]] x1 | Green | Creature | Elf Druid | #color/green #type/creature #creature-type/elf #creature-type/druid
@@ -86,12 +86,10 @@
 - [[Garruk's Uprising]] x1 | Green | Enchantment | - | #color/green #type/enchantment
 - [[Ordeal of Nylea]] x1 | Green | Enchantment | - | #color/green #type/enchantment
 
-</details>
 
 ---
 
-<details>
-<summary><strong>Red</strong></summary>
+### Red
 
 #### Creatures
 - [[Mindsparker]] x1 | Red | Creature | Elemental | #color/red #type/creature #creature-type/elemental
@@ -170,12 +168,9 @@
 - [[Impact Tremors]] x1 | Red | Enchantment | - | #color/red #type/enchantment
 - [[Gratuitous Violence]] x1 | Red | Enchantment | - | #color/red #type/enchantment
 
-</details>
-
 ---
 
-<details>
-<summary><strong>Blue</strong></summary>
+### Blue
 
 #### Creatures
 - [[Harbinger of the Tides]] x1 | Blue | Creature | Merfolk Wizard | #color/blue #type/creature #creature-type/merfolk #creature-type/wizard
@@ -230,12 +225,9 @@
 - [[Confiscate]] x1 | Blue | Enchantment | - | #color/blue #type/enchantment
 - [[Deep Freeze]] x1 | Blue | Enchantment | - | #color/blue #type/enchantment
 
-</details>
 
 ---
-
-<details>
-<summary><strong>White</strong></summary>
+### White
 
 #### Creatures
 - [[Angel of Finality]] x1 | White | Creature | Angel | #color/white #type/creature #creature-type/angel
@@ -286,12 +278,10 @@
 - [[Stasis Snare]] x2 | White | Enchantment | - | #color/white #type/enchantment
 - [[Oppressive Rays]] x1 | White | Enchantment | - | #color/white #type/enchantment
 
-</details>
 
 ---
 
-<details>
-<summary><strong>Black</strong></summary>
+### Black
 
 #### Creatures
 - [[Myojin of Night's Reach]] x1 | Black | Creature | Spirit | #color/black #type/creature #creature-type/spirit
@@ -353,12 +343,10 @@
 - [[Demonic Pact]] x1 | Black | Enchantment | - | #color/black #type/enchantment
 - [[Cast into Darkness]] x1 | Black | Enchantment | - | #color/black #type/enchantment
 
-</details>
 
 ---
 
-<details>
-<summary><strong>Dual-Color</strong></summary>
+### Dual-Color
 
 #### Creatures
 - [[Ovika, Enigma Goliath]] x1 | Blue / Red | Creature | Phyrexian Nightmare | #color/blue #color/red #color/multi #type/creature #creature-type/phyrexian #creature-type/nightmare
@@ -412,12 +400,10 @@
 - [[Fires of Yavimaya]] x1 | Red / Green | Enchantment | - | #color/red #color/green #color/multi #type/enchantment
 - [[Unflinching Courage]] x1 | Green / White | Enchantment | - | #color/white #color/green #color/multi #type/enchantment
 
-</details>
 
 ---
 
-<details>
-<summary><strong>Multi-Color</strong></summary>
+### Multi-Color
 
 #### Creatures
 - [[Symbiote Spider-Man]] x1 | Multi-Color | Creature | - | #color/multi #type/creature
@@ -427,17 +413,16 @@
 #### Sorceries
 - [[Grub's Command]] x1 | Multi-Color | Sorcery | - | #color/multi #type/sorcery
 
-</details>
+
 
 ---
 
-<details>
-<summary><strong>Artifacts</strong></summary>
+### Colorless
 
 #### Artifacts
 - [[Wishclaw Talisman]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
 
-</details>
+
 
 ---
 

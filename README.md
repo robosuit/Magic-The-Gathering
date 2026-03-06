@@ -1,81 +1,25 @@
-# Magic the Gathering Card Library
+﻿# Magic: The Gathering Vault
 
-Welcome to your comprehensive MTG card collection tracker!
+This repository is both an Obsidian vault and a static GitHub Pages site.
 
-## 📖 How to Use This Library
+## Structure
+- `Cards/Card Inventory.md`: master inventory note with quantities, color buckets, and tags.
+- `Decks/`: deck lists built from the tracked pool.
+- `Indexes/`: Obsidian navigation notes for colors, types, and creature types.
+- `Photos/`: source images used while identifying and counting cards.
+- `index.html` and `assets/`: the static site that reads the inventory note and renders a browser-friendly dashboard.
 
-### Cards Folder
-- Individual card files for every card in your collection
-- Navigate using color, type, or creature type indexes
-- Click on a card to view details and update quantities
+## Current site layout
+- Root `index.html` loads the inventory note directly from `Cards/Card Inventory.md`.
+- `assets/site.js` parses the markdown inventory into searchable sections.
+- `assets/site.css` provides the GitHub Pages front end styling.
+- `.nojekyll` keeps GitHub Pages from rewriting or filtering the static site.
 
-### Tracking Inventory
-Each card has a quantity marker at the top:
-```
-- **Quantity in Library:** [[0]]
-```
-Simply edit the number to track:
-- Cards in your collection
-- Cards assigned to decks
-- Available cards (auto-calculated)
+## Workflow
+1. Update `Cards/Card Inventory.md` when new photos are processed.
+2. Add or adjust deck notes in `Decks/`.
+3. Open `index.html` locally or publish the repo with GitHub Pages.
+4. Push changes to the default branch after inventory and deck updates are verified.
 
-### Decks Folder
-- Save your deck lists here
-- Cards automatically pull from the main library
-- Track which cards are being used
-
-### Indexes
-Quick navigation by:
-- **Color** - Mountains (Red), Plains (White), Forests (Green), Swamps (Black), Islands (Blue), Colorless
-- **Type** - Creature, Instant, Sorcery, Land, Artifact, Equipment, Enchantment, etc.
-- **Creature Type** - Minotaur, Elf, Dragon, etc.
-
-## 🏷️ Tag System
-
-Every card uses these tags:
-
-### Colors
-- `#color/red` (Mountains)
-- `#color/white` (Plains)
-- `#color/green` (Forests)
-- `#color/black` (Swamps)
-- `#color/blue` (Islands)
-- `#color/colorless`
-
-**Multi-color cards:** Use multiple color tags
-Example: `#color/red` `#color/green` for a Jund card
-
-### Types
-- `#type/creature`
-- `#type/instant`
-- `#type/sorcery`
-- `#type/land`
-- `#type/artifact`
-- `#type/equipment`
-- `#type/enchantment`
-- `#type/planeswalker`
-
-### Creature Types
-- `#creature-type/minotaur`
-- `#creature-type/elf`
-- `#creature-type/dragon`
-- `#creature-type/zombie`
-- etc.
-
-## 📊 Deck Building
-
-1. Create a new deck file in the **Decks** folder
-2. Link to cards you want to include: `[[Card Name]]`
-3. System automatically tracks which cards are in use
-4. Update main library quantities as decks change
-
-## 🔍 Quick Tips
-
-- Use Obsidian's search function to find cards by color, type, or name
-- Use tag filters to view all creatures, all artifacts, etc.
-- Hover over card links to preview card details
-- Keep card images in the Cards folders for easy reference
-
----
-
-**Next Steps:** Configure the index pages and start adding your cards!
+## Deployment note
+The repository root is already correct. Do not move the whole `Magic The Gathering` folder up one level before publishing.

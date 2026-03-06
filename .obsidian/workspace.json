@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cards/Card Inventory.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#creature-type/human",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,13 +96,13 @@
               "type": "backlink",
               "state": {
                 "file": "Cards/Card Inventory.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Backlinks for Card Inventory"
@@ -165,12 +166,12 @@
               "title": "Outline of Card Inventory"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,10 +184,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "9e70f81943b4fc3f",
+  "active": "027a970cd9e90658",
   "lastOpenFiles": [
-    "Indexes/Types.md",
+    "QUICK START.md",
     "Cards/Card Inventory.md",
+    "Wishclaw Talisman.md",
+    "Indexes/Types.md",
     "Photos/_analysis/ocr-red-full.txt",
     "Photos/_analysis/ocr-green-full.txt",
     "Photos/_analysis/red-namebands.tsv",
