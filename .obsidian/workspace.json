@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "4b263d4a7a11aa2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8018f09335270d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e70f81943b4fc3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/Card Inventory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Card Inventory"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a8c882922cb7c11",
+    "type": "split",
+    "children": [
+      {
+        "id": "23515a1b33db66fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ece7d365065b292f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "027a970cd9e90658",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fe466c97c71f5807",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f9783e630a6dd16",
+    "type": "split",
+    "children": [
+      {
+        "id": "cba9bdf77c75eb87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbe1073335a64811",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cards/Card Inventory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Card Inventory"
+            }
+          },
+          {
+            "id": "4d9928b2732dfb65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cards/Card Inventory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Card Inventory"
+            }
+          },
+          {
+            "id": "babbbcc8aceb6344",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5f0a821dbb8ea355",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cebcec5f5b0b735f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cards/Card Inventory.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Card Inventory"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9e70f81943b4fc3f",
+  "lastOpenFiles": [
+    "Indexes/Types.md",
+    "Cards/Card Inventory.md",
+    "Photos/_analysis/ocr-red-full.txt",
+    "Photos/_analysis/ocr-green-full.txt",
+    "Photos/_analysis/red-namebands.tsv",
+    "Photos/_analysis/green-namebands.tsv",
+    "Photos/PXL_20260306_164744683.jpg",
+    "Photos/PXL_20260306_164739505.jpg",
+    "Photos/PXL_20260306_164642957.jpg",
+    "Photos/PXL_20260306_164636911.jpg",
+    "Photos/PXL_20260306_164633302.jpg",
+    "Photos/PXL_20260306_164630176.jpg",
+    "Photos/PXL_20260306_164458181.jpg",
+    "Photos/PXL_20260306_153843063.MP.jpg",
+    "Photos/_analysis/ocr-red.tsv",
+    "Photos/_analysis/PXL_20260306_151037695.MP/r2c3.jpg",
+    "Photos/_analysis/PXL_20260306_151037695.MP/r2c2.jpg",
+    "Photos/_analysis/PXL_20260306_151037695.MP",
+    "Photos/_analysis/PXL_20260306_151014288",
+    "Photos/_analysis/PXL_20260306_151012676.MP",
+    "Photos/_analysis/PXL_20260306_150904284.MP",
+    "Photos/_analysis/PXL_20260306_150707223.MP",
+    "Apothecary Stomper.md",
+    "Vayne Garudas Soldier.md"
+  ]
+}
