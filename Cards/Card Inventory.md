@@ -1,4 +1,4 @@
-# Card Inventory
+﻿# Card Inventory
 
 ## Graph Links
 - [[Indexes/Colors]]
@@ -131,6 +131,7 @@
 - [[Kellan, Planar Trailblazer]] x1 | Red | Legendary Creature | Human | #color/red #type/creature #creature-type/human
 - [[Gilgamesh, Master-at-Arms]] x1 | Red | Legendary Creature | Human Samurai | #color/red #type/creature #creature-type/human #creature-type/samurai
 - [[Sarkhan, Dragon Ascendant]] x1 | Red | Legendary Creature | Human Druid | #color/red #type/creature #creature-type/human #creature-type/druid
+- [[Summon: Esper Valigarmanda]] x1 | Red | Enchantment Creature | Drake | #color/red #type/creature #type/enchantment #creature-type/drake
 - [[Minotaur Skullcleaver]] x1 | Red | Creature | Minotaur Berserker | #color/red #type/creature #creature-type/minotaur #creature-type/berserker
 - [[Blood Ogre]] x2 | Red | Creature | Ogre Warrior | #color/red #type/creature #creature-type/ogre #creature-type/warrior
 - [[Rageblood Shaman]] x1 | Red | Creature | Minotaur Shaman | #color/red #type/creature #creature-type/minotaur #creature-type/shaman
@@ -168,6 +169,9 @@
 - [[Impact Tremors]] x1 | Red | Enchantment | - | #color/red #type/enchantment
 - [[Gratuitous Violence]] x1 | Red | Enchantment | - | #color/red #type/enchantment
 
+#### Planeswalkers
+- [[Jaya, Fiery Negotiator]] x1 | Red | Planeswalker | - | #color/red #type/planeswalker
+
 ---
 
 ### Blue
@@ -175,6 +179,7 @@
 #### Creatures
 - [[Harbinger of the Tides]] x1 | Blue | Creature | Merfolk Wizard | #color/blue #type/creature #creature-type/merfolk #creature-type/wizard
 - [[Arcanis the Omnipotent]] x1 | Blue | Creature | Wizard | #color/blue #type/creature #creature-type/wizard
+- [[Alphinaud Leveilleur]] x1 | Blue | Legendary Creature | Elf Wizard | #color/blue #type/creature #creature-type/elf #creature-type/wizard
 - [[Erudite Wizard]] x1 | Blue | Creature | Human Wizard | #color/blue #type/creature #creature-type/human #creature-type/wizard
 - [[Tolarian Terror]] x1 | Blue | Creature | Serpent | #color/blue #type/creature #creature-type/serpent
 - [[Mischievous Mystic]] x2 | Blue | Creature | Human Wizard | #color/blue #type/creature #creature-type/human #creature-type/wizard
@@ -419,10 +424,40 @@
 
 ### Colorless
 
+#### Creatures
+- [[Adaptive Automaton]] x1 | Colorless | Artifact Creature | Construct | #color/colorless #type/artifact #type/creature #creature-type/construct
+- [[Burnished Hart]] x1 | Colorless | Artifact Creature | Elk | #color/colorless #type/artifact #type/creature #creature-type/elk
+- [[Campus Guide]] x1 | Colorless | Artifact Creature | Golem | #color/colorless #type/artifact #type/creature #creature-type/golem
+- [[Colossus]] x1 | Colorless | Artifact Creature | Construct | #color/colorless #type/artifact #type/creature #creature-type/construct
+- [[Darksteel Colossus]] x1 | Colorless | Artifact Creature | Golem | #color/colorless #type/artifact #type/creature #creature-type/golem
+- [[Diamond Mare]] x1 | Colorless | Artifact Creature | Horse | #color/colorless #type/artifact #type/creature #creature-type/horse
+- [[Gleaming Barrier]] x1 | Colorless | Artifact Creature | Wall | #color/colorless #type/artifact #type/creature #creature-type/wall
+- [[Meteor Golem]] x2 | Colorless | Artifact Creature | Golem | #color/colorless #type/artifact #type/creature #creature-type/golem
+- [[Ramos, Dragon Engine]] x1 | Colorless | Legendary Artifact Creature | Dragon | #color/colorless #type/artifact #type/creature #creature-type/dragon
+- [[Steel Hellkite]] x1 | Colorless | Artifact Creature | Dragon | #color/colorless #type/artifact #type/creature #creature-type/dragon
+- [[Three Tree Mascot]] x1 | Colorless | Artifact Creature | Shapeshifter | #color/colorless #type/artifact #type/creature #creature-type/shapeshifter
+- [[Ultima, Origin of Oblivion]] x1 | Colorless | Legendary Artifact Creature | God | #color/colorless #type/artifact #type/creature #creature-type/god
+
 #### Artifacts
+- [[Arcane Signet]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
+- [[Basilisk Collar]] x1 | Colorless | Artifact Equipment | - | #color/colorless #type/artifact #type/equipment
+- [[Cultivator's Caravan]] x1 | Colorless | Artifact Vehicle | - | #color/colorless #type/artifact #type/vehicle
+- [[Dragon Blood]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
+- [[Expedition Map]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
+- [[Feldon's Cane]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
+- [[Fireshrieker]] x1 | Colorless | Artifact Equipment | - | #color/colorless #type/artifact #type/equipment
+- [[Gilded Lotus]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
+- [[Hedron Archive]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
+- [[Heraldic Banner]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
+- [[Mazemind Tome]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
+- [[Orzhov Signet]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
+- [[Pyromancer's Goggles]] x1 | Colorless | Legendary Artifact | - | #color/colorless #type/artifact
+- [[Ravenous Amulet]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
+- [[Sol Ring]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
+- [[Sorcerous Spyglass]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
+- [[Soul-Guide Lantern]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
+- [[Swiftfoot Boots]] x1 | Colorless | Artifact Equipment | - | #color/colorless #type/artifact #type/equipment
 - [[Wishclaw Talisman]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
-
-
 
 ---
 
@@ -472,5 +507,6 @@
 - Unknown green Rhino from `PXL_20260306_143708033.MP.jpg` | Trample plus targeted-spell draw trigger; name still needs a clean confirmation shot.
 - `PXL_20260306_164630176.jpg`, `PXL_20260306_164633302.jpg`, `PXL_20260306_164636911.jpg`, `PXL_20260306_164642957.jpg`, and `PXL_20260306_164739505.jpg` | Land close-ups were too unclear for reliable OCR, so only the confirmed land names were added.
 - Example dual-land tagging rule: [[Nurturing Peatland]] | #color/green #color/black #color/multi #type/land
+
 
 

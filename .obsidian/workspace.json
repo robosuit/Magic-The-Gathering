@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Card Inventory.md",
-                "mode": "preview",
+                "file": "Decks/Orzhov Token Swarm (100) (EDH).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Card Inventory"
+              "title": "Orzhov Token Swarm (100) (EDH)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#creature-type/human",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,32 +184,50 @@
       "bases:Create new base": false
     }
   },
-  "active": "027a970cd9e90658",
+  "active": "9e70f81943b4fc3f",
   "lastOpenFiles": [
-    "QUICK START.md",
+    "Decks/Golgari Token Swarm (100) (EDH).md",
+    "Decks/Boros Burn Aggro (100) (EDH).md",
+    "Decks/Artifact Spell Storm (100) (EDH).md",
+    "Decks/Jund Minotaur-Ramp Deck.md",
+    "Decks/Orzhov Token Swarm (100) (EDH).md",
+    "Decks/Rakdos Minotaur Tribal (100) (EDH).md",
+    "Decks/Green Creature Swarm (100) (EDH).md",
+    "Decks/Abzan Token Swarm Commander.md",
+    "Decks/Abzan Tokens (100) (EDH).md",
+    "Decks/Golgari Token Swarm Commander.md",
+    "Decks/Boros Burn Aggro Commander.md",
+    "Decks/Boros Token Pressure 60.md",
+    "Decks/Artifact Spell Storm Commander.md",
+    "Decks/Green Colorless Swarm Giant Deck.md",
+    "Decks/Green Creature Swarm Commander.md",
+    "Decks/Rakdos Minotaur Tribal Commander.md",
+    "Decks/Jund Minotaur Ramp Commander.md",
+    "Decks/Dimir Flash Reanimator 60.md",
+    "Photos/Mixed-Additions/PXL_20260306_183633257.jpg",
+    "Photos/Mixed-Additions",
+    "Photos/Colorless/PXL_20260306_183629107.MP.jpg",
+    "Photos/Colorless/PXL_20260306_183531056.MP.jpg",
+    "Photos/Colorless/PXL_20260306_183527589.MP.jpg",
+    "Photos/Colorless/PXL_20260306_183523932.MP.jpg",
+    "Photos/Colorless",
+    "Photos/_analysis/esper_crop2.jpg",
+    "Photos/_analysis/jaya_crop.jpg",
+    "Photos/_analysis/alphinaud_crop.jpg",
+    "Photos/_analysis/esper_crop.jpg",
+    "Photos/_analysis/center_right.jpg",
+    "Photos/_analysis",
     "Cards/Card Inventory.md",
+    "QUICK START.md",
     "Wishclaw Talisman.md",
     "Indexes/Types.md",
     "Photos/_analysis/ocr-red-full.txt",
     "Photos/_analysis/ocr-green-full.txt",
     "Photos/_analysis/red-namebands.tsv",
     "Photos/_analysis/green-namebands.tsv",
-    "Photos/PXL_20260306_164744683.jpg",
-    "Photos/PXL_20260306_164739505.jpg",
-    "Photos/PXL_20260306_164642957.jpg",
-    "Photos/PXL_20260306_164636911.jpg",
-    "Photos/PXL_20260306_164633302.jpg",
-    "Photos/PXL_20260306_164630176.jpg",
-    "Photos/PXL_20260306_164458181.jpg",
-    "Photos/PXL_20260306_153843063.MP.jpg",
     "Photos/_analysis/ocr-red.tsv",
-    "Photos/_analysis/PXL_20260306_151037695.MP/r2c3.jpg",
-    "Photos/_analysis/PXL_20260306_151037695.MP/r2c2.jpg",
     "Photos/_analysis/PXL_20260306_151037695.MP",
     "Photos/_analysis/PXL_20260306_151014288",
-    "Photos/_analysis/PXL_20260306_151012676.MP",
-    "Photos/_analysis/PXL_20260306_150904284.MP",
-    "Photos/_analysis/PXL_20260306_150707223.MP",
     "Apothecary Stomper.md",
     "Vayne Garudas Soldier.md"
   ]

@@ -2,57 +2,71 @@
 
 Tags: #deck/60-card #theme/aggro #theme/swarm #color/red #color/white #color/multi
 
+## Color Key
+- `W` = White
+- `U` = Blue
+- `B` = Black
+- `R` = Red
+- `G` = Green
+- `C` = Colorless
+- Combined letters such as `RW` or `UB` mark multi-color cards or dual lands.
+
 ## Source
-- Built from the currently tracked red, white, and red/white pool in [[Cards/Card Inventory]].
+- Built from the currently tracked red, white, red/white, and colorless pool in [[Cards/Card Inventory]].
 - Goal: curve out early, turn token makers into real pressure, and finish with combat-step bursts from Boros cards instead of trying to play long control games.
-- [[Jaya, Fiery Negotiator]] is intentionally not in this first list so the shell stays creature-and-combat focused.
+- [[Jaya, Fiery Negotiator]] stays out of this version so the shell remains creature-and-combat focused.
 
 ## Main Deck
 
-### Creatures (21)
-- [[Savannah Lions]] x1
-- [[Frenzied Goblin]] x1
-- [[Fanatical Firebrand]] x1
-- [[Ghitu Lavarunner]] x2
-- [[Viashino Pyromancer]] x1
-- [[Resolute Reinforcements]] x1
-- [[Heartfire Immolator]] x2
-- [[Firebrand Archer]] x1
-- [[Charming Prince]] x1
-- [[Cat Collector]] x1
-- [[Mentor of the Meek]] x1
-- [[Ballynock Banneret]] x1
-- [[Crusader of Odric]] x1
-- [[Dawnwing Marshal]] x1
-- [[Inspiring Overseer]] x1
-- [[Dazzling Angel]] x1
-- [[Kargan Warleader]] x1
-- [[Regal Caracal]] x1
-- [[Aurelia, the Warleader]] x1
+### White Cards (14)
+- `W` [[Savannah Lions]] x1 | Creature
+- `W` [[Resolute Reinforcements]] x1 | Creature
+- `W` [[Charming Prince]] x1 | Creature
+- `W` [[Cat Collector]] x1 | Creature
+- `W` [[Mentor of the Meek]] x1 | Creature
+- `W` [[Ballynock Banneret]] x1 | Creature
+- `W` [[Crusader of Odric]] x1 | Creature
+- `W` [[Dawnwing Marshal]] x1 | Creature
+- `W` [[Inspiring Overseer]] x1 | Creature
+- `W` [[Regal Caracal]] x1 | Creature
+- `W` [[Valorous Stance]] x1 | Instant
+- `W` [[Stasis Snare]] x2 | Enchantment
+- `W` [[Release the Dogs]] x1 | Sorcery
 
-### Spells (15)
-- [[Burst Lightning]] x4
-- [[Abrade]] x1
-- [[Valorous Stance]] x1
-- [[Boros Charm]] x1
-- [[Stasis Snare]] x2
-- [[Dragon Fodder]] x3
-- [[Heroic Reinforcements]] x1
-- [[Release the Dogs]] x1
-- [[Impact Tremors]] x1
+### Red Cards (17)
+- `R` [[Frenzied Goblin]] x1 | Creature
+- `R` [[Fanatical Firebrand]] x1 | Creature
+- `R` [[Ghitu Lavarunner]] x2 | Creature
+- `R` [[Viashino Pyromancer]] x1 | Creature
+- `R` [[Heartfire Immolator]] x2 | Creature
+- `R` [[Firebrand Archer]] x1 | Creature
+- `R` [[Burst Lightning]] x4 | Instant
+- `R` [[Abrade]] x1 | Instant
+- `R` [[Dragon Fodder]] x3 | Sorcery
+- `R` [[Impact Tremors]] x1 | Enchantment
+
+### Red / White Cards (4)
+- `RW` [[Kargan Warleader]] x1 | Creature
+- `RW` [[Aurelia, the Warleader]] x1 | Creature
+- `RW` [[Boros Charm]] x1 | Instant
+- `RW` [[Heroic Reinforcements]] x1 | Sorcery
+
+### Colorless Cards (1)
+- `C` [[Sol Ring]] x1 | Artifact
 
 ### Lands (24)
-- [[Temple of Triumph]] x1
-- [[Plains]] x12
-- [[Mountain]] x11
+- `W` [[Plains]] x12 | Land
+- `R` [[Mountain]] x11 | Land
+- `RW` [[Temple of Triumph]] x1 | Land
 
 ## Game Plan
 1. Start with cheap creatures and force awkward blocks with [[Frenzied Goblin]], burn, and efficient attacks.
-2. Use [[Dragon Fodder]], [[Resolute Reinforcements]], [[Release the Dogs]], and [[Heroic Reinforcements]] to widen the board faster than spot removal can keep up.
-3. Convert board presence into lethal damage through [[Kargan Warleader]], [[Aurelia, the Warleader]], [[Boros Charm]], or repeated chip damage from [[Impact Tremors]].
+2. Use [[Sol Ring]] to jump from early pressure into multi-spell turns or a fast [[Aurelia, the Warleader]].
+3. Use [[Dragon Fodder]], [[Resolute Reinforcements]], [[Release the Dogs]], and [[Heroic Reinforcements]] to widen the board faster than spot removal can keep up.
+4. Convert board presence into lethal damage through [[Kargan Warleader]], [[Aurelia, the Warleader]], [[Boros Charm]], or repeated chip damage from [[Impact Tremors]].
 
 ## Flex Slots
-- [[Mentor of the Meek]] is strongest when the game slows down and you have spare mana; if the deck feels too clunky, cut it first.
-- [[Regal Caracal]] is slightly off-plan on pure Boros speed, but it is one of your best token payoff creatures and worth the slot for now.
-- [[Thunder of Unity]] is the clean first swap if you want a more combat-focused enchantment package.
-- [[Jaya, Fiery Negotiator]] can slot in later as a value threat once you decide whether you want this deck to lean more midrange than swarm.
+- [[Dazzling Angel]] was the cleanest cut because it was the slowest creature that did not directly support the pressure plan.
+- [[Basilisk Collar]] is playable here with [[Fanatical Firebrand]] and [[Heartfire Immolator]], but it is more situational than [[Sol Ring]].
+- [[Thunder of Unity]] is the first swap if you want a more combat-focused enchantment package.
+- [[Jaya, Fiery Negotiator]] can slot in later if you decide to shift this deck toward a more midrange Boros shell.

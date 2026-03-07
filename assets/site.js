@@ -9,51 +9,47 @@
   ],
   groups: [
     {
-      name: "Creatures (23)",
+      name: "White Cards (36)",
       items: [
-        ["Hinterland Sanctifier", 3],
-        ["Savannah Lions", 1],
-        ["Ajani's Pridemate", 2],
-        ["Charming Prince", 1],
-        ["Cat Collector", 1],
-        ["Resolute Reinforcements", 1],
-        ["Mentor of the Meek", 1],
-        ["Inspiring Overseer", 1],
-        ["Angel of Vitality", 1],
-        ["Ballynock Banneret", 1],
-        ["Crusader of Odric", 1],
-        ["Dawnwing Marshal", 1],
-        ["Felidar Cub", 1],
-        ["Hare Apparent", 1],
-        ["Knight of Grace", 1],
-        ["Dazzling Angel", 1],
-        ["Linden, the Steadfast Queen", 1],
-        ["Syr Alin, the Lion's Claw", 1],
-        ["Regal Caracal", 1],
-        ["Lyra Dawnbringer", 1],
-        ["Angel of Finality", 1]
-      ]
-    },
-    {
-      name: "Spells (13)",
-      items: [
-        ["Stasis Snare", 2],
-        ["Banishing Light", 1],
-        ["Felidar Retreat", 1],
-        ["Oppressive Rays", 1],
-        ["Twinblade Blessing", 1],
-        ["Angelic Destiny", 1],
-        ["Disenchant", 1],
-        ["Valorous Stance", 1],
-        ["Stroke of Midnight", 1],
-        ["Make a Stand", 1],
-        ["Phalanx Formation", 1],
-        ["Release the Dogs", 1]
+        { code: "W", name: "Hinterland Sanctifier", quantity: 3, type: "Creature" },
+        { code: "W", name: "Savannah Lions", quantity: 1, type: "Creature" },
+        { code: "W", name: "Ajani's Pridemate", quantity: 2, type: "Creature" },
+        { code: "W", name: "Charming Prince", quantity: 1, type: "Creature" },
+        { code: "W", name: "Cat Collector", quantity: 1, type: "Creature" },
+        { code: "W", name: "Resolute Reinforcements", quantity: 1, type: "Creature" },
+        { code: "W", name: "Mentor of the Meek", quantity: 1, type: "Creature" },
+        { code: "W", name: "Inspiring Overseer", quantity: 1, type: "Creature" },
+        { code: "W", name: "Angel of Vitality", quantity: 1, type: "Creature" },
+        { code: "W", name: "Ballynock Banneret", quantity: 1, type: "Creature" },
+        { code: "W", name: "Crusader of Odric", quantity: 1, type: "Creature" },
+        { code: "W", name: "Dawnwing Marshal", quantity: 1, type: "Creature" },
+        { code: "W", name: "Felidar Cub", quantity: 1, type: "Creature" },
+        { code: "W", name: "Hare Apparent", quantity: 1, type: "Creature" },
+        { code: "W", name: "Knight of Grace", quantity: 1, type: "Creature" },
+        { code: "W", name: "Dazzling Angel", quantity: 1, type: "Creature" },
+        { code: "W", name: "Linden, the Steadfast Queen", quantity: 1, type: "Creature" },
+        { code: "W", name: "Syr Alin, the Lion's Claw", quantity: 1, type: "Creature" },
+        { code: "W", name: "Regal Caracal", quantity: 1, type: "Creature" },
+        { code: "W", name: "Lyra Dawnbringer", quantity: 1, type: "Creature" },
+        { code: "W", name: "Stasis Snare", quantity: 2, type: "Enchantment" },
+        { code: "W", name: "Banishing Light", quantity: 1, type: "Enchantment" },
+        { code: "W", name: "Felidar Retreat", quantity: 1, type: "Enchantment" },
+        { code: "W", name: "Oppressive Rays", quantity: 1, type: "Enchantment" },
+        { code: "W", name: "Twinblade Blessing", quantity: 1, type: "Enchantment" },
+        { code: "W", name: "Angelic Destiny", quantity: 1, type: "Enchantment" },
+        { code: "W", name: "Disenchant", quantity: 1, type: "Instant" },
+        { code: "W", name: "Valorous Stance", quantity: 1, type: "Instant" },
+        { code: "W", name: "Stroke of Midnight", quantity: 1, type: "Instant" },
+        { code: "W", name: "Make a Stand", quantity: 1, type: "Instant" },
+        { code: "W", name: "Phalanx Formation", quantity: 1, type: "Instant" },
+        { code: "W", name: "Release the Dogs", quantity: 1, type: "Sorcery" }
       ]
     },
     {
       name: "Lands (24)",
-      items: [["Plains", 24]]
+      items: [
+        { code: "W", name: "Plains", quantity: 24, type: "Land" }
+      ]
     }
   ],
   flex: [
@@ -370,7 +366,10 @@ function renderFeaturedDeck() {
           <h3>${escapeHtml(group.name)}</h3>
           <ul class="deck-list">
             ${group.items
-              .map(([name, quantity]) => `<li>${escapeHtml(String(quantity))}x ${escapeHtml(name)}</li>`)
+              .map(
+                (item) =>
+                  `<li><code>${escapeHtml(item.code)}</code> ${escapeHtml(String(item.quantity))}x ${escapeHtml(item.name)} | ${escapeHtml(item.type)}</li>`
+              )
               .join("")}
           </ul>
         </section>
@@ -427,3 +426,5 @@ function escapeHtml(value) {
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#39;");
 }
+
+

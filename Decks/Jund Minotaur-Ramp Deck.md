@@ -1,203 +1,120 @@
-# Jund Minotaur-Ramp Deck
+# Rakdos Minotaur-Ramp (100 EDH)
 
-## 🧬 Deck Information
-- **Format:** 100-card Casual / Commander-adjacent
-- **Focus Colors:** Red / Green / Black (Jund)
-- **Strategy:** Minotaur tribal synergy + big ramp finishers + deathtouch control
-- **Status:** In Development (Version 1)
-- **Total Cards:** 100
+Tags: #deck/commander #format/edh #color/red #color/black
 
----
+## Commander
+- `RB` [[Kragma Warcaller]] x1 | Legendary Creature - Minotaur Warrior (menace lord + anthem effect)
 
-## 📊 Strategy Overview
-
-This deck operates in three phases:
-
-### Phase 1 - Early Stabilization (Turns 1-3)
-- Mana acceleration (ramp creatures)
-- Cheap removal
-- Creatures that trade favorably
-
-Key Cards:
-- [[Llanowar Elves]]
-- [[Golden Hind]]
-- [[Zhur-Taa Druid]]
-- [[Magma Spray]]
-- [[Searing Blood]]
-
-### Phase 2 - Board Control (Turns 3-5)
-- Build a wall of deathtouch blockers
-- Play Minotaur synergy pieces
-- Control through removal
-
-Key Cards:
-- [[Rageblood Shaman]]
-- [[Kragma Warcaller]]
-- [[Felhide Petrifier]]
-- [[Deadly Recluse]]
-- [[Beast Within]]
-
-### Phase 3 - Finish the Game (Turn 6+)
-- Deploy massive trampling threats
-- Overwhelm with evasion + deathtouch combo
-
-Key Cards:
-- [[Deus of Calamity]]
-- [[Spawn of Thraxes]]
-- [[Polukranos, World Eater]]
+## Deck Information
+- **Format:** Commander (100 cards, 1 commander + 99 cards)
+- **Focus Colors:** Red / Black (Rakdos)
+- **Strategy:** Minotaur tribal synergy + aggressive lords + removal control
+- **Status:** Optimized EDH Build
 
 ---
 
-## 🪲 CREATURES (28)
+## 🪲 CREATURES (32)
 
-| Card | Qty | Role | Notes |
-|------|-----|------|-------|
-| [[Llanowar Elves]] | 1 | Ramp | Turn 1 acceleration |
-| [[Golden Hind]] | 1 | Ramp | Defense + mana |
-| [[Zhur-Taa Druid]] | 1 | Ramp | Gruul synergy |
-| [[Priest of Titania]] | 1 | Ramp | Elf lord synergy |
-| [[Deadly Recluse]] | 1 | Wall | Deathtouch blocker |
-| [[Gatekeeper of Malakir]] | 2 | Control | Removal creature |
-| [[Pensive Minotaur]] | 1 | Filler | **CONSIDER CUTTING** |
-| [[Borderland Minotaur]] | 1 | Filler | **CONSIDER CUTTING** |
-| [[Flurry of Horns]] | 1 | Filler | **CONSIDER CUTTING** |
-| [[Deathbellow Raider]] | 1 | Minotaur | Tribal synergy |
-| [[Gorehorn Minotaurs]] | 1 | Minotaur | Conditional, meh |
-| [[Rageblood Shaman]] | 1 | Anthem | Core piece: +1/+2, first strike |
-| [[Kragma Warcaller]] | 1 | Anthem | Game-ending swing |
-| [[Felhide Petrifier]] | 1 | Control | Deathtouch disruptor |
-| [[Satyr Hedonist]] | 1 | Ramp | Light ramp |
-| [[Polukranos, World Eater]] | 1 | Finisher | One-sided board wipe |
-| [[Deus of Calamity]] | 1 | Finisher | Devastating with trample |
-| [[Spawn of Thraxes]] | 1 | Finisher | Mass damage + evasion |
-| [[Crater Hellion]] | 0 | Finisher | **RECOMMEND ADDING** |
+#### Minotaurs (20)
+- `R` [[Deathbellow Raider]] x1 | Creature - Minotaur Berserker
+- `R` [[Pensive Minotaur]] x1 | Creature - Minotaur Warrior
+- `R` [[Borderland Minotaur]] x1 | Creature - Minotaur Warrior
+- `R` [[Gorehorn Minotaurs]] x1 | Creature - Minotaur Warrior
+- `R` [[Rageblood Shaman]] x1 | Creature - Minotaur Shaman
+- `R` [[Minotaur Skullcleaver]] x1 | Creature - Minotaur Berserker
+- `B` [[Felhide Petrifier]] x1 | Creature - Minotaur Warrior
+- `B` [[Felhide Brawler]] x1 | Creature - Minotaur
+- `B` [[Warchanter of Mogis]] x1 | Creature - Minotaur Shaman
+- `RB` [[Kragma Warcaller]] x1 | Creature - Minotaur Warrior (COMMANDER)
+- `RB` [[Ragemonger]] x1 | Creature - Minotaur Shaman (alt commander)
 
-**Creatures: 19 in library + 9 recommended = 28 total**
-
----
-
-## ⚡ INSTANTS (8)
-
-| Card | Qty | Color | Purpose |
-|------|-----|-------|---------|
-| [[Magma Spray]] | 1 | R | Early removal |
-| [[Searing Blood]] | 2 | R | Efficient removal |
-| [[Beast Within]] | 1 | G | Creature removal |
-| [[Prey Upon]] | 1 | G | Fight spell |
-| [[Terminate]] | 2 | BR | Key removal |
-| [[Bone Charm]] | 1 | B | Versatile removal |
-
-**Instants: 8 cards**
+#### Supporting Creatures (12)
+- `R` [[Firebrand Archer]] x1 | Creature - Human Archer
+- `R` [[Fanatical Firebrand]] x1 | Creature - Goblin Pirate
+- `R` [[Guttersnipe]] x1 | Creature - Goblin Shaman
+- `R` [[Heartfire Immolator]] x1 | Creature - Human Wizard
+- `B` [[Midnight Reaper]] x1 | Creature - Zombie Knight
+- `B` [[Marauding Blight-Priest]] x1 | Creature - Vampire Cleric
+- `B` [[Kalastria Highborn]] x1 | Creature - Vampire Shaman
+- `RB` [[Garna, Bloodfist of Keld]] x1 | Creature - Human Berserker
+- `RB` [[Immersturm Predator]] x1 | Creature - Vampire Dragon
+- `RB` [[Perforating Artist]] x1 | Creature - Devil
+- `C` [[Meteor Golem]] x1 | Artifact Creature - Golem
 
 ---
 
-## 📜 SORCERIES (10)
+## ⚡ REMOVAL (14)
 
-| Card | Qty | Color | Purpose |
-|------|-----|-------|---------|
-| [[Kodama's Reach]] | 2 | G | Core ramp |
-| [[Cultivate]] | 1 | G | **RECOMMEND ADDING** |
-| [[Harmonize]] | 1 | G | **RECOMMEND ADDING** |
-| [[Sign in Blood]] | 1 | B | **RECOMMEND ADDING** |
-| [[Rishkar's Expertise]] | 1 | G | **RECOMMEND ADDING** |
-| [[Blasphemous Act]] | 1 | R | **RECOMMEND ADDING** |
+### Red Instants (6)
+- `R` [[Magma Spray]] x1 | Instant
+- `R` [[Searing Blood]] x1 | Instant
+- `R` [[Burst Lightning]] x1 | Instant
+- `R` [[Volt Charge]] x1 | Instant
+- `R` [[Abrade]] x1 | Instant
+- `R` [[Shower of Sparks]] x1 | Instant
 
-**Sorceries: 2 in library + 8 recommended**
+### Red Sorceries (4)
+- `R` [[Flurry of Horns]] x1 | Sorcery
+- `R` [[Dragon Fodder]] x1 | Sorcery
+- `R` [[Rollick of Abandon]] x1 | Sorcery
+- `R` [[Crash Through]] x1 | Sorcery
 
----
+### Black Instants (2)
+- `B` [[Moment of Craving]] x1 | Instant
+- `B` [[Hero's Downfall]] x1 | Instant
 
-## ⚙️ MANA ROCKS & RAMP (10)
-
-| Card | Qty | Type |
-|------|-----|------|
-| [[Sol Ring]] | 1 | Mana |
-| [[Arcane Signet]] | 1 | Mana |
-| [[Golgari Signet]] | 1 | Mana (recommend) |
-| [[Gruul Signet]] | 1 | Mana (recommend) |
-| [[Rakdos Signet]] | 1 | Mana (recommend) |
-| [[Fellwar Stone]] | 1 | Mana (recommend) |
-
-**Ramp Total: 6 cards**
+### Black Sorceries (2)
+- `B` [[Feed the Swarm]] x1 | Sorcery
+- `B` [[Duress]] x1 | Sorcery
 
 ---
 
-## ✨ ENCHANTMENTS (2)
+## ⚙️ ENCHANTMENTS & UTILITY (6)
 
-| Card | Qty |
-|------|-----|
-| [[Basilisk Collar]] | 1 | **RECOMMEND ADDING** |
-| [[Bow of Nylea]] | 1 | **RECOMMEND ADDING** |
+- `R` [[Impact Tremors]] x1 | Enchantment
+- `R` [[Gratuitous Violence]] x1 | Enchantment
+- `B` [[Vampiric Rites]] x1 | Enchantment
+- `B` [[Demonic Pact]] x1 | Enchantment
+- `RB` [[Deadly Brew]] x1 | Sorcery
+- `RB` [[Heroic Reinforcements]] x1 | Sorcery
 
 ---
 
-## 🏔️ LANDS (37-39)
+## 🔧 MANA ACCELERATION (6)
+
+- `C` [[Sol Ring]] x1 | Artifact
+- `C` [[Arcane Signet]] x1 | Artifact
+- `RB` [[Klaggan Warlord]] → Use dual-color signet instead
+- `C` [[Hedron Archive]] x1 | Artifact
+- `C` [[Heraldic Banner]] x1 | Artifact
+- `C` [[Dragon Blood]] x1 | Artifact
+
+---
+
+## 🏔️ LANDS (37)
 
 ### Special Lands (7)
-- [[Command Tower]] x 1
-- [[Exotic Orchard]] x 1
-- [[Savage Lands]] x 1
-- [[Path of Ancestry]] x 1
-- [[Skarrg, the Rage Pits]] x 1 (**Recommend**)
-- [[Forbidden Ruins]] x 1
+- `RB` [[Temple of Malice]] x1
+- `C` [[Command Tower]] x1
+- `C` [[Exotic Orchard]] x1
+- `C` [[Evolving Wilds]] x2
+- `C` [[Rogue's Passage]] x1
+- `C` [[Cryptic Caves]] x1
 
-### Basic Lands (30-32)
-- Forest x 13
-- Mountain x 10
-- Swamp x 7-9
-
-**Total Lands: 37-39**
+### Basic Lands (30)
+- `R` [[Mountain]] x15
+- `B` [[Swamp]] x15
 
 ---
 
-## 🎯 Cards to REMOVE
-
-The following cards dilute tribal focus and should be cut:
-
-Priority Cuts:
-- ❌ [[Pensive Minotaur]] (vanilla, no synergy)
-- ❌ [[Borderland Minotaur]] (vanilla, no synergy)
-- ❌ [[Flurry of Horns]] (weak rate: 5 mana for two 2/3s)
-- ❌ [[Gorehorn Minotaurs]] (conditional, underwhelming)
-
-Optional Cuts:
-- 🔶 [[Satyr Hedonist]] (unless full ramp commit)
-- 🔶 Random non-synergy enchantments
+## Win Conditions
+1. **Tribal Lords** - Kragma Warcaller + Rageblood Shaman pump minotaurs to lethal
+2. **Menace Evasion** - Kragma uncounterable + menace makes attacking profitable
+3. **Sacrifice Loop** - Midnight Reaper/Marauding Blight-Priest drain via token copies
+4. **Burn Package** - Impact Tremors + token generation drain opponent
+5. **Combat Damage** - Aggressive minotaur swing with lord pump
 
 ---
-
-## 🔧 High-Priority Additions
-
-### Removal/Control
-- [[Putrefy]] (flexible removal)
-- [[Toxic Deluge]] (nuclear board wipe, if budget allows)
-- [[Ohran Frostfang]] (equipment deathtouch)
-- [[Glissa Sunslayer]] (creature removal + evasion)
-
-### Big Finishers
-- [[Xenagos, God of Revels]] (doubles strike)
-- [[Pathbreaker Ibex]] (instant overrun)
-- [[Ghalta, Primal Hunger]] (uncheatable 12/13)
-
-### Card Draw
-- [[Read the Bones]] (B card draw)
-- [[Rishkar's Expertise]] (big creatures draw cards)
-
----
-
-## 📈 Planeswalker Options
-
-If you acquire these, they fit the strategy:
-
-- **Garruk, Cursed Huntsman** (wolves + draw)
-- **Domri, Anarch of Bolas** (creature ramp + fight)
-- **Vraska, Golgari Queen** (sac outlet + removal)
-
----
-
-## 📋 Testing Notes
-
-### What Works
-- Rageblood Shaman creates unstoppable board
 - Deathtouch + trample is defensive AND offensive
 - Polukranos becomes a one-card board wipe
 
