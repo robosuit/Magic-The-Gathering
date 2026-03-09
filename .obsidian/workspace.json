@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Card Inventory.md",
+                "file": "Decks/Artifact Infinite Draw (100) (EDH).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Card Inventory"
+              "title": "Artifact Infinite Draw (100) (EDH)"
             }
           }
         ]
@@ -186,6 +186,8 @@
   },
   "active": "9e70f81943b4fc3f",
   "lastOpenFiles": [
+    "Decks/Alisaie & Alphinaud Artifacts (100) (EDH).md",
+    "Cards/Card Inventory.md",
     "Decks/Artifact Infinite Draw (100) (EDH).md",
     "Decks/Orzhov Token Swarm (100) (EDH).md",
     "Photos/PXL_20260309_120706114.MP.jpg",
@@ -220,7 +222,6 @@
     "Photos/Mixed-Additions",
     "Photos/Colorless",
     "Photos/_analysis",
-    "Cards/Card Inventory.md",
     "QUICK START.md",
     "Wishclaw Talisman.md",
     "Indexes/Types.md",

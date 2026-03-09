@@ -13,13 +13,19 @@ Tags: #deck/commander #format/edh #color/blue #color/colorless
 - `U` [[Alphinaud Leveilleur]] x1
 - `U` [[Erudite Wizard]] x1
 - `U` [[Tolarian Terror]] x1
-- `U` [[Mischievous Mystic]] x2
-- `U` [[Thassa's Devourer]] x2
-- `U` [[Brineborn Cutthroat]] x2
-- `U` [[Spectral Sailor]] x2
+- `U` [[Mischievous Mystic]] x1
+- `U` [[Thassa's Devourer]] x1
+- `U` [[Brineborn Cutthroat]] x1
+- `U` [[Spectral Sailor]] x1
 - `U` [[Tempest Djinn]] x1
 - `U` [[Sphinx of the Final Word]] x1
-- `U` [[Opt]] x3
+- `U` [[Opt]] x1
+- `U` [[Think Twice]] x1
+- `U` [[Into the Roil]] x1
+- `U` [[Essence Scatter]] x1
+- `U` [[Dive Down]] x1
+- `U` [[Refute]] x1
+- `U` [[Uncharted Voyage]] x1
 
 ## Colorless Artifact Creatures (14)
 - `C` [[Adaptive Automaton]] x1
@@ -51,24 +57,22 @@ Tags: #deck/commander #format/edh #color/blue #color/colorless
 - `C` [[Wishclaw Talisman]] x1
 - `C` [[Mind Stone]] x1
 - `C` [[Gruul Signet]] x1
-- `C` [[Gleaming Barrier]] x1
 - `C` [[Fog Bank]] x1
 - `C` [[Bigfin Bouncer]] x1
 - `C` [[Micromancer]] x1
 - `C` [[Voracious Greatshark]] x1
 - `C` [[Strix Lookout]] x1
-- `C` [[Unsummon]] x1
-- `C` [[Run Away Together]] x1
+- `C` [[Dictate of Kruphix]] x1
+- `C` [[Extravagant Replication]] x1
+- `C` [[Pin to the Earth]] x1
 
-## Blue Instants & Utility (10)
-- `U` [[Think Twice]] x2
-- `U` [[Into the Roil]] x1
-- `U` [[Essence Scatter]] x2
-- `U` [[Dive Down]] x1
-- `U` [[Refute]] x1
-- `U` [[Uncharted Voyage]] x1
+## Blue Instants & Utility (6)
 - `U` [[Time Stop]] x1
 - `U` [[River's Rebuke]] x1
+- `U` [[Mystical Teachings]] x1
+- `U` [[Kiora's Dismissal]] x1
+- `U` [[Faebloom Trick]] x1
+- `U` [[Unsummon]] x1
 
 ## Lands (34)
 - `U` [[Island]] x21
@@ -81,15 +85,25 @@ Tags: #deck/commander #format/edh #color/blue #color/colorless
 - `C` [[Maze's End]] x1
 - `C` [[Evolving Wilds]] x2
 - `C` [[Path of Ancestry]] x1
+- `C` [[Secluded Courtyard1
+- `C` [[Path of Ancestry]] x1
 - `C` [[Secluded Courtyard]] x1
 - `C` [[Temple of Mystery]] x1
 - `C` [[Temple of Epiphany]] x1
 
 ---
 
-**Card Count:** 18 + 14 + 24 + 10 + 34 = 100 ✓
+**Card Count:** 18 + 14 + 24 + 6 + 34 = 96
 
-## Strategy:
+## Additional Cards (4)
+- `C` [[Confiscate]] x1
+- `C` [[Deep Freeze]] x1
+- `U` [[Chart a Course]] x1
+- `U` [[Rite of Replication]] x1
+
+---
+
+**Final Card Count:** 18 + 14 + 24 + 6 + 4 + 34 = 100 ✓
 
 **Draw & Mana Engine:**
 - Ramos generates color and provides mana ramp
