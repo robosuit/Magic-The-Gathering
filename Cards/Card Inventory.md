@@ -71,6 +71,7 @@
 - [[Beast Within]] x1 | Green | Instant | - | #color/green #type/instant
 - [[Bite Down]] x1 | Green | Instant | - | #color/green #type/instant
 - [[Giant Growth]] x2 | Green | Instant | - | #color/green #type/instant
+- [[Invigorate]] x1 | Green | Instant | - | #color/green #type/instant
 
 #### Sorceries
 - [[Prey Upon]] x2 | Green | Sorcery | - | #color/green #type/sorcery
@@ -138,6 +139,14 @@
 - [[Fanatic of Mogis]] x1 | Red | Creature | Minotaur Shaman | #color/red #type/creature #creature-type/minotaur #creature-type/shaman
 - [[Lathliss, Dragon Queen]] x1 | Red | Legendary Creature | Dragon | #color/red #type/creature #creature-type/dragon
 - [[Conquering Manticore]] x1 | Red | Creature | Manticore | #color/red #type/creature #creature-type/manticore
+- [[Hellkite Whelp]] x1 | Red | Creature | Dragon | #color/red #type/creature #creature-type/dragon
+- [[Fearless Halberdier]] x3 | Red | Creature | Human Warrior | #color/red #type/creature #creature-type/human #creature-type/warrior
+- [[Nimble Birdsticker]] x2 | Red | Creature | Goblin | #color/red #type/creature #creature-type/goblin
+- [[Hostile Minotaur]] x2 | Red | Creature | Minotaur | #color/red #type/creature #creature-type/minotaur
+- [[Daggersail Aeronaut]] x2 | Red | Creature | Goblin | #color/red #type/creature #creature-type/goblin
+- [[Immortal Phoenix]] x1 | Red | Creature | Phoenix | #color/red #type/creature #creature-type/phoenix
+- [[Fire Elemental]] x1 | Red | Creature | Elemental | #color/red #type/creature #creature-type/elemental
+- [[Drakuseth, Maw of Flames]] x1 | Red | Legendary Creature | Dragon | #color/red #type/creature #creature-type/dragon
 
 #### Instants
 - [[Abrade]] x1 | Red | Instant | - | #color/red #type/instant
@@ -151,6 +160,8 @@
 - [[Thrill of Possibility]] x1 | Red | Instant | - | #color/red #type/instant
 - [[Hidetsugu's Second Rite]] x1 | Red | Instant | - | #color/red #type/instant
 - [[Infuriate]] x1 | Red | Instant | - | #color/red #type/instant
+- [[Infuriate]] x2 | Red | Instant | - | #color/red #type/instant
+- [[Sure Strike]] x2 | Red | Instant | - | #color/red #type/instant
 
 #### Sorceries
 - [[Pyroclasm]] x1 | Red | Sorcery | - | #color/red #type/sorcery
@@ -161,6 +172,11 @@
 - [[Harmless Offering]] x1 | Red | Sorcery | - | #color/red #type/sorcery
 - [[Pinnacle of Rage]] x1 | Red | Sorcery | - | #color/red #type/sorcery
 - [[Seismic Rupture]] x1 | Red | Sorcery | - | #color/red #type/sorcery
+- [[Shock]] x3 | Red | Instant | - | #color/red #type/instant
+- [[Tecionic Rift]] x1 | Red | Sorcery | - | #color/red #type/sorcery
+- [[Engulfing Eruption]] x3 | Red | Sorcery | - | #color/red #type/sorcery
+- [[Chandra's Outburst]] x1 | Red | Sorcery | - | #color/red #type/sorcery
+- [[Lightning of Combustion]] x1 | Red | Instant | - | #color/red #type/instant
 - [[Obliterating Bolt]] x1 | Red | Sorcery | - | #color/red #type/sorcery
 - [[Crash Through]] x1 | Red | Sorcery | - | #color/red #type/sorcery
 
@@ -199,6 +215,7 @@
 - [[Tempest Djinn]] x1 | Blue | Creature | Djinn | #color/blue #type/creature #creature-type/djinn
 - [[Voracious Greatshark]] x1 | Blue | Creature | Shark | #color/blue #type/creature #creature-type/shark
 - [[Strix Lookout]] x1 | Blue | Creature | Bird | #color/blue #type/creature #creature-type/bird
+- [[Jill, Shiva's Dominant]] x1 | Blue | Legendary Creature | Human Noble Warrior | #color/blue #type/creature #creature-type/human #creature-type/noble #creature-type/warrior
 
 #### Instants
 - [[Opt]] x3 | Blue | Instant | - | #color/blue #type/instant
@@ -258,6 +275,19 @@
 - [[Zetalpa, Primal Dawn]] x1 | White | Creature | Elder Dinosaur | #color/white #type/creature #creature-type/elder #creature-type/dinosaur
 - [[Linden, the Steadfast Queen]] x1 | White | Creature | Human Noble | #color/white #type/creature #creature-type/human #creature-type/noble
 - [[Lyra Dawnbringer]] x1 | White | Creature | Angel | #color/white #type/creature #creature-type/angel
+- [[Bastion Enforcer]] x3 | White | Creature | Dwarf Soldier | #color/white #type/creature #creature-type/dwarf #creature-type/soldier
+- [[Hazda Officer]] x3 | White | Creature | Human Soldier | #color/white #type/creature #creature-type/human #creature-type/soldier
+- [[Dawning Angel]] x2 | White | Creature | Angel | #color/white #type/creature #creature-type/angel
+- [[Inspiring Unicorn]] x2 | White | Creature | Unicorn | #color/white #type/creature #creature-type/unicorn
+- [[Loxodon Lifechanter]] x1 | White | Creature | Elephant Cleric | #color/white #type/creature #creature-type/elephant #creature-type/cleric
+- [[Prowling Caracal]] x2 | White | Creature | Cat | #color/white #type/creature #creature-type/cat
+- [[Concordia Pegasus]] x2 | White | Creature | Pegasus | #color/white #type/creature #creature-type/pegasus
+- [[Trusted Pegasus]] x2 | White | Creature | Pegasus | #color/white #type/creature #creature-type/pegasus
+- [[Serra's Guardian]] x1 | White | Creature | Angel | #color/white #type/creature #creature-type/angel
+- [[Sephara, Sky's Blade]] x1 | White | Legendary Creature | Angel | #color/white #type/creature #creature-type/angel
+- [[Angelic Guardian]] x1 | White | Creature | Angel | #color/white #type/creature #creature-type/angel
+- [[Imperial Outrider]] x1 | White | Creature | Human Knight | #color/white #type/creature #creature-type/human #creature-type/knight
+- [[Intrusive Packbeast]] x1 | White | Creature | Beast | #color/white #type/creature #creature-type/beast
 
 #### Instants
 - [[Ajani's Presence]] x2 | White | Instant | - | #color/white #type/instant
@@ -269,9 +299,13 @@
 - [[Valorous Stance]] x1 | White | Instant | - | #color/white #type/instant
 - [[Make a Stand]] x1 | White | Instant | - | #color/white #type/instant
 - [[Phalanx Formation]] x1 | White | Instant | - | #color/white #type/instant
+- [[Show of Valor]] x3 | White | Instant | - | #color/white #type/instant
+- [[Righteous Blow]] x2 | White | Instant | - | #color/white #type/instant
 
 #### Sorceries
 - [[Fumigate]] x1 | White | Sorcery | - | #color/white #type/sorcery
+- [[Take Vengeance]] x3 | White | Sorcery | - | #color/white #type/sorcery
+- [[Bond of Discipline]] x2 | White | Sorcery | - | #color/white #type/sorcery
 - [[Devout Decree]] x1 | White | Sorcery | - | #color/white #type/sorcery
 - [[Release the Dogs]] x1 | White | Sorcery | - | #color/white #type/sorcery
 
@@ -279,9 +313,12 @@
 - [[Banishing Light]] x1 | White | Enchantment | - | #color/white #type/enchantment
 - [[Felidar Retreat]] x1 | White | Enchantment | - | #color/white #type/enchantment
 - [[Angelic Destiny]] x1 | White | Enchantment | - | #color/white #type/enchantment
+- [[Conclave Tribunal]] x1 | White | Enchantment | - | #color/white #type/enchantment
+- [[Inspired Charge]] x1 | White | Instant | - | #color/white #type/instant
 - [[Twinblade Blessing]] x1 | White | Enchantment | - | #color/white #type/enchantment
 - [[Stasis Snare]] x2 | White | Enchantment | - | #color/white #type/enchantment
 - [[Oppressive Rays]] x1 | White | Enchantment | - | #color/white #type/enchantment
+- [[Intangible Virtue]] x1 | White | Enchantment | - | #color/white #type/enchantment
 
 
 ---
@@ -387,6 +424,8 @@
 - [[Valley Rannet]] x2 | Red / Green | Creature | Beast | #color/red #color/green #color/multi #type/creature #creature-type/beast
 - [[Skarrgan Skybreaker]] x1 | Red / Green | Creature | Giant Shaman | #color/red #color/green #color/multi #type/creature #creature-type/giant #creature-type/shaman
 - [[Skarrgan Savage]] x1 | Red / Green | Creature | Centaur Berserker | #color/red #color/green #color/multi #type/creature #creature-type/centaur #creature-type/berserker
+- [[Tithe Drinker]] x1 | White / Black | Creature | Vampire | #color/white #color/black #color/multi #type/creature #creature-type/vampire
+- [[Zurgo, Thunder's Decree]] x1 | Red / White | Legendary Creature | Orc Warrior | #color/white #color/red #color/multi #type/creature #creature-type/orc #creature-type/warrior
 
 #### Instants
 - [[Teach by Example]] x1 | Blue / Red | Instant | - | #color/blue #color/red #color/multi #type/instant
@@ -394,11 +433,13 @@
 - [[Destructive Revelry]] x1 | Red / Green | Instant | - | #color/red #color/green #color/multi #type/instant
 - [[Boros Charm]] x1 | Red / White | Instant | - | #color/white #color/red #color/multi #type/instant
 - [[Terminate]] x1 | Black / Red | Instant | - | #color/black #color/red #color/multi #type/instant
+- [[Soul Manipulation]] x1 | Blue / Black | Instant | - | #color/blue #color/black #color/multi #type/instant
 
 #### Sorceries
 - [[Maelstrom Pulse]] x1 | Black / Green | Sorcery | - | #color/black #color/green #color/multi #type/sorcery
 - [[Heroic Reinforcements]] x1 | Red / White | Sorcery | - | #color/white #color/red #color/multi #type/sorcery
 - [[Deadly Brew]] x1 | Black / Green | Sorcery | - | #color/black #color/green #color/multi #type/sorcery
+- [[March from the Tomb]] x1 | White / Black | Sorcery | - | #color/white #color/black #color/multi #type/sorcery
 
 #### Enchantments
 - [[Thunder of Unity]] x1 | Red / White | Enchantment | - | #color/white #color/red #color/multi #type/enchantment
@@ -437,6 +478,7 @@
 - [[Steel Hellkite]] x1 | Colorless | Artifact Creature | Dragon | #color/colorless #type/artifact #type/creature #creature-type/dragon
 - [[Three Tree Mascot]] x1 | Colorless | Artifact Creature | Shapeshifter | #color/colorless #type/artifact #type/creature #creature-type/shapeshifter
 - [[Ultima, Origin of Oblivion]] x1 | Colorless | Legendary Artifact Creature | God | #color/colorless #type/artifact #type/creature #creature-type/god
+- [[Mindless Automaton]] x1 | Colorless | Artifact Creature | Construct | #color/colorless #type/artifact #type/creature #creature-type/construct
 
 #### Artifacts
 - [[Arcane Signet]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
@@ -449,6 +491,8 @@
 - [[Gilded Lotus]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
 - [[Hedron Archive]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
 - [[Heraldic Banner]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
+- [[Gruul Signet]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
+- [[Mind Stone]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
 - [[Mazemind Tome]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
 - [[Orzhov Signet]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
 - [[Pyromancer's Goggles]] x1 | Colorless | Legendary Artifact | - | #color/colorless #type/artifact
@@ -496,6 +540,15 @@
 - [[Demolition Field]] x1 | Colorless | Land | - | #color/colorless #type/land
 - [[Crawling Barrens]] x1 | Colorless | Land | - | #color/colorless #type/land
 - [[Rogue's Passage]] x1 | Colorless | Land | - | #color/colorless #type/land
+- [[Ash Barrens]] x1 | Colorless | Land | - | #color/colorless #type/land
+- [[Temple of the False God]] x1 | Colorless | Land | - | #color/colorless #type/land
+
+#### Dual-Color Lands (Additional)
+- [[Nomad Outpost]] x2 | Red / White / Black | Land | - | #color/white #color/red #color/black #color/multi #type/land
+- [[Sandsteppe Citadel]] x1 | White / Black / Green | Land | - | #color/white #color/black #color/green #color/multi #type/land
+- [[Tranquil Cove]] x1 | Blue / White | Land | - | #color/blue #color/white #color/multi #type/land
+- [[Thriving Moor]] x1 | Black / Green | Land | - | #color/black #color/green #color/multi #type/land
+- [[Portentous Vein]] x1 | Black / Red | Land | - | #color/black #color/red #color/multi #type/land
 
 </details>
 

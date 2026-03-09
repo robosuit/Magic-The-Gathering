@@ -7,10 +7,12 @@ Tags: #deck/commander #format/edh #color/white #color/black
 
 ---
 
-## White Cards (24)
-- `W` [[Savannah Lions]] x1
+## White Cards (27)
+- `W` [[Sephara, Sky's Blade]] x1
+- `W` [[Intangible Virtue]] x1
 - `W` [[Angel of Finality]] x1
-- `W` [[Resolute Reinforcements]] x1
+- `W` [[Bastion Enforcer]] x1
+- `W` [[Hazda Officer]] x1
 - `W` [[Charming Prince]] x1
 - `W` [[Cat Collector]] x1
 - `W` [[Mentor of the Meek]] x1
@@ -21,7 +23,6 @@ Tags: #deck/commander #format/edh #color/white #color/black
 - `W` [[Hinterland Sanctifier]] x1
 - `W` [[Dawnwing Marshal]] x1
 - `W` [[Archway Angel]] x1
-- `W` [[Knight of Grace]] x1
 - `W` [[Crusader of Odric]] x1
 - `W` [[Linden, the Steadfast Queen]] x1
 - `W` [[Lyra Dawnbringer]] x1
@@ -32,9 +33,11 @@ Tags: #deck/commander #format/edh #color/white #color/black
 - `W` [[Make a Stand]] x1
 - `W` [[Stasis Snare]] x1
 - `W` [[Banishing Light]] x1
+- `W` [[Show of Valor]] x1
+- `W` [[Righteous Blow]] x1
 
 ## Black Cards (23)
-- `B` [[Midnight Reaper]] x1
+- `B` [[Tithe Drinker]] x1
 - `B` [[Marauding Blight-Priest]] x1
 - `B` [[Desecration Demon]] x1
 - `B` [[Infestation Sage]] x1
@@ -75,21 +78,43 @@ Tags: #deck/commander #format/edh #color/white #color/black
 - `C` [[Hedron Archive]] x1
 - `C` [[Sol Ring]] x1
 
-## Lands (37)
-- `W` [[Plains]] x17
-- `B` [[Swamp]] x16
+## Lands (34)
+- `W` [[Plains]] x15
+- `B` [[Swamp]] x15
 - `WB` [[Temple of Silence]] x2
 - `C` [[Command Tower]] x1
 - `C` [[Exotic Orchard]] x1
 
 ---
 
-**Card Count: 24 + 23 + 7 + 6 + 37 = 97
-Needs 2 more cards - add to Black:**
+**Card Count: 27 + 23 + 7 + 6 + 34 = 97**
 
-Adding 2 more to Black:
-- `B` [[Rank Officer]] x1
-- `B` [[Night's Whisper]] x1
+Add 3 more:
+- `WB` [[Zealous Persecution]] x2 → Zealous Persecution x2 + 1 extra [[Temple of Silence]]
 
-**Revised Card Count: 24 + 25 + 7 + 6 + 37 = 99 + 1 Commander = 100 ✓**
+## Updated Lands
+- `W` [[Plains]] x16
+- `B` [[Swamp]] x16  
+- `WB` [[Temple of Silence]] x3
+- `C` [[Command Tower]] x1
+- `C` [[Exotic Orchard]] x1
+
+**Final Card Count: 27 + 23 + 7 + 6 + 37 = 100** ✓
+
+## Analysis & Recommendations:
+
+**Commander Options:**
+- Current: [[Ayli, Eternal Pilgrim]] - Functional but better for aristocrat/sacrifice strategies
+- Alternative: [[Sephara, Sky's Blade]] - Flying lord, better for token synergy (now in deck as key creature)
+
+**Token Generation Notes:** 
+The new batch doesn't include token generators. Your inventory is light on dedicated token-creation cards (cards with "create a token" effects). To improve token generation, look for Orzhov/multicolor cards with explicit token creation abilities in future additions.
+
+**Recent Upgrades:**
+- ✅ Sephara, Sky's Blade (flying lord, legendary)
+- ✅ Bastion Enforcer (soldier synergy)
+- ✅ Hazda Officer (soldier support)
+- ✅ Show of Valor (flexible instant)
+- ✅ Righteous Blow (efficient removal)
+- Added 1 extra Temple of Silence (dual land fixing)
 

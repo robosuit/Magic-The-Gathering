@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decks/Orzhov Token Swarm (100) (EDH).md",
-                "mode": "source",
+                "file": "Cards/Card Inventory.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orzhov Token Swarm (100) (EDH)"
+              "title": "Card Inventory"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7f9783e630a6dd16",
@@ -186,11 +186,24 @@
   },
   "active": "9e70f81943b4fc3f",
   "lastOpenFiles": [
+    "Decks/Artifact Infinite Draw (100) (EDH).md",
+    "Decks/Orzhov Token Swarm (100) (EDH).md",
+    "Photos/PXL_20260309_120706114.MP.jpg",
+    "Photos/PXL_20260309_120702775.MP.jpg",
+    "Photos/PXL_20260309_120549328.MP.jpg",
+    "Photos/PXL_20260309_120546214.MP.jpg",
+    "Photos/PXL_20260309_120540981.MP.jpg",
+    "Photos/PXL_20260309_120101944.MP.jpg",
+    "Photos/PXL_20260309_115954635.MP.jpg",
+    "Photos/PXL_20260309_115951985.MP.jpg",
+    "Photos/PXL_20260309_115948060.MP.jpg",
+    "Photos/PXL_20260309_115729930.MP.jpg",
+    "Photos/Lands",
+    "Photos/New folder",
     "Decks/Golgari Token Swarm (100) (EDH).md",
     "Decks/Boros Burn Aggro (100) (EDH).md",
     "Decks/Artifact Spell Storm (100) (EDH).md",
     "Decks/Jund Minotaur-Ramp Deck.md",
-    "Decks/Orzhov Token Swarm (100) (EDH).md",
     "Decks/Rakdos Minotaur Tribal (100) (EDH).md",
     "Decks/Green Creature Swarm (100) (EDH).md",
     "Decks/Abzan Token Swarm Commander.md",
@@ -204,18 +217,8 @@
     "Decks/Rakdos Minotaur Tribal Commander.md",
     "Decks/Jund Minotaur Ramp Commander.md",
     "Decks/Dimir Flash Reanimator 60.md",
-    "Photos/Mixed-Additions/PXL_20260306_183633257.jpg",
     "Photos/Mixed-Additions",
-    "Photos/Colorless/PXL_20260306_183629107.MP.jpg",
-    "Photos/Colorless/PXL_20260306_183531056.MP.jpg",
-    "Photos/Colorless/PXL_20260306_183527589.MP.jpg",
-    "Photos/Colorless/PXL_20260306_183523932.MP.jpg",
     "Photos/Colorless",
-    "Photos/_analysis/esper_crop2.jpg",
-    "Photos/_analysis/jaya_crop.jpg",
-    "Photos/_analysis/alphinaud_crop.jpg",
-    "Photos/_analysis/esper_crop.jpg",
-    "Photos/_analysis/center_right.jpg",
     "Photos/_analysis",
     "Cards/Card Inventory.md",
     "QUICK START.md",
@@ -226,8 +229,6 @@
     "Photos/_analysis/red-namebands.tsv",
     "Photos/_analysis/green-namebands.tsv",
     "Photos/_analysis/ocr-red.tsv",
-    "Photos/_analysis/PXL_20260306_151037695.MP",
-    "Photos/_analysis/PXL_20260306_151014288",
     "Apothecary Stomper.md",
     "Vayne Garudas Soldier.md"
   ]
