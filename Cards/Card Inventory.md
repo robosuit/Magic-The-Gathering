@@ -62,6 +62,7 @@
 - [[Crowned Ceratok]] x1 | Green | Creature | Rhino | #color/green #type/creature #creature-type/rhino
 - [[Pelakka Wurm]] x1 | Green | Creature | Wurm | #color/green #type/creature #creature-type/wurm
 - [[Krosan Tusker]] x1 | Green | Creature | Boar Beast | #color/green #type/creature #creature-type/boar #creature-type/beast
+- [[Gigantosaurus]] x1 | Green | Creature | Dinosaur | #color/green #type/creature #creature-type/dinosaur
 
 #### Instants
 - [[Snakeskin Veil]] x1 | Green | Instant | - | #color/green #type/instant
@@ -232,6 +233,9 @@
 - [[Dive Down]] x1 | Blue | Instant | - | #color/blue #type/instant
 - [[Refute]] x1 | Blue | Instant | - | #color/blue #type/instant
 - [[Aerial Formation]] x1 | Blue | Instant | - | #color/blue #type/instant
+- [[Negate]] x1 | Blue | Instant | - | #color/blue #type/instant
+- [[Refuge]] x1 | Blue | Instant | - | #color/blue #type/instant
+- [[Flashfreeze]] x1 | Blue | Instant | - | #color/blue #type/instant
 
 #### Sorceries
 - [[River's Rebuke]] x1 | Blue | Sorcery | - | #color/blue #type/sorcery
@@ -478,6 +482,7 @@
 - [[Steel Hellkite]] x1 | Colorless | Artifact Creature | Dragon | #color/colorless #type/artifact #type/creature #creature-type/dragon
 - [[Three Tree Mascot]] x1 | Colorless | Artifact Creature | Shapeshifter | #color/colorless #type/artifact #type/creature #creature-type/shapeshifter
 - [[Ultima, Origin of Oblivion]] x1 | Colorless | Legendary Artifact Creature | God | #color/colorless #type/artifact #type/creature #creature-type/god
+- [[Gate Colossus]] x1 | Colorless | Artifact Creature | Construct | #color/colorless #type/artifact #type/creature #creature-type/construct
 - [[Mindless Automaton]] x1 | Colorless | Artifact Creature | Construct | #color/colorless #type/artifact #type/creature #creature-type/construct
 
 #### Artifacts
@@ -526,6 +531,14 @@
 - [[Temple of Deceit]] x1 | Blue / Black | Land | - | #color/blue #color/black #color/multi #type/land
 - [[Temple of Abandon]] x1 | Red / Green | Land | - | #color/red #color/green #color/multi #type/land
 - [[Temple of Silence]] x1 | White / Black | Land | - | #color/white #color/black #color/multi #type/land
+- [[Bloodfell Caves]] x1 | Black / Red | Land | - | #color/black #color/red #color/multi #type/land
+- [[Blossoming Sands]] x1 | White / Green | Land | - | #color/white #color/green #color/multi #type/land
+- [[Jungle Hollow]] x1 | Black / Green | Land | - | #color/black #color/green #color/multi #type/land
+- [[Rugged Highlands]] x1 | Red / Green | Land | - | #color/red #color/green #color/multi #type/land
+- [[Scoured Barrens]] x1 | White / Black | Land | - | #color/white #color/black #color/multi #type/land
+- [[Swiftwater Cliffs]] x1 | Blue / Red | Land | - | #color/blue #color/red #color/multi #type/land
+- [[Thornwood Falls]] x1 | Blue / Green | Land | - | #color/blue #color/green #color/multi #type/land
+- [[Wind-Scarred Crag]] x1 | Red / White | Land | - | #color/white #color/red #color/multi #type/land
 
 #### Multi-Color and Utility Lands
 - [[Maze's End]] x1 | Multi-Color | Land | - | #color/multi #type/land
@@ -534,6 +547,16 @@
 - [[Evolving Wilds]] x2 | Multi-Color | Land | - | #color/multi #type/land
 - [[Command Tower]] x1 | Multi-Color | Land | - | #color/multi #type/land
 - [[Path of Ancestry]] x1 | Multi-Color | Land | - | #color/multi #type/land
+- [[Azorius Guildgate]] x1 | Multi-Color | Land | - | #color/multi #type/land
+- [[Boros Guildgate]] x1 | Multi-Color | Land | - | #color/multi #type/land
+- [[Dimir Guildgate]] x1 | Multi-Color | Land | - | #color/multi #type/land
+- [[Golgari Guildgate]] x1 | Multi-Color | Land | - | #color/multi #type/land
+- [[Gruul Guildgate]] x1 | Multi-Color | Land | - | #color/multi #type/land
+- [[Izzet Guildgate]] x1 | Multi-Color | Land | - | #color/multi #type/land
+- [[Orzhov Guildgate]] x1 | Multi-Color | Land | - | #color/multi #type/land
+- [[Rakdos Guildgate]] x1 | Multi-Color | Land | - | #color/multi #type/land
+- [[Selesnya Guildgate]] x1 | Multi-Color | Land | - | #color/multi #type/land
+- [[Simic Guildgate]] x1 | Multi-Color | Land | - | #color/multi #type/land
 
 #### Colorless Lands
 - [[Cryptic Caves]] x1 | Colorless | Land | - | #color/colorless #type/land
