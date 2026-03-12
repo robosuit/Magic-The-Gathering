@@ -63,6 +63,7 @@
 - [[Pelakka Wurm]] x1 | Green | Creature | Wurm | #color/green #type/creature #creature-type/wurm
 - [[Krosan Tusker]] x1 | Green | Creature | Boar Beast | #color/green #type/creature #creature-type/boar #creature-type/beast
 - [[Gigantosaurus]] x1 | Green | Creature | Dinosaur | #color/green #type/creature #creature-type/dinosaur
+- [[Sultai Devotee]] x1 | Green | Creature | Zombie Snake Druid | #color/green #type/creature #creature-type/zombie #creature-type/snake #creature-type/druid
 
 #### Instants
 - [[Snakeskin Veil]] x1 | Green | Instant | - | #color/green #type/instant
@@ -82,6 +83,7 @@
 - [[Kodama's Reach]] x1 | Green | Sorcery | - | #color/green #type/sorcery
 - [[Overrun]] x1 | Green | Sorcery | - | #color/green #type/sorcery
 - [[Circuitous Route]] x2 | Green | Sorcery | - | #color/green #type/sorcery
+- [[Cowabunga!]] x1 | Green | Sorcery | - | #color/green #type/sorcery
 
 #### Enchantments
 - [[Primeval Bounty]] x1 | Green | Enchantment | - | #color/green #type/enchantment
@@ -163,6 +165,7 @@
 - [[Infuriate]] x1 | Red | Instant | - | #color/red #type/instant
 - [[Infuriate]] x2 | Red | Instant | - | #color/red #type/instant
 - [[Sure Strike]] x2 | Red | Instant | - | #color/red #type/instant
+- [[Manhole Missile]] x1 | Red | Instant | - | #color/red #type/instant
 
 #### Sorceries
 - [[Pyroclasm]] x1 | Red | Sorcery | - | #color/red #type/sorcery
@@ -180,11 +183,16 @@
 - [[Lightning of Combustion]] x1 | Red | Instant | - | #color/red #type/instant
 - [[Obliterating Bolt]] x1 | Red | Sorcery | - | #color/red #type/sorcery
 - [[Crash Through]] x1 | Red | Sorcery | - | #color/red #type/sorcery
+- [[Wild Ride]] x1 | Red | Sorcery | - | #color/red #type/sorcery
 
 #### Enchantments
 - [[Lightning Diadem]] x1 | Red | Enchantment | - | #color/red #type/enchantment
 - [[Impact Tremors]] x1 | Red | Enchantment | - | #color/red #type/enchantment
 - [[Gratuitous Violence]] x1 | Red | Enchantment | - | #color/red #type/enchantment
+- [[Reverberating Summons]] x1 | Red | Enchantment | - | #color/red #type/enchantment
+
+#### Artifacts
+- [[Hard-Won Jitte]] x1 | Red | Artifact Equipment | - | #color/red #type/artifact #type/equipment
 
 #### Planeswalkers
 - [[Jaya, Fiery Negotiator]] x1 | Red | Planeswalker | - | #color/red #type/planeswalker
@@ -217,6 +225,8 @@
 - [[Voracious Greatshark]] x1 | Blue | Creature | Shark | #color/blue #type/creature #creature-type/shark
 - [[Strix Lookout]] x1 | Blue | Creature | Bird | #color/blue #type/creature #creature-type/bird
 - [[Jill, Shiva's Dominant]] x1 | Blue | Legendary Creature | Human Noble Warrior | #color/blue #type/creature #creature-type/human #creature-type/noble #creature-type/warrior
+- [[Iceridge Serpent]] x1 | Blue | Creature | Serpent | #color/blue #type/creature #creature-type/serpent
+- [[Stockman, Mad Fly-entist]] x1 | Blue | Legendary Creature | Insect Mutant Scientist | #color/blue #type/creature #creature-type/insect #creature-type/mutant #creature-type/scientist
 
 #### Instants
 - [[Opt]] x3 | Blue | Instant | - | #color/blue #type/instant
@@ -236,6 +246,7 @@
 - [[Negate]] x1 | Blue | Instant | - | #color/blue #type/instant
 - [[Refuge]] x1 | Blue | Instant | - | #color/blue #type/instant
 - [[Flashfreeze]] x1 | Blue | Instant | - | #color/blue #type/instant
+- [[Bewildering Blizzard]] x1 | Blue | Instant | - | #color/blue #type/instant
 
 #### Sorceries
 - [[River's Rebuke]] x1 | Blue | Sorcery | - | #color/blue #type/sorcery
@@ -292,6 +303,11 @@
 - [[Angelic Guardian]] x1 | White | Creature | Angel | #color/white #type/creature #creature-type/angel
 - [[Imperial Outrider]] x1 | White | Creature | Human Knight | #color/white #type/creature #creature-type/human #creature-type/knight
 - [[Intrusive Packbeast]] x1 | White | Creature | Beast | #color/white #type/creature #creature-type/beast
+- [[Descendant of Storms]] x1 | White | Creature | Human Soldier | #color/white #type/creature #creature-type/human #creature-type/soldier
+- [[High-Flying Ace]] x1 | White | Creature | Bird Mutant | #color/white #type/creature #creature-type/bird #creature-type/mutant
+- [[Leonardo, Big Brother]] x1 | White | Legendary Creature | Mutant Ninja Turtle | #color/white #type/creature #creature-type/mutant #creature-type/ninja #creature-type/turtle
+- [[Salt Road Packbeast]] x1 | White | Creature | Beast | #color/white #type/creature #creature-type/beast
+- [[Wayspeaker Bodyguard]] x1 | White | Creature | Orc Monk | #color/white #type/creature #creature-type/orc #creature-type/monk
 
 #### Instants
 - [[Ajani's Presence]] x2 | White | Instant | - | #color/white #type/instant
@@ -361,6 +377,10 @@
 - [[Driver of the Dead]] x1 | Black | Creature | Vampire | #color/black #type/creature #creature-type/vampire
 - [[Nadier's Nightblade]] x1 | Black | Creature | Elf Warrior | #color/black #type/creature #creature-type/elf #creature-type/warrior
 - [[Gatekeeper of Malakir]] x1 | Black | Creature | Vampire Warrior | #color/black #type/creature #creature-type/vampire #creature-type/warrior
+- [[Adorned Crocodile]] x1 | Black | Creature | Crocodile | #color/black #type/creature #creature-type/crocodile
+- [[Dream Beavers]] x1 | Black | Creature | Beaver Nightmare | #color/black #type/creature #creature-type/beaver #creature-type/nightmare
+- [[Oroku Saki, Shredder Rising]] x1 | Black | Legendary Creature | Human Ninja | #color/black #type/creature #creature-type/human #creature-type/ninja
+- [[Savanti Romero, Time's Exile]] x1 | Black | Legendary Creature | Demon Wizard | #color/black #type/creature #creature-type/demon #creature-type/wizard
 
 #### Instants
 - [[Feast of Dreams]] x1 | Black | Instant | - | #color/black #type/instant
@@ -388,6 +408,9 @@
 - [[Midnight Snack]] x1 | Black | Enchantment | - | #color/black #type/enchantment
 - [[Demonic Pact]] x1 | Black | Enchantment | - | #color/black #type/enchantment
 - [[Cast into Darkness]] x1 | Black | Enchantment | - | #color/black #type/enchantment
+
+#### Artifacts
+- [[Anchovy & Banana Pizza]] x1 | Black | Artifact Food | - | #color/black #type/artifact #type/food
 
 
 ---
@@ -430,6 +453,7 @@
 - [[Skarrgan Savage]] x1 | Red / Green | Creature | Centaur Berserker | #color/red #color/green #color/multi #type/creature #creature-type/centaur #creature-type/berserker
 - [[Tithe Drinker]] x1 | White / Black | Creature | Vampire | #color/white #color/black #color/multi #type/creature #creature-type/vampire
 - [[Zurgo, Thunder's Decree]] x1 | Red / White | Legendary Creature | Orc Warrior | #color/white #color/red #color/multi #type/creature #creature-type/orc #creature-type/warrior
+- [[Mechanized Ninja Cavalry]] x1 | Red / White | Artifact Creature | Robot Ninja | #color/red #color/white #color/multi #type/artifact #type/creature #creature-type/robot #creature-type/ninja
 
 #### Instants
 - [[Teach by Example]] x1 | Blue / Red | Instant | - | #color/blue #color/red #color/multi #type/instant
@@ -449,6 +473,7 @@
 - [[Thunder of Unity]] x1 | Red / White | Enchantment | - | #color/white #color/red #color/multi #type/enchantment
 - [[Fires of Yavimaya]] x1 | Red / Green | Enchantment | - | #color/red #color/green #color/multi #type/enchantment
 - [[Unflinching Courage]] x1 | Green / White | Enchantment | - | #color/white #color/green #color/multi #type/enchantment
+- [[Frostcliff Siege]] x1 | Blue / Red | Enchantment | - | #color/blue #color/red #color/multi #type/enchantment
 
 
 ---
@@ -459,6 +484,9 @@
 - [[Symbiote Spider-Man]] x1 | Multi-Color | Creature | - | #color/multi #type/creature
 - [[Kuja, Genome Sorcerer]] x1 | Multi-Color | Creature | Human Wizard | #color/multi #type/creature #creature-type/human #creature-type/wizard
 - [[Gangly Stompling]] x1 | Multi-Color | Creature | Shapeshifter | #color/multi #type/creature #creature-type/shapeshifter
+- [[Monastery Messenger]] x1 | Multi-Color | Creature | Bird Scout | #color/multi #type/creature #creature-type/bird #creature-type/scout
+- [[Neriv, Heart of the Storm]] x1 | Multi-Color | Legendary Creature | Spirit Dragon | #color/multi #type/creature #creature-type/spirit #creature-type/dragon
+- [[Temur Tawnyback]] x1 | Multi-Color | Creature | Beast | #color/multi #type/creature #creature-type/beast
 
 #### Sorceries
 - [[Grub's Command]] x1 | Multi-Color | Sorcery | - | #color/multi #type/sorcery
@@ -502,6 +530,7 @@
 - [[Orzhov Signet]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
 - [[Pyromancer's Goggles]] x1 | Colorless | Legendary Artifact | - | #color/colorless #type/artifact
 - [[Ravenous Amulet]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
+- [[Omni-Cheese Pizza]] x2 | Colorless | Artifact Food | - | #color/colorless #type/artifact #type/food
 - [[Sol Ring]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
 - [[Sorcerous Spyglass]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
 - [[Soul-Guide Lantern]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
@@ -583,6 +612,5 @@
 - Unknown green Rhino from `PXL_20260306_143708033.MP.jpg` | Trample plus targeted-spell draw trigger; name still needs a clean confirmation shot.
 - `PXL_20260306_164630176.jpg`, `PXL_20260306_164633302.jpg`, `PXL_20260306_164636911.jpg`, `PXL_20260306_164642957.jpg`, and `PXL_20260306_164739505.jpg` | Land close-ups were too unclear for reliable OCR, so only the confirmed land names were added.
 - Example dual-land tagging rule: [[Nurturing Peatland]] | #color/green #color/black #color/multi #type/land
-
 
 

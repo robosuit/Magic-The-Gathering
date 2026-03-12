@@ -33,6 +33,11 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [[Imperial Outrider]] x1 | White | Creature | Human Knight | #color/white #type/creature #creature-type/human #creature-type/knight
 - [[Intrusive Packbeast]] x1 | White | Creature | Beast | #color/white #type/creature #creature-type/beast
 - [[Hare Apparent]] x1 | White | Creature | Rabbit Noble | #color/white #type/creature #creature-type/rabbit #creature-type/noble
+- [[Descendant of Storms]] x1 | White | Creature | Human Soldier | #color/white #type/creature #creature-type/human #creature-type/soldier
+- [[High-Flying Ace]] x1 | White | Creature | Bird Mutant | #color/white #type/creature #creature-type/bird #creature-type/mutant
+- [[Leonardo, Big Brother]] x1 | White | Legendary Creature | Mutant Ninja Turtle | #color/white #type/creature #creature-type/mutant #creature-type/ninja #creature-type/turtle
+- [[Salt Road Packbeast]] x1 | White | Creature | Beast | #color/white #type/creature #creature-type/beast
+- [[Wayspeaker Bodyguard]] x1 | White | Creature | Orc Monk | #color/white #type/creature #creature-type/orc #creature-type/monk
 
 #### Instants
 - [[Ajani's Presence]] x2 | White | Instant | - | #color/white #type/instant
@@ -65,6 +70,8 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [[Bigfin Bouncer]] x1 | Blue | Creature | Shark Pirate | #color/blue #type/creature #creature-type/shark #creature-type/pirate
 - [[Strix Lookout]] x1 | Blue | Creature | Bird | #color/blue #type/creature #creature-type/bird
 - [[Jill, Shiva's Dominant]] x1 | Blue | Legendary Creature | Human Noble Warrior | #color/blue #type/creature #creature-type/human #creature-type/noble #creature-type/warrior
+- [[Iceridge Serpent]] x1 | Blue | Creature | Serpent | #color/blue #type/creature #creature-type/serpent
+- [[Stockman, Mad Fly-entist]] x1 | Blue | Legendary Creature | Insect Mutant Scientist | #color/blue #type/creature #creature-type/insect #creature-type/mutant #creature-type/scientist
 
 #### Instants
 - [[Uncharted Voyage]] x1 | Blue | Instant | - | #color/blue #type/instant
@@ -73,6 +80,7 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [[Run Away Together]] x1 | Blue | Instant | - | #color/blue #type/instant
 - [[Aerial Formation]] x1 | Blue | Instant | - | #color/blue #type/instant
 - [[Refuge]] x1 | Blue | Instant | - | #color/blue #type/instant
+- [[Bewildering Blizzard]] x1 | Blue | Instant | - | #color/blue #type/instant
 
 #### Enchantments
 - [[Extravagant Replication]] x1 | Blue | Enchantment | - | #color/blue #type/enchantment
@@ -97,6 +105,10 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [[Billowing Shriekmass]] x1 | Black | Creature | Spirit | #color/black #type/creature #creature-type/spirit
 - [[Nadier's Nightblade]] x1 | Black | Creature | Elf Warrior | #color/black #type/creature #creature-type/elf #creature-type/warrior
 - [[Grim Guardian]] x1 | Black | Enchantment Creature | Zombie | #color/black #type/creature #type/enchantment #creature-type/zombie
+- [[Adorned Crocodile]] x1 | Black | Creature | Crocodile | #color/black #type/creature #creature-type/crocodile
+- [[Dream Beavers]] x1 | Black | Creature | Beaver Nightmare | #color/black #type/creature #creature-type/beaver #creature-type/nightmare
+- [[Oroku Saki, Shredder Rising]] x1 | Black | Legendary Creature | Human Ninja | #color/black #type/creature #creature-type/human #creature-type/ninja
+- [[Savanti Romero, Time's Exile]] x1 | Black | Legendary Creature | Demon Wizard | #color/black #type/creature #creature-type/demon #creature-type/wizard
 
 #### Instants
 - [[Feast of Dreams]] x1 | Black | Instant | - | #color/black #type/instant
@@ -109,6 +121,9 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 
 #### Enchantments
 - [[Cast into Darkness]] x1 | Black | Enchantment | - | #color/black #type/enchantment
+
+#### Artifacts
+- [[Anchovy & Banana Pizza]] x1 | Black | Artifact Food | - | #color/black #type/artifact #type/food
 
 ---
 
@@ -163,6 +178,7 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [[Sure Strike]] x2 | Red | Instant | - | #color/red #type/instant
 - [[Shock]] x3 | Red | Instant | - | #color/red #type/instant
 - [[Lightning of Combustion]] x1 | Red | Instant | - | #color/red #type/instant
+- [[Manhole Missile]] x1 | Red | Instant | - | #color/red #type/instant
 
 #### Sorceries
 - [[Pyroclasm]] x1 | Red | Sorcery | - | #color/red #type/sorcery
@@ -172,9 +188,14 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [[Tecionic Rift]] x1 | Red | Sorcery | - | #color/red #type/sorcery
 - [[Engulfing Eruption]] x3 | Red | Sorcery | - | #color/red #type/sorcery
 - [[Chandra's Outburst]] x1 | Red | Sorcery | - | #color/red #type/sorcery
+- [[Wild Ride]] x1 | Red | Sorcery | - | #color/red #type/sorcery
 
 #### Enchantments
 - [[Lightning Diadem]] x1 | Red | Enchantment | - | #color/red #type/enchantment
+- [[Reverberating Summons]] x1 | Red | Enchantment | - | #color/red #type/enchantment
+
+#### Artifacts
+- [[Hard-Won Jitte]] x1 | Red | Artifact Equipment | - | #color/red #type/artifact #type/equipment
 
 #### Planeswalkers
 - [[Jaya, Fiery Negotiator]] x1 | Red | Planeswalker | - | #color/red #type/planeswalker
@@ -199,6 +220,7 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [[Priest of Titania]] x1 | Green | Creature | Elf Druid | #color/green #type/creature #creature-type/elf #creature-type/druid
 - [[Crowned Ceratok]] x1 | Green | Creature | Rhino | #color/green #type/creature #creature-type/rhino
 - [[Krosan Tusker]] x1 | Green | Creature | Boar Beast | #color/green #type/creature #creature-type/boar #creature-type/beast
+- [[Sultai Devotee]] x1 | Green | Creature | Zombie Snake Druid | #color/green #type/creature #creature-type/zombie #creature-type/snake #creature-type/druid
 
 #### Instants
 - [[Nature's Panoply]] x1 | Green | Instant | - | #color/green #type/instant
@@ -210,6 +232,7 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [[Prey Upon]] x2 | Green | Sorcery | - | #color/green #type/sorcery
 - [[Regrowth]] x1 | Green | Sorcery | - | #color/green #type/sorcery
 - [[Kodama's Reach]] x1 | Green | Sorcery | - | #color/green #type/sorcery
+- [[Cowabunga!]] x1 | Green | Sorcery | - | #color/green #type/sorcery
 
 ---
 
@@ -230,6 +253,7 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [[Skarrgan Savage]] x1 | Red / Green | Creature | Centaur Berserker | #color/red #color/green #color/multi #type/creature #creature-type/centaur #creature-type/berserker
 - [[Tithe Drinker]] x1 | White / Black | Creature | Vampire | #color/white #color/black #color/multi #type/creature #creature-type/vampire
 - [[Zurgo, Thunder's Decree]] x1 | Red / White | Legendary Creature | Orc Warrior | #color/white #color/red #color/multi #type/creature #creature-type/orc #creature-type/warrior
+- [[Mechanized Ninja Cavalry]] x1 | Red / White | Artifact Creature | Robot Ninja | #color/red #color/white #color/multi #type/artifact #type/creature #creature-type/robot #creature-type/ninja
 
 #### Instants
 - [[Destructive Revelry]] x1 | Red / Green | Instant | - | #color/red #color/green #color/multi #type/instant
@@ -243,6 +267,7 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [[Thunder of Unity]] x1 | Red / White | Enchantment | - | #color/white #color/red #color/multi #type/enchantment
 - [[Fires of Yavimaya]] x1 | Red / Green | Enchantment | - | #color/red #color/green #color/multi #type/enchantment
 - [[Unflinching Courage]] x1 | Green / White | Enchantment | - | #color/white #color/green #color/multi #type/enchantment
+- [[Frostcliff Siege]] x1 | Blue / Red | Enchantment | - | #color/blue #color/red #color/multi #type/enchantment
 
 ---
 
@@ -252,6 +277,9 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [[Symbiote Spider-Man]] x1 | Multi-Color | Creature | - | #color/multi #type/creature
 - [[Kuja, Genome Sorcerer]] x1 | Multi-Color | Creature | Human Wizard | #color/multi #type/creature #creature-type/human #creature-type/wizard
 - [[Gangly Stompling]] x1 | Multi-Color | Creature | Shapeshifter | #color/multi #type/creature #creature-type/shapeshifter
+- [[Monastery Messenger]] x1 | Multi-Color | Creature | Bird Scout | #color/multi #type/creature #creature-type/bird #creature-type/scout
+- [[Neriv, Heart of the Storm]] x1 | Multi-Color | Legendary Creature | Spirit Dragon | #color/multi #type/creature #creature-type/spirit #creature-type/dragon
+- [[Temur Tawnyback]] x1 | Multi-Color | Creature | Beast | #color/multi #type/creature #creature-type/beast
 
 #### Sorceries
 - [[Grub's Command]] x1 | Multi-Color | Sorcery | - | #color/multi #type/sorcery
@@ -273,6 +301,7 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [[Fireshrieker]] x1 | Colorless | Artifact Equipment | - | #color/colorless #type/artifact #type/equipment
 - [[Gruul Signet]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
 - [[Mind Stone]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
+- [[Omni-Cheese Pizza]] x2 | Colorless | Artifact Food | - | #color/colorless #type/artifact #type/food
 
 ---
 
