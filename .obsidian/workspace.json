@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Card Inventory.md",
-                "mode": "preview",
+                "file": "Decks/Artifact Infinite Draw (100) (EDH).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Card Inventory"
+              "title": "Artifact Infinite Draw (100) (EDH)"
             }
           }
         ]
@@ -186,6 +186,15 @@
   },
   "active": "9e70f81943b4fc3f",
   "lastOpenFiles": [
+    "Temur Tawnyback.md",
+    "Decks/Artifact Infinite Draw (100) (EDH).md",
+    "Decks/Orzhov Token Swarm (100) (EDH).md",
+    "Decks/Golgari Token Swarm (100) (EDH).md",
+    "Decks/Green Creature Swarm (100) (EDH).md",
+    "Decks/Dimir Flash Reanimator 60.md",
+    "Decks/Artifact Spell Storm (100) (EDH).md",
+    "Cards/Assorted Cards.md",
+    "Cards/Card Inventory.md",
     "Photos/Multi-Color/PXL_20260312_202012221.MP.jpg",
     "Photos/Red/PXL_20260312_201953878.MP.jpg",
     "Photos/Blue/PXL_20260312_201939131.MP.jpg",
@@ -194,23 +203,15 @@
     "Photos/Greens/PXL_20260312_202022994.MP.jpg",
     "Photos/Colorless/PXL_20260312_202026008.jpg",
     "Cards/Foundations Starter Collection Box Card List.md",
-    "Decks/Artifact Infinite Draw (100) (EDH).md",
-    "Cards/Assorted Cards.md",
     "Decks/Alisaie & Alphinaud Artifacts (100) (EDH).md",
-    "Cards/Card Inventory.md",
-    "Decks/Orzhov Token Swarm (100) (EDH).md",
     "Photos/PXL_20260309_120706114.MP.jpg",
     "Photos/PXL_20260309_120702775.MP.jpg",
     "Photos/PXL_20260309_120549328.MP.jpg",
-    "Photos/PXL_20260309_120546214.MP.jpg",
     "Photos/Lands",
     "Photos/New folder",
-    "Decks/Golgari Token Swarm (100) (EDH).md",
     "Decks/Boros Burn Aggro (100) (EDH).md",
-    "Decks/Artifact Spell Storm (100) (EDH).md",
     "Decks/Jund Minotaur-Ramp Deck.md",
     "Decks/Rakdos Minotaur Tribal (100) (EDH).md",
-    "Decks/Green Creature Swarm (100) (EDH).md",
     "Decks/Abzan Token Swarm Commander.md",
     "Decks/Abzan Tokens (100) (EDH).md",
     "Decks/Golgari Token Swarm Commander.md",
@@ -221,7 +222,6 @@
     "Decks/Green Creature Swarm Commander.md",
     "Decks/Rakdos Minotaur Tribal Commander.md",
     "Decks/Jund Minotaur Ramp Commander.md",
-    "Decks/Dimir Flash Reanimator 60.md",
     "Photos/Mixed-Additions",
     "Photos/Colorless",
     "Photos/_analysis",

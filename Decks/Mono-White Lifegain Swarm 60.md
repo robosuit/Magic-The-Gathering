@@ -1,4 +1,4 @@
-﻿# Mono-White Lifegain Swarm 60
+# Mono-White Lifegain Swarm 60
 
 Tags: #deck/60-card #theme/lifegain #theme/swarm #color/white
 
@@ -19,43 +19,43 @@ Tags: #deck/60-card #theme/lifegain #theme/swarm #color/white
 ## Main Deck
 
 ### White Cards (34)
-- `W` [[Hinterland Sanctifier]] x3 | Creature
-- `W` [[Savannah Lions]] x1 | Creature
-- `W` [[Ajani's Pridemate]] x2 | Creature
-- `W` [[Charming Prince]] x1 | Creature
-- `W` [[Cat Collector]] x1 | Creature
-- `W` [[Resolute Reinforcements]] x1 | Creature
-- `W` [[Mentor of the Meek]] x1 | Creature
-- `W` [[Inspiring Overseer]] x1 | Creature
-- `W` [[Angel of Vitality]] x1 | Creature
-- `W` [[Ballynock Banneret]] x1 | Creature
-- `W` [[Crusader of Odric]] x1 | Creature
-- `W` [[Dawnwing Marshal]] x1 | Creature
-- `W` [[Felidar Cub]] x1 | Creature
-- `W` [[Hare Apparent]] x1 | Creature
-- `W` [[Knight of Grace]] x1 | Creature
-- `W` [[Dazzling Angel]] x1 | Creature
-- `W` [[Linden, the Steadfast Queen]] x1 | Creature
-- `W` [[Syr Alin, the Lion's Claw]] x1 | Creature
-- `W` [[Regal Caracal]] x1 | Creature
-- `W` [[Lyra Dawnbringer]] x1 | Creature
-- `W` [[Stasis Snare]] x2 | Enchantment
-- `W` [[Banishing Light]] x1 | Enchantment
-- `W` [[Felidar Retreat]] x1 | Enchantment
-- `W` [[Angelic Destiny]] x1 | Enchantment
-- `W` [[Disenchant]] x1 | Instant
-- `W` [[Valorous Stance]] x1 | Instant
-- `W` [[Stroke of Midnight]] x1 | Instant
-- `W` [[Make a Stand]] x1 | Instant
-- `W` [[Phalanx Formation]] x1 | Instant
-- `W` [[Release the Dogs]] x1 | Sorcery
+- [ ] [ ] `W` [[Hinterland Sanctifier]] x3 | Creature
+- [ ] [ ] `W` [[Savannah Lions]] x1 | Creature
+- [ ] [ ] `W` [[Ajani's Pridemate]] x2 | Creature
+- [ ] [ ] `W` [[Charming Prince]] x1 | Creature
+- [ ] [ ] `W` [[Cat Collector]] x1 | Creature
+- [ ] [ ] `W` [[Resolute Reinforcements]] x1 | Creature
+- [ ] [ ] `W` [[Mentor of the Meek]] x1 | Creature
+- [ ] [ ] `W` [[Inspiring Overseer]] x1 | Creature
+- [ ] [ ] `W` [[Angel of Vitality]] x1 | Creature
+- [ ] [ ] `W` [[Ballynock Banneret]] x1 | Creature
+- [ ] [ ] `W` [[Crusader of Odric]] x1 | Creature
+- [ ] [ ] `W` [[Dawnwing Marshal]] x1 | Creature
+- [ ] [ ] `W` [[Felidar Cub]] x1 | Creature
+- [ ] [ ] `W` [[Hare Apparent]] x1 | Creature
+- [ ] [ ] `W` [[Knight of Grace]] x1 | Creature
+- [ ] [ ] `W` [[Dazzling Angel]] x1 | Creature
+- [ ] [ ] `W` [[Linden, the Steadfast Queen]] x1 | Creature
+- [ ] [ ] `W` [[Syr Alin, the Lion's Claw]] x1 | Creature
+- [ ] [ ] `W` [[Regal Caracal]] x1 | Creature
+- [ ] [ ] `W` [[Lyra Dawnbringer]] x1 | Creature
+- [ ] [ ] `W` [[Stasis Snare]] x2 | Enchantment
+- [ ] [ ] `W` [[Banishing Light]] x1 | Enchantment
+- [ ] [ ] `W` [[Felidar Retreat]] x1 | Enchantment
+- [ ] [ ] `W` [[Angelic Destiny]] x1 | Enchantment
+- [ ] [ ] `W` [[Disenchant]] x1 | Instant
+- [ ] [ ] `W` [[Valorous Stance]] x1 | Instant
+- [ ] [ ] `W` [[Stroke of Midnight]] x1 | Instant
+- [ ] [ ] `W` [[Make a Stand]] x1 | Instant
+- [ ] [ ] `W` [[Phalanx Formation]] x1 | Instant
+- [ ] [ ] `W` [[Release the Dogs]] x1 | Sorcery
 
 ### Colorless Cards (2)
-- `C` [[Sol Ring]] x1 | Artifact
-- `C` [[Heraldic Banner]] x1 | Artifact
+- [ ] [ ] `C` [[Sol Ring]] x1 | Artifact
+- [ ] [ ] `C` [[Heraldic Banner]] x1 | Artifact
 
 ### Lands (24)
-- `W` [[Plains]] x24 | Land
+- [ ] [ ] `W` [[Plains]] x24 | Land
 
 ## Game Plan
 1. Start on cheap creatures and early life gain so [[Ajani's Pridemate]] becomes a real threat instead of a filler two-drop.

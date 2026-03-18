@@ -3,100 +3,100 @@
 Tags: #deck/commander #format/edh #color/blue #color/colorless
 
 ## Commanders
-- `U` [[Alphinaud Leveilleur]] x1 | Legendary Creature - Elf Wizard
-- `U` [[Alisaie Leveilleur]] x1 | Legendary Creature - Elf Wizard (ACQUIRE)
+- [ ] [ ] `U` [[Alphinaud Leveilleur]] x1 | Legendary Creature - Elf Wizard
+- [ ] [ ] `U` [[Alisaie Leveilleur]] x1 | Legendary Creature - Elf Wizard (ACQUIRE)
 
 ---
 
 ## Blue Creatures (16)
-- `U` [[Harbinger of the Tides]] x1
-- `U` [[Erudite Wizard]] x1
-- `U` [[Tolarian Terror]] x1
-- `U` [[Thassa's Devourer]] x1
-- `U` [[Brineborn Cutthroat]] x1
-- `U` [[Spectral Sailor]] x1
-- `U` [[Tempest Djinn]] x1
-- `U` [[Sphinx of the Final Word]] x1
-- `U` [[Bigfin Bouncer]] x1
-- `U` [[Micromancer]] x1
-- `U` [[Voracious Greatshark]] x1
-- `U` [[Strix Lookout]] x1
-- `U` [[Mocking Sprite]] x1
-- `U` [[Cloaked Siren]] x1
-- `U` [[Fog Bank]] x1
-- `U` [[Shipwreck Dowser]] x1
+- [ ] [ ] `U` [[Harbinger of the Tides]] x1
+- [ ] [ ] `U` [[Erudite Wizard]] x1
+- [ ] [ ] `U` [[Tolarian Terror]] x1
+- [ ] [ ] `U` [[Thassa's Devourer]] x1
+- [ ] [ ] `U` [[Brineborn Cutthroat]] x1
+- [ ] [ ] `U` [[Spectral Sailor]] x1
+- [ ] [ ] `U` [[Tempest Djinn]] x1
+- [ ] [ ] `U` [[Sphinx of the Final Word]] x1
+- [ ] [ ] `U` [[Bigfin Bouncer]] x1
+- [ ] [ ] `U` [[Micromancer]] x1
+- [ ] [ ] `U` [[Voracious Greatshark]] x1
+- [ ] [ ] `U` [[Strix Lookout]] x1
+- [ ] [ ] `U` [[Mocking Sprite]] x1
+- [ ] [ ] `U` [[Cloaked Siren]] x1
+- [ ] [ ] `U` [[Fog Bank]] x1
+- [ ] [ ] `U` [[Shipwreck Dowser]] x1
 
 ## Colorless Artifact Creatures (14)
-- `C` [[Adaptive Automaton]] x1
-- `C` [[Campus Guide]] x1
-- `C` [[Colossus]] x1
-- `C` [[Darksteel Colossus]] x1
-- `C` [[Diamond Mare]] x1
-- `C` [[Gleaming Barrier]] x1
-- `C` [[Meteor Golem]] x2
-- `C` [[Steel Hellkite]] x1
-- `C` [[Three Tree Mascot]] x1
-- `C` [[Ultima, Origin of Oblivion]] x1
-- `C` [[Mindless Automaton]] x1
+- [ ] [ ] `C` [[Adaptive Automaton]] x1
+- [ ] [ ] `C` [[Campus Guide]] x1
+- [ ] [ ] `C` [[Colossus]] x1
+- [ ] [ ] `C` [[Darksteel Colossus]] x1
+- [ ] [ ] `C` [[Diamond Mare]] x1
+- [ ] [ ] `C` [[Gleaming Barrier]] x1
+- [ ] [ ] `C` [[Meteor Golem]] x2
+- [ ] [ ] `C` [[Steel Hellkite]] x1
+- [ ] [ ] `C` [[Three Tree Mascot]] x1
+- [ ] [ ] `C` [[Ultima, Origin of Oblivion]] x1
+- [ ] [ ] `C` [[Mindless Automaton]] x1
 
 ## Blue Instants & Draw (16)
-- `U` [[Opt]] x1
-- `U` [[Think Twice]] x1
-- `U` [[Into the Roil]] x1
-- `U` [[Essence Scatter]] x1
-- `U` [[Dive Down]] x1
-- `U` [[Refute]] x1
-- `U` [[Uncharted Voyage]] x1
-- `U` [[Time Stop]] x1
-- `U` [[River's Rebuke]] x1
-- `U` [[Mystical Teachings]] x1
-- `U` [[Kiora's Dismissal]] x1
-- `U` [[Faebloom Trick]] x1
-- `U` [[Unsummon]] x1
-- `U` [[Chart a Course]] x1
-- `U` [[Rite of Replication]] x1
-- `U` [[Finale of Revelation]] x1
+- [ ] [ ] `U` [[Opt]] x1
+- [ ] [ ] `U` [[Think Twice]] x1
+- [ ] [ ] `U` [[Into the Roil]] x1
+- [ ] [ ] `U` [[Essence Scatter]] x1
+- [ ] [ ] `U` [[Dive Down]] x1
+- [ ] [ ] `U` [[Refute]] x1
+- [ ] [ ] `U` [[Uncharted Voyage]] x1
+- [ ] [ ] `U` [[Time Stop]] x1
+- [ ] [ ] `U` [[River's Rebuke]] x1
+- [ ] [ ] `U` [[Mystical Teachings]] x1
+- [ ] [ ] `U` [[Kiora's Dismissal]] x1
+- [ ] [ ] `U` [[Faebloom Trick]] x1
+- [ ] [ ] `U` [[Unsummon]] x1
+- [ ] [ ] `U` [[Chart a Course]] x1
+- [ ] [ ] `U` [[Rite of Replication]] x1
+- [ ] [ ] `U` [[Finale of Revelation]] x1
 
 ## Colorless Artifacts (16)
-- `C` [[Arcane Signet]] x1
-- `C` [[Basilisk Collar]] x1
-- `C` [[Expedition Map]] x1
-- `C` [[Feldon's Cane]] x1
-- `C` [[Fireshrieker]] x1
-- `C` [[Gilded Lotus]] x1
-- `C` [[Heraldic Banner]] x1
-- `C` [[Mazemind Tome]] x1
-- `C` [[Pyromancer's Goggles]] x1
-- `C` [[Ravenous Amulet]] x1
-- `C` [[Soul-Guide Lantern]] x1
-- `C` [[Sorcerous Spyglass]] x1
-- `C` [[Swiftfoot Boots]] x1
-- `C` [[Wishclaw Talisman]] x1
-- `C` [[Mind Stone]] x1
-- `C` [[Gruul Signet]] x1
+- [ ] [ ] `C` [[Arcane Signet]] x1
+- [ ] [ ] `C` [[Basilisk Collar]] x1
+- [ ] [ ] `C` [[Expedition Map]] x1
+- [ ] [ ] `C` [[Feldon's Cane]] x1
+- [ ] [ ] `C` [[Fireshrieker]] x1
+- [ ] [ ] `C` [[Gilded Lotus]] x1
+- [ ] [ ] `C` [[Heraldic Banner]] x1
+- [ ] [ ] `C` [[Mazemind Tome]] x1
+- [ ] [ ] `C` [[Pyromancer's Goggles]] x1
+- [ ] [ ] `C` [[Ravenous Amulet]] x1
+- [ ] [ ] `C` [[Soul-Guide Lantern]] x1
+- [ ] [ ] `C` [[Sorcerous Spyglass]] x1
+- [ ] [ ] `C` [[Swiftfoot Boots]] x1
+- [ ] [ ] `C` [[Wishclaw Talisman]] x1
+- [ ] [ ] `C` [[Mind Stone]] x1
+- [ ] [ ] `C` [[Gruul Signet]] x1
 
 ## Blue Enchantments (6)
-- `U` [[Witness Protection]] x1
-- `U` [[Dictate of Kruphix]] x1
-- `U` [[Extravagant Replication]] x1
-- `U` [[Pin to the Earth]] x1
-- `U` [[Confiscate]] x1
-- `U` [[Deep Freeze]] x1
+- [ ] [ ] `U` [[Witness Protection]] x1
+- [ ] [ ] `U` [[Dictate of Kruphix]] x1
+- [ ] [ ] `U` [[Extravagant Replication]] x1
+- [ ] [ ] `U` [[Pin to the Earth]] x1
+- [ ] [ ] `U` [[Confiscate]] x1
+- [ ] [ ] `U` [[Deep Freeze]] x1
 
 ## Lands (36)
-- `U` [[Island]] x21
-- `C` [[Cryptic Caves]] x1
-- `C` [[Demolition Field]] x1
-- `C` [[Crawling Barrens]] x1
-- `C` [[Rogue's Passage]] x1
-- `C` [[Ash Barrens]] x1
-- `C` [[Temple of the False God]] x1
-- `C` [[Maze's End]] x1
-- `C` [[Path of Ancestry]] x1
-- `C` [[Secluded Courtyard]] x1
-- `C` [[Temple of Mystery]] x1
-- `C` [[Temple of Epiphany]] x1
-- `C` [[Evolving Wilds]] x1
+- [ ] [ ] `U` [[Island]] x21
+- [ ] [ ] `C` [[Cryptic Caves]] x1
+- [ ] [ ] `C` [[Demolition Field]] x1
+- [ ] [ ] `C` [[Crawling Barrens]] x1
+- [ ] [ ] `C` [[Rogue's Passage]] x1
+- [ ] [ ] `C` [[Ash Barrens]] x1
+- [ ] [ ] `C` [[Temple of the False God]] x1
+- [ ] [ ] `C` [[Maze's End]] x1
+- [ ] [ ] `C` [[Path of Ancestry]] x1
+- [ ] [ ] `C` [[Secluded Courtyard]] x1
+- [ ] [ ] `C` [[Temple of Mystery]] x1
+- [ ] [ ] `C` [[Temple of Epiphany]] x1
+- [ ] [ ] `C` [[Evolving Wilds]] x1
 
 ---
 

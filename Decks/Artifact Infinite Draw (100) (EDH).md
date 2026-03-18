@@ -1,178 +1,132 @@
-# Artifact Infinite Draw - 5 Color (100) (EDH)
+# Artifact Infinite Draw (100) (EDH)
 
 Tags: #deck/commander #format/edh #color/WUBRG #color/colorless
 
 ## Commander
-- `C` [[Ramos, Dragon Engine]] x1 | Legendary Artifact Creature - Dragon
+- [x] [ ] `C` [[Ramos, Dragon Engine]] x1 | Legendary Artifact Creature - Dragon
 
 ---
 
-## Blue Draw & Control (15)
-- `U` [[Arcanis the Omnipotent]] x1
-- `U` [[Alphinaud Leveilleur]] x1
-- `U` [[Harbinger of the Tides]] x1
-- `U` [[Thassa's Devourer]] x1
-- `U` [[Opt]] x1
-- `U` [[Think Twice]] x1
-- `U` [[Chart a Course]] x1
-- `U` [[Rite of Replication]] x1
-- `U` [[Finale of Revelation]] x1
-- `U` [[River's Rebuke]] x1
-- `U` [[Time Stop]] x1
-- `U` [[Mystical Teachings]] x1
-- `U` [[Essence Scatter]] x1
-- `U` [[Dive Down]] x1
-- `UR` [[Enigma Drake]] x1
+## Creatures (26)
+- [x] [ ] `U` [[Arcanis the Omnipotent]] x1
+- [x] [ ] `U` [[Alphinaud Leveilleur]] x1
+- [x] [ ] `U` [[Fog Bank]] x1
+- [x] [ ] `U` [[Shipwreck Dowser]] x1
+- [ ] [x ] `U` [[Voracious Greatshark]] x1
+- [x] [ ] `UG` [[Prime Speaker Zegana]] x1
+- [x] [ ] `UG` [[Tatyova, Benthic Druid]] x1
+- [ ] [x ] `URW` [[Monastery Messenger]] x1
+- [ ] [x ] `GUR` [[Temur Tawnyback]] x1
+- [x] [ ] `UR` [[Enigma Drake]] x1
+- [ ] [x ] `UR` [[Ovika, Enigma Goliath]] x1
+- [ ] [x ] `RWB` [[Neriv, Heart of the Storm]] x1
+- [x] [ ] `WU` [[Cloudblazer]] x1
+- [x] [ ] `WU` [[Drogskol Reaver]] x1
+- [x] [ ] `G` [[Llanowar Elves]] x1
+- [x] [ ] `G` [[Golden Hind]] x1
+- [ ] [ x] `G` [[Springbloom Druid]] x1
+- [ ] [ ] `G` [[Reclamation Sage]] x1
+- [x] [ ] `G` [[Sultai Devotee]] x1
+- [x] [ ] `RG` [[Zhur-Taa Druid]] x1
+- [ ] [ ] `C` [[Burnished Hart]] x1
+- [x] [ ] `C` [[Gate Colossus]] x1
+- [ ] [x ] `C` [[Steel Hellkite]] x1
+- [x] [ ] `C` [[Darksteel Colossus]] x1
+- [x] [ ] `C` [[Meteor Golem]] x1
+- [ ] [ x] `RG` [[Savage Ventmaw]] x1
 
-## Green Ramp, Tutors & Resources (12)
-- `G` [[Llanowar Elves]] x1
-- `G` [[Reclamation Sage]] x1
-- `G` [[Priest of Titania]] x1
-- `G` [[Springbloom Druid]] x1
-- `G` [[Kodama's Reach]] x1
-- `G` [[Circuitous Route]] x1
-- `G` [[Regrowth]] x1
-- `G` [[Beast Within]] x1
-- `G` [[Primeval Bounty]] x1
-- `G` [[Garruk's Uprising]] x1
-- `G` [[Snakeskin Veil]] x1
-- `G` [[Overrun]] x1
+## Noncreature Spells (37)
+- [x] [ ] `C` [[Sol Ring]] x1
+- [x] [ ] `C` [[Arcane Signet]] x1
+- [x] [ ] `C` [[Mind Stone]] x1
+- [x] [ ] `C` [[Gruul Signet]] x1
+- [ ] [ x] `C` [[Orzhov Signet]] x1
+- [ ] [ ] `C` [[Cultivator's Caravan]] x1
+- [x] [ ] `C` [[Gilded Lotus]] x1
+- [ ] [ ] `C` [[Hedron Archive]] x1
+- [x] [ ] `C` [[Expedition Map]] x1
+- [ ] [x ] `C` [[Mazemind Tome]] x1
+- [x] [ ] `C` [[Swiftfoot Boots]] x1
+- [x] [ ] `C` [[Fireshrieker]] x1
+- [x] [ ] `R` [[Hard-Won Jitte]] x1
+- [ ] [ ] `C` [[Omni-Cheese Pizza]] x1
+- [x] [ ] `U` [[Opt]] x1
+- [x] [ ] `U` [[Think Twice]] x1
+- [x] [ ] `U` [[Chart a Course]] x1
+- [ ] [x ] `U` [[Into the Roil]] x1
+- [x] [ ] `U` [[Essence Scatter]] x1
+- [x] [ ] `U` [[Negate]] x1
+- [ ] [x ] `G` [[Beast Within]] x1
+- [ ] [x] `G` [[Kodama's Reach]] x1
+- [x] [ ] `G` [[Circuitous Route]] x1
+- [x] [ ] `G` [[Regrowth]] x1
+- [x] [ ] `R` [[Abrade]] x1
+- [ ] [ ] `R` [[Burst Lightning]] x1
+- [x] [ ] `R` [[Volt Charge]] x1
+- [ ] [x ] `R` [[Thrill of Possibility]] x1
+- [ ] [ ] `BR` [[Terminate]] x1
+- [ ] [ ] `UB` [[Soul Manipulation]] x1
+- [ ] [ ] `UR` [[Frostcliff Siege]] x1
+- [ ] [ x] `RG` [[Fires of Yavimaya]] x1
+- [ ] [ ] `U` [[Extravagant Replication]] x1
+- [x] [ ] `G` [[Garruk's Uprising]] x1
+- [ ] [ x] `R` [[Impact Tremors]] x1
+- [x] [ ] `R` [[Dragon Fodder]] x1
+- [ ] [x ] `R` [[Flurry of Horns]] x1
 
-## Red Rituals, Cost Reduction & Mana (13)
-- `R` [[Goblin Electromancer]] x1
-- `R` [[GuttersnMana & Damage (11)
-- `R` [[Guttersnipe]] x1
-- `R` [[Impact Tremors]] x1
-- `R` [[Goblin Dark-Dwellers]] x1
-- `R` [[Pyroclasm]] x1
-- `R` [[Dragon Fodder]] x1
-- `R` [[Flurry of Horns]] x1
-- `R` [[Burst Lightning]] x1
-- `R` [[Magma Spray]] x1
-- `R` [[Volt Charger]] x1
-
-## White Life Gain (9)
-- `W` [[Savannah Lions]] x1
-- `W` [[Dazzling An& Multi (10)
-- `W` [[Savannah Lions]] x1
-- `W` [[Dazzling Angel]] x1
-- `W` [[Syr Alin, the Lion's Claw]] x1
-- `W` [[Zetalpa, Primal Dawn]] x1
-- `W` [[Felidar Retreat]] x1
-- `W` [[Angelic Destiny]] x1
-- `W` [[Twinblade Blessing]] x1
-- `W` [[Fumigate]] x1
-- `W` [[Release the Dogs]] x1
-- `WR` [[Thunder of Unity10)
-- `B` [[Myojin of Night'8)
-- `B` [[Myojin of Night's Reach]] x1
-- `B` [[Grim Guardian]] x1
-- `B` [[Diregraf Ghoul]] x1
-- `B` [[Dread Summons]] x1
-- `B` [[Zombify]] x1
-- `B` [[Hero's Downfall
-- `B` [[Bake into a Pie]] x1
-
-## Colorless Artifacts & Mana Rocks (19)
-- `C` [[Arcane Signet]] x1
-- `C` [[Gilded Lotus]] x1
-- `C` [[Gruul Signet]] x1
-- `C` [[Mind Stone]] x1
-- `C` [[Mazemind Tome]] x1
-- `C` [[Heraldic Banner]] x1
-- `C` [[Pyromancer's Goggles]] x1
-- `C` [[Basilisk Collar]] x1
-- `C` [[Expedition Map]] x1
-- `C` [[Feldon's Cane]] x1
-- `C` [[Fireshrieker]] x1
-- `C` [[Ravenous Amulet]] x1
-- `C` [[Soul-Guide Lantern]] x1
-- `C` [[Sorcerous Spyglass]] x1
-- `C` [[Swiftfoot Boots]] x1
-- `C` [[Wishclaw Talisman]] x1
-- `C` [[Dictate of Kruphix]] x1
-- `C` [[Extravagant Replication]] x1
-- `C` [[Pin to the Earth]] x1
-
-## Colorless Artifact Creatures (7)
-- `C` [[Adaptive Automaton]] x1
-- `C` [[Darksteel Colossus]] x1
-- `C` [[Meteor Golem]] x1
-- `C` [[Steel Hellkite]] x1
-- `C` [[Ultima, Origin of Oblivion]] x1
-- `C` [[Mindless Automaton]] x1
-- `C` [[Three Tree Mascot]] x1
-
-## Lands (14)
-- `W` [[Plains]] x3
-- `U` [[Island]] x3
-- `B` [[Swamp]] x3
-- `R` [[Mountain]] x3
-- `G` [[Forest]] x2
-- `UR` [[Temple of Epiphany]] x1
-- `WR` [[Temple of Triumph]] x1
-- `C` [[Evolving Wilds]] x1
-- `C` [[Path of Ancestry]] x1
----5 (Blue) + 12 (Green) + 11 (Red) + 10 (White/Multi) + 8 (Black) + 19 (Artifacts) + 7 (Artifact Creatures) + 18 (Lands)
-
-**FINAL CARD COUNT:** 14 + 14 + 13 + 9 + 10 + 19 + 7 + 14 = 100 ✓
+## Lands (36)
+- [x] `C` [[Maze's End]] x1
+- [x] `C` [[Command Tower]] x1
+- [x] `C` [[Exotic Orchard]] x1
+- [ ] [ x] `C` [[Path of Ancestry]] x1
+- [x] `C` [[Azorius Guildgate]] x1
+- [x] `C` [[Boros Guildgate]] x1
+- [x] `C` [[Dimir Guildgate]] x1
+- [x] `C` [[Golgari Guildgate]] x1
+- [x] `C` [[Gruul Guildgate]] x1
+- [x] `C` [[Izzet Guildgate]] x1
+- [x] `C` [[Orzhov Guildgate]] x1
+- [x] `C` [[Rakdos Guildgate]] x1
+- [x] `C` [[Selesnya Guildgate]] x1
+- [x] `C` [[Simic Guildgate]] x1
+- [ ] [x ] `UR` [[Temple of Epiphany]] x1
+- [ ] [ x] `UG` [[Temple of Mystery]] x1
+- [ ] [ x] `UB` [[Temple of Deceit]] x1
+- [ ] [ x] `BG` [[Temple of Malady]] x1
+- [ ] [x ] `RG` [[Temple of Abandon]] x1
+- [ ] [ x] `RW` [[Temple of Triumph]] x1
+- [ ] [ x] `GW` [[Temple of Plenty]] x1
+- [ ] [ x] `BR` [[Temple of Malice]] x1
+- [x] `UB` [[Dismal Backwater]] x1
+- [x] `BR` [[Bloodfell Caves]] x1
+- [x] `GW` [[Blossoming Sands]] x1
+- [x] `BG` [[Jungle Hollow]] x1
+- [x] `RG` [[Rugged Highlands]] x1
+- [x] `UR` [[Swiftwater Cliffs]] x1
+- [x] `UG` [[Thornwood Falls]] x1
+- [x] `RW` [[Wind-Scarred Crag]] x1
+- [x] `RWB` [[Nomad Outpost]] x1
+- [x] `WBG` [[Sandsteppe Citadel]] x1
+- [x] `WU` [[Tranquil Cove]] x1
+- [x] [ ] `BG` [[Thriving Moor]] x1
+- [ ] [ x] `BR` [[Portentous Vein]] x1
+- [ ] [ x] `C` [[Crawling Barrens]] x1
 
 ---
 
-## Win Condition & Strategy:
+**Final Card Count:** 1 + 26 + 37 + 36 = 100
 
-**Infinite Draw Loop:**
-- Ramos generates 5-color mana as it grows with colored spells
-- Cast spells to grow Ramos and trigger more resources
-- Arcanis the Omnipotent draws repeatedly via untap effects
-- Mazemind Tome, Mind Stone, Finale of Revelation provide card draw
-- Chart a Course + Rite of Replication for spell copying and hand refill
+## Why This Version
+- The previous file was trying to be five different decks at once: spell-slinger, lifegain, artifacts, draw combo, and random good-stuff. This rebuild is a legal Ramos list with a clear plan.
+- Keeps your no-basic-land preference and preserves the `[[Maze's End]]` secondary win by running all ten Guildgates.
+- Moves the best shared generic fixing and ramp into this deck, because the five-color commander needs them much more than the Orzhov list does.
+- Replaces the fake or missing cards with real cards from your inventory and adds more bodies that actually defend you or end the game.
 
-**Cost Reduction Engine:**
-- Goblin Electromancer reduces spell costs per spell cast
-- Guttersnipe triggers for damage scaling
-- As cost reduction spirals, cast more spells for more triggers
-- Pyromancer's Goggles copies your best spells
+## What Improved
+- Early fixing is better: `[[Sol Ring]]`, `[[Arcane Signet]]`, `[[Mind Stone]]`, `[[Gruul Signet]]`, `[[Orzhov Signet]]`, `[[Omni-Cheese Pizza]]`, `[[Cultivator's Caravan]]`, `[[Kodama's Reach]]`, and `[[Circuitous Route]]`.
+- Your attack step is better: `[[Fireshrieker]]`, `[[Hard-Won Jitte]]`, `[[Fires of Yavimaya]]`, `[[Steel Hellkite]]`, `[[Darksteel Colossus]]`, `[[Savage Ventmaw]]`, and `[[Neriv, Heart of the Storm]]`.
+- Your defense is better: `[[Fog Bank]]`, `[[Voracious Greatshark]]`, `[[Meteor Golem]]`, `[[Beast Within]]`, `[[Abrade]]`, `[[Essence Scatter]]`, and `[[Negate]]`.
+- Your Maze package is cleaner: `[[Maze's End]]` plus all ten Guildgates, with `[[Expedition Map]]` and `[[Circuitous Route]]` as real support cards.
 
-**Life Gain Synergy:**
-- Felidar Retreat creates lifegain + token generation loops
-- Angelic Destiny on fliers pumps + gives flying
-- Syr Alin pumps with lifegain triggers
-- Zetalpa is a flying lord on a land-ramping body
-- Impact Tremors + token generation = drain loop
-
-**Mill Strategy:**
-- Myojin of Night's Reach mills opponents
-- Dread Summons distributes cards to graveyards
-- Rite of Replication copies mill triggers
-- As your deck thins, draw quality increases
-
-**Doubling Effects:**
-- Extravagant Replication doubles your best creatures
-- Rite of Replication copies spells infinitely
-- Gratuitous Violence doubles damage dealt (scales with tokens/rituals)
-- Flurry of Horns + Dragon Fodder create exponential token generation
-
-**Long Turn Strategy:**
-- Ramos growing = increasingly powerful mana generator
-- Time Stop provides emergency control
-- Regrowth recycles spent spells
-- Priest of Titania untaps for more mana
-- Multiple tutors fuel into infinite chains
-
----
-
-**Key Infinite Loops:**
-
-1. **Spell Cost Spiral:** Goblin Electromancer → cast spell → reduce costs → cast more → exponential value
-2. **Felidar Lifegain Loop:** Felidar Retreat + Dragon Fodder/tokens = infinite lifegain
-3. **Ramos Mana Growth:** Cast colored spells → Ramos grows → more mana for more spells
-4. **Arcanis Draw Loop:** Untap effects + blue draw = infinite card advantage  
-5. **Token Doubling:** Rite of Replication on token generators = exponential token generation
-6. **Cost Reduction Spiral:** Electromancer → more spells → more triggers → cost to 0 → play anything
-
----
-
-**Excluded Cards (in Orzhov Token Swarm):**
-Sephara, Intangible Virtue, Bastion Enforcer, Hazda Officer, Tithe Drinker, Mortify, Zealous Persecution, Kaya's Wrath, Anguished Unmaking, Burnished Hart, Zulaport Cutthroat, Cultivator's Caravan, Dragon Blood, Hedron Archive, Sol Ring, Orzhov Signet, Command Tower, Exotic Orchard, Temple of Silence, and all other White/Black cards in use.
-
+## Important Note
+- This version is stronger than the old file, but the no-basic mana base is still inherently slower than a mixed basics-and-nonbasics build. If this still feels clunky after testing, the next step is not more expensive threats. The next step is putting a few basics back in.

@@ -1,4 +1,4 @@
-﻿# Boros Token Pressure 60
+# Boros Token Pressure 60
 
 Tags: #deck/60-card #theme/aggro #theme/swarm #color/red #color/white #color/multi
 
@@ -19,45 +19,45 @@ Tags: #deck/60-card #theme/aggro #theme/swarm #color/red #color/white #color/mul
 ## Main Deck
 
 ### White Cards (14)
-- `W` [[Savannah Lions]] x1 | Creature
-- `W` [[Resolute Reinforcements]] x1 | Creature
-- `W` [[Charming Prince]] x1 | Creature
-- `W` [[Cat Collector]] x1 | Creature
-- `W` [[Mentor of the Meek]] x1 | Creature
-- `W` [[Ballynock Banneret]] x1 | Creature
-- `W` [[Crusader of Odric]] x1 | Creature
-- `W` [[Dawnwing Marshal]] x1 | Creature
-- `W` [[Inspiring Overseer]] x1 | Creature
-- `W` [[Regal Caracal]] x1 | Creature
-- `W` [[Valorous Stance]] x1 | Instant
-- `W` [[Stasis Snare]] x2 | Enchantment
-- `W` [[Release the Dogs]] x1 | Sorcery
+- [ ] [ ] `W` [[Savannah Lions]] x1 | Creature
+- [ ] [ ] `W` [[Resolute Reinforcements]] x1 | Creature
+- [ ] [ ] `W` [[Charming Prince]] x1 | Creature
+- [ ] [ ] `W` [[Cat Collector]] x1 | Creature
+- [ ] [ ] `W` [[Mentor of the Meek]] x1 | Creature
+- [ ] [ ] `W` [[Ballynock Banneret]] x1 | Creature
+- [ ] [ ] `W` [[Crusader of Odric]] x1 | Creature
+- [ ] [ ] `W` [[Dawnwing Marshal]] x1 | Creature
+- [ ] [ ] `W` [[Inspiring Overseer]] x1 | Creature
+- [ ] [ ] `W` [[Regal Caracal]] x1 | Creature
+- [ ] [ ] `W` [[Valorous Stance]] x1 | Instant
+- [ ] [ ] `W` [[Stasis Snare]] x2 | Enchantment
+- [ ] [ ] `W` [[Release the Dogs]] x1 | Sorcery
 
 ### Red Cards (17)
-- `R` [[Frenzied Goblin]] x1 | Creature
-- `R` [[Fanatical Firebrand]] x1 | Creature
-- `R` [[Ghitu Lavarunner]] x2 | Creature
-- `R` [[Viashino Pyromancer]] x1 | Creature
-- `R` [[Heartfire Immolator]] x2 | Creature
-- `R` [[Firebrand Archer]] x1 | Creature
-- `R` [[Burst Lightning]] x4 | Instant
-- `R` [[Abrade]] x1 | Instant
-- `R` [[Dragon Fodder]] x3 | Sorcery
-- `R` [[Impact Tremors]] x1 | Enchantment
+- [ ] [ ] `R` [[Frenzied Goblin]] x1 | Creature
+- [ ] [ ] `R` [[Fanatical Firebrand]] x1 | Creature
+- [ ] [ ] `R` [[Ghitu Lavarunner]] x2 | Creature
+- [ ] [ ] `R` [[Viashino Pyromancer]] x1 | Creature
+- [ ] [ ] `R` [[Heartfire Immolator]] x2 | Creature
+- [ ] [ ] `R` [[Firebrand Archer]] x1 | Creature
+- [ ] [ ] `R` [[Burst Lightning]] x4 | Instant
+- [ ] [ ] `R` [[Abrade]] x1 | Instant
+- [ ] [ ] `R` [[Dragon Fodder]] x3 | Sorcery
+- [ ] [ ] `R` [[Impact Tremors]] x1 | Enchantment
 
 ### Red / White Cards (4)
-- `RW` [[Kargan Warleader]] x1 | Creature
-- `RW` [[Aurelia, the Warleader]] x1 | Creature
-- `RW` [[Boros Charm]] x1 | Instant
-- `RW` [[Heroic Reinforcements]] x1 | Sorcery
+- [ ] [ ] `RW` [[Kargan Warleader]] x1 | Creature
+- [ ] [ ] `RW` [[Aurelia, the Warleader]] x1 | Creature
+- [ ] [ ] `RW` [[Boros Charm]] x1 | Instant
+- [ ] [ ] `RW` [[Heroic Reinforcements]] x1 | Sorcery
 
 ### Colorless Cards (1)
-- `C` [[Sol Ring]] x1 | Artifact
+- [ ] [ ] `C` [[Sol Ring]] x1 | Artifact
 
 ### Lands (24)
-- `W` [[Plains]] x12 | Land
-- `R` [[Mountain]] x11 | Land
-- `RW` [[Temple of Triumph]] x1 | Land
+- [ ] [ ] `W` [[Plains]] x12 | Land
+- [ ] [ ] `R` [[Mountain]] x11 | Land
+- [ ] [ ] `RW` [[Temple of Triumph]] x1 | Land
 
 ## Game Plan
 1. Start with cheap creatures and force awkward blocks with [[Frenzied Goblin]], burn, and efficient attacks.
