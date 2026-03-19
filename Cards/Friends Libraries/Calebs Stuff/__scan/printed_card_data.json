@@ -1,0 +1,722 @@
+[
+    {
+        "printed":  "Wild Rose Rebellion",
+        "display_name":  "Wild Rose Rebellion",
+        "oracle_name":  "Counterspell",
+        "flavor_name":  "Wild Rose Rebellion",
+        "colors":  "U",
+        "color_identity":  "U",
+        "type_line":  "Instant",
+        "oracle_text":  "Counter target spell."
+    },
+    {
+        "printed":  "Evil Reawakened",
+        "display_name":  "Evil Reawakened",
+        "oracle_name":  "Evil Reawakened",
+        "flavor_name":  null,
+        "colors":  "B",
+        "color_identity":  "B",
+        "type_line":  "Sorcery",
+        "oracle_text":  "Return target creature card from your graveyard to the battlefield with two additional +1/+1 counters on it."
+    },
+    {
+        "printed":  "The Imperial City of Archades",
+        "display_name":  "The Imperial City of Archades",
+        "oracle_name":  "Wall of Omens",
+        "flavor_name":  "The Imperial City of Archades",
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Creature — Wall",
+        "oracle_text":  "Defender\nWhen this creature enters, draw a card."
+    },
+    {
+        "printed":  "Abandon Attachments",
+        "display_name":  "Abandon Attachments",
+        "oracle_name":  "Abandon Attachments",
+        "flavor_name":  null,
+        "colors":  "R,U",
+        "color_identity":  "R,U",
+        "type_line":  "Instant — Lesson",
+        "oracle_text":  "You may discard a card. If you do, draw two cards."
+    },
+    {
+        "printed":  "Suplex",
+        "display_name":  "Suplex",
+        "oracle_name":  "Suplex",
+        "flavor_name":  null,
+        "colors":  "R",
+        "color_identity":  "R",
+        "type_line":  "Sorcery",
+        "oracle_text":  "Choose one —\n• Suplex deals 3 damage to target creature. If that creature would die this turn, exile it instead.\n• Exile target artifact."
+    },
+    {
+        "printed":  "G\u0027raha Tia",
+        "display_name":  "G\u0027raha Tia",
+        "oracle_name":  "G\u0027raha Tia",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Legendary Creature — Cat Archer",
+        "oracle_text":  "Reach\nThe Allagan Eye — Whenever one or more other creatures and/or artifacts you control die, draw a card. This ability triggers only once each turn."
+    },
+    {
+        "printed":  "Cloud, Planet\u0027s Champion",
+        "display_name":  "Cloud, Planet\u0027s Champion",
+        "oracle_name":  "Cloud, Planet\u0027s Champion",
+        "flavor_name":  null,
+        "colors":  "R,W",
+        "color_identity":  "R,W",
+        "type_line":  "Legendary Creature — Human Soldier Mercenary",
+        "oracle_text":  "During your turn, as long as Cloud is equipped, it has double strike and indestructible. (This creature deals both first-strike and regular combat damage. Damage and effects that say \"destroy\" don\u0027t destroy this creature.)\nEquip abilities you activate that target Cloud cost {2} less to activate."
+    },
+    {
+        "printed":  "Rosa, Resolute White Mage",
+        "display_name":  "Rosa, Resolute White Mage",
+        "oracle_name":  "Rosa, Resolute White Mage",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Legendary Creature — Human Noble Cleric",
+        "oracle_text":  "Reach (This creature can block creatures with flying.)\nAt the beginning of combat on your turn, put a +1/+1 counter on target creature you control. It gains lifelink until end of turn. (Damage dealt by the creature also causes you to gain that much life.)"
+    },
+    {
+        "printed":  "Appa, the Vigilant",
+        "display_name":  "Appa, the Vigilant",
+        "oracle_name":  "Appa, the Vigilant",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Legendary Creature — Bison Ally",
+        "oracle_text":  "Flying, vigilance\nWhenever Appa or another Ally you control enters, creatures you control get +1/+1 and gain flying and vigilance until end of turn."
+    },
+    {
+        "printed":  "Adult Gold Dragon",
+        "display_name":  "Adult Gold Dragon",
+        "oracle_name":  "Adult Gold Dragon",
+        "flavor_name":  null,
+        "colors":  "R,W",
+        "color_identity":  "R,W",
+        "type_line":  "Creature — Dragon",
+        "oracle_text":  "Flying, lifelink, haste"
+    },
+    {
+        "printed":  "Jukai Trainee",
+        "display_name":  "Jukai Trainee",
+        "oracle_name":  "Jukai Trainee",
+        "flavor_name":  null,
+        "colors":  "G",
+        "color_identity":  "G",
+        "type_line":  "Creature — Human Samurai",
+        "oracle_text":  "Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn."
+    },
+    {
+        "printed":  "Sephiroth\u0027s Intervention",
+        "display_name":  "Sephiroth\u0027s Intervention",
+        "oracle_name":  "Sephiroth\u0027s Intervention",
+        "flavor_name":  null,
+        "colors":  "B",
+        "color_identity":  "B",
+        "type_line":  "Instant",
+        "oracle_text":  "Destroy target creature. You gain 2 life."
+    },
+    {
+        "printed":  "Noctis Lucis Caelum",
+        "display_name":  "Noctis Lucis Caelum",
+        "oracle_name":  "Kenrith, the Returned King",
+        "flavor_name":  "Noctis Lucis Caelum",
+        "colors":  "W",
+        "color_identity":  "B,G,R,U,W",
+        "type_line":  "Legendary Creature — Human Noble",
+        "oracle_text":  "{R}: All creatures gain trample and haste until end of turn.\n{1}{G}: Put a +1/+1 counter on target creature.\n{2}{W}: Target player gains 5 life.\n{3}{U}: Target player draws a card.\n{4}{B}: Put target creature card from a graveyard onto the battlefield under its owner\u0027s control."
+    },
+    {
+        "printed":  "Symbiote Spider-Man",
+        "display_name":  "Symbiote Spider-Man",
+        "oracle_name":  "Symbiote Spider-Man",
+        "flavor_name":  null,
+        "colors":  "B,U",
+        "color_identity":  "B,U",
+        "type_line":  "Legendary Creature — Symbiote Spider Hero",
+        "oracle_text":  "Whenever this creature deals combat damage to a player, look at that many cards from the top of your library. Put one of them into your hand and the rest into your graveyard.\nFind New Host — {2}{U/B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature you control. It gains this card\u0027s other abilities. Activate only as a sorcery."
+    },
+    {
+        "printed":  "White Mage\u0027s Staff",
+        "display_name":  "White Mage\u0027s Staff",
+        "oracle_name":  "White Mage\u0027s Staff",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Artifact — Equipment",
+        "oracle_text":  "Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)\nEquipped creature gets +1/+1, has \"Whenever this creature attacks, you gain 1 life,\" and is a Cleric in addition to its other types.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)"
+    },
+    {
+        "printed":  "Dazzling Angel",
+        "display_name":  "Dazzling Angel",
+        "oracle_name":  "Dazzling Angel",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Creature — Angel",
+        "oracle_text":  "Flying\nWhenever another creature you control enters, you gain 1 life."
+    },
+    {
+        "printed":  "Overkill",
+        "display_name":  "Overkill",
+        "oracle_name":  "Overkill",
+        "flavor_name":  null,
+        "colors":  "B",
+        "color_identity":  "B",
+        "type_line":  "Instant",
+        "oracle_text":  "Target creature gets -0/-9999 until end of turn."
+    },
+    {
+        "printed":  "Doc Ock, Sinister Scientist",
+        "display_name":  "Doc Ock, Sinister Scientist",
+        "oracle_name":  "Doc Ock, Sinister Scientist",
+        "flavor_name":  null,
+        "colors":  "U",
+        "color_identity":  "U",
+        "type_line":  "Legendary Creature — Human Scientist Villain",
+        "oracle_text":  "As long as there are eight or more cards in your graveyard, Doc Ock has base power and toughness 8/8.\nAs long as you control another Villain, Doc Ock has hexproof. (He can\u0027t be the target of spells or abilities your opponents control.)"
+    },
+    {
+        "printed":  "Out of Time",
+        "display_name":  "Out of Time",
+        "oracle_name":  "Out of Time",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Enchantment",
+        "oracle_text":  "When this enchantment enters, untap all creatures, then those creatures phase out until this enchantment leaves the battlefield. Put a time counter on this enchantment for each creature that phased out this way.\nVanishing (At the beginning of your upkeep, remove a time counter from this enchantment. When the last is removed, sacrifice it.)"
+    },
+    {
+        "printed":  "Bayek of Siwa",
+        "display_name":  "Bayek of Siwa",
+        "oracle_name":  "Bayek of Siwa",
+        "flavor_name":  null,
+        "colors":  "R,W",
+        "color_identity":  "R,W",
+        "type_line":  "Legendary Creature — Human Assassin",
+        "oracle_text":  "Double strike\nDuring your turn, other historic creatures you control have double strike.\nDisguise {1}{R}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)"
+    },
+    {
+        "printed":  "Aerith Rescue Mission",
+        "display_name":  "Aerith Rescue Mission",
+        "oracle_name":  "Aerith Rescue Mission",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Sorcery",
+        "oracle_text":  "Choose one —\n• Take the Elevator — Create three 1/1 colorless Hero creature tokens.\n• Take 59 Flights of Stairs — Tap up to three target creatures. Put a stun counter on one of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)"
+    },
+    {
+        "printed":  "Riling Dawnbreaker",
+        "display_name":  "Riling Dawnbreaker",
+        "oracle_name":  "Riling Dawnbreaker // Signaling Roar",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Creature — Dragon",
+        "oracle_text":  null
+    },
+    {
+        "printed":  "Dragoon\u0027s Lance",
+        "display_name":  "Dragoon\u0027s Lance",
+        "oracle_name":  "Dragoon\u0027s Lance",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Artifact — Equipment",
+        "oracle_text":  "Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)\nEquipped creature gets +1/+0 and is a Knight in addition to its other types.\nDuring your turn, equipped creature has flying.\nGae Bolg — Equip {4}"
+    },
+    {
+        "printed":  "Captain\u0027s Call",
+        "display_name":  "Captain\u0027s Call",
+        "oracle_name":  "Captain\u0027s Call",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Sorcery",
+        "oracle_text":  "Create three 1/1 white Soldier creature tokens."
+    },
+    {
+        "printed":  "Judgment Bolt",
+        "display_name":  "Judgment Bolt",
+        "oracle_name":  "Judgment Bolt",
+        "flavor_name":  null,
+        "colors":  "R",
+        "color_identity":  "R",
+        "type_line":  "Instant",
+        "oracle_text":  "Judgment Bolt deals 5 damage to target creature and X damage to that creature\u0027s controller, where X is the number of Equipment you control."
+    },
+    {
+        "printed":  "Barret Wallace",
+        "display_name":  "Barret Wallace",
+        "oracle_name":  "Barret Wallace",
+        "flavor_name":  null,
+        "colors":  "R",
+        "color_identity":  "R",
+        "type_line":  "Legendary Creature — Human Rebel",
+        "oracle_text":  "Reach\nWhenever Barret Wallace attacks, it deals damage equal to the number of equipped creatures you control to defending player."
+    },
+    {
+        "printed":  "Lightning, Security Sergeant",
+        "display_name":  "Lightning, Security Sergeant",
+        "oracle_name":  "Lightning, Security Sergeant",
+        "flavor_name":  null,
+        "colors":  "R",
+        "color_identity":  "R",
+        "type_line":  "Legendary Creature — Human Soldier",
+        "oracle_text":  "Menace (This creature can\u0027t be blocked except by two or more creatures.)\nWhenever Lightning deals combat damage to a player, exile the top card of your library. You may play that card for as long as you control Lightning."
+    },
+    {
+        "printed":  "Wild Pack Squad",
+        "display_name":  "Wild Pack Squad",
+        "oracle_name":  "Wild Pack Squad",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Creature — Human Mercenary",
+        "oracle_text":  "At the beginning of combat on your turn, up to one target creature gains first strike and vigilance until end of turn."
+    },
+    {
+        "printed":  "Sahagin",
+        "display_name":  "Sahagin",
+        "oracle_name":  "Sahagin",
+        "flavor_name":  null,
+        "colors":  "U",
+        "color_identity":  "U",
+        "type_line":  "Creature — Merfolk Warrior",
+        "oracle_text":  "Whenever you cast a noncreature spell, if at least four mana was spent to cast it, put a +1/+1 counter on this creature and it can\u0027t be blocked this turn."
+    },
+    {
+        "printed":  "Samurai\u0027s Katana",
+        "display_name":  "Samurai\u0027s Katana",
+        "oracle_name":  "Samurai\u0027s Katana",
+        "flavor_name":  null,
+        "colors":  "R",
+        "color_identity":  "R",
+        "type_line":  "Artifact — Equipment",
+        "oracle_text":  "Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)\nEquipped creature gets +2/+2, has trample and haste, and is a Samurai in addition to its other types.\nMurasame — Equip {5}"
+    },
+    {
+        "printed":  "Quintessential Katana",
+        "display_name":  "Quintessential Katana",
+        "oracle_name":  "Quintessential Katana",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Artifact — Equipment",
+        "oracle_text":  "Equipped creature gets +1/+1 and has \"Whenever this creature deals combat damage, untap it and you gain 2 life.\"\nWhenever a Ninja you control enters, you may attach this Equipment to it.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
+    },
+    {
+        "printed":  "Adrestia",
+        "display_name":  "Adrestia",
+        "oracle_name":  "Adrestia",
+        "flavor_name":  null,
+        "colors":  "",
+        "color_identity":  "",
+        "type_line":  "Legendary Artifact — Vehicle",
+        "oracle_text":  "Islandwalk (This creature can\u0027t be blocked as long as defending player controls an Island.)\nWhenever Adrestia attacks, if an Assassin crewed it this turn, draw a card. Adrestia becomes an Assassin in addition to its other types until end of turn.\nCrew 1"
+    },
+    {
+        "printed":  "Shao Jun",
+        "display_name":  "Shao Jun",
+        "oracle_name":  "Shao Jun",
+        "flavor_name":  null,
+        "colors":  "R,U",
+        "color_identity":  "R,U",
+        "type_line":  "Legendary Creature — Human Assassin",
+        "oracle_text":  "Leap Strike — During your turn, Shao Jun has flying and first strike.\nRope Dart — Tap two untapped artifacts you control: Shao Jun deals 1 damage to each opponent."
+    },
+    {
+        "printed":  "Search for the Frozen Esper",
+        "display_name":  "Search for the Frozen Esper",
+        "oracle_name":  "Nature\u0027s Claim",
+        "flavor_name":  "Search for the Frozen Esper",
+        "colors":  "G",
+        "color_identity":  "G",
+        "type_line":  "Instant",
+        "oracle_text":  "Destroy target artifact or enchantment. Its controller gains 4 life."
+    },
+    {
+        "printed":  "Ultima Weapon",
+        "display_name":  "Ultima Weapon",
+        "oracle_name":  "Ultima Weapon",
+        "flavor_name":  null,
+        "colors":  "",
+        "color_identity":  "",
+        "type_line":  "Legendary Artifact — Equipment",
+        "oracle_text":  "Whenever equipped creature attacks, destroy target creature an opponent controls.\nEquipped creature gets +7/+7.\nEquip {7}"
+    },
+    {
+        "printed":  "Sephiroth, Planet\u0027s Heir",
+        "display_name":  "Sephiroth, Planet\u0027s Heir",
+        "oracle_name":  "Sephiroth, Planet\u0027s Heir",
+        "flavor_name":  null,
+        "colors":  "B,U",
+        "color_identity":  "B,U",
+        "type_line":  "Legendary Creature — Human Avatar Soldier",
+        "oracle_text":  "Vigilance (Attacking doesn\u0027t cause this creature to tap.)\nWhen Sephiroth enters, creatures your opponents control get -2/-2 until end of turn.\nWhenever a creature an opponent controls dies, put a +1/+1 counter on Sephiroth."
+    },
+    {
+        "printed":  "Fate of the Sun-Cryst",
+        "display_name":  "Fate of the Sun-Cryst",
+        "oracle_name":  "Fate of the Sun-Cryst",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Instant",
+        "oracle_text":  "This spell costs {2} less to cast if it targets a tapped creature.\nDestroy target nonland permanent."
+    },
+    {
+        "printed":  "The Crystal\u0027s Chosen",
+        "display_name":  "The Crystal\u0027s Chosen",
+        "oracle_name":  "The Crystal\u0027s Chosen",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Sorcery",
+        "oracle_text":  "Create four 1/1 colorless Hero creature tokens. Then put a +1/+1 counter on each creature you control."
+    },
+    {
+        "printed":  "Spider-Islanders",
+        "display_name":  "Spider-Islanders",
+        "oracle_name":  "Spider-Islanders",
+        "flavor_name":  null,
+        "colors":  "R",
+        "color_identity":  "R",
+        "type_line":  "Creature — Spider Horror Citizen",
+        "oracle_text":  "Mayhem {1}{R} (You may cast this card from your graveyard for {1}{R} if you discarded it this turn. Timing rules still apply.)"
+    },
+    {
+        "printed":  "Warrior\u0027s Sword",
+        "display_name":  "Warrior\u0027s Sword",
+        "oracle_name":  "Warrior\u0027s Sword",
+        "flavor_name":  null,
+        "colors":  "R",
+        "color_identity":  "R",
+        "type_line":  "Artifact — Equipment",
+        "oracle_text":  "Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)\nEquipped creature gets +3/+2 and is a Warrior in addition to its other types.\nEquip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)"
+    },
+    {
+        "printed":  "Magitek Scythe",
+        "display_name":  "Magitek Scythe",
+        "oracle_name":  "Magitek Scythe",
+        "flavor_name":  null,
+        "colors":  "",
+        "color_identity":  "",
+        "type_line":  "Artifact — Equipment",
+        "oracle_text":  "A Test of Your Reflexes! — When this Equipment enters, you may attach it to target creature you control. If you do, that creature gains first strike until end of turn and must be blocked this turn if able.\nEquipped creature gets +2/+1.\nEquip {2}"
+    },
+    {
+        "printed":  "Taxi Driver",
+        "display_name":  "Taxi Driver",
+        "oracle_name":  "Taxi Driver",
+        "flavor_name":  null,
+        "colors":  "R",
+        "color_identity":  "R",
+        "type_line":  "Creature — Human Pilot",
+        "oracle_text":  "{1}, {T}: Target creature gains haste until end of turn."
+    },
+    {
+        "printed":  "Herald of Eternal Dawn",
+        "display_name":  "Herald of Eternal Dawn",
+        "oracle_name":  "Herald of Eternal Dawn",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Creature — Angel",
+        "oracle_text":  "Flash (You may cast this spell any time you could cast an instant.)\nFlying\nYou can\u0027t lose the game and your opponents can\u0027t win the game."
+    },
+    {
+        "printed":  "Adelbert Steiner",
+        "display_name":  "Adelbert Steiner",
+        "oracle_name":  "Adelbert Steiner",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Legendary Creature — Human Knight",
+        "oracle_text":  "Lifelink\nAdelbert Steiner gets +1/+1 for each Equipment you control."
+    },
+    {
+        "printed":  "Blessing of the Oracle",
+        "display_name":  "Blessing of the Oracle",
+        "oracle_name":  "Akroma\u0027s Will",
+        "flavor_name":  "Blessing of the Oracle",
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Instant",
+        "oracle_text":  "Choose one. If you control a commander as you cast this spell, you may choose both instead.\n• Creatures you control gain flying, vigilance, and double strike until end of turn.\n• Creatures you control gain lifelink, indestructible, and protection from each color until end of turn."
+    },
+    {
+        "printed":  "Retrieve the Esper",
+        "display_name":  "Retrieve the Esper",
+        "oracle_name":  "Retrieve the Esper",
+        "flavor_name":  null,
+        "colors":  "U",
+        "color_identity":  "U",
+        "type_line":  "Sorcery",
+        "oracle_text":  "Create a 3/3 blue Robot Warrior artifact creature token. Then if this spell was cast from a graveyard, put two +1/+1 counters on that token.\nFlashback {5}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+    },
+    {
+        "printed":  "White Auracite",
+        "display_name":  "White Auracite",
+        "oracle_name":  "White Auracite",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Artifact",
+        "oracle_text":  "When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.\n{T}: Add {W}."
+    },
+    {
+        "printed":  "Beatrix, Loyal General",
+        "display_name":  "Beatrix, Loyal General",
+        "oracle_name":  "Beatrix, Loyal General",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Legendary Creature — Human Soldier",
+        "oracle_text":  "Vigilance (Attacking doesn\u0027t cause this creature to tap.)\nAt the beginning of combat on your turn, you may attach any number of Equipment you control to target creature you control."
+    },
+    {
+        "printed":  "Disenchant",
+        "display_name":  "Disenchant",
+        "oracle_name":  "Disenchant",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Instant",
+        "oracle_text":  "Destroy target artifact or enchantment."
+    },
+    {
+        "printed":  "Slash of Light",
+        "display_name":  "Slash of Light",
+        "oracle_name":  "Slash of Light",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Instant",
+        "oracle_text":  "Slash of Light deals damage equal to the number of creatures you control plus the number of Equipment you control to target creature."
+    },
+    {
+        "printed":  "Reya Dawnbringer",
+        "display_name":  "Reya Dawnbringer",
+        "oracle_name":  "Reya Dawnbringer",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Legendary Creature — Angel",
+        "oracle_text":  "Flying\nAt the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield."
+    },
+    {
+        "printed":  "What Must Be Done",
+        "display_name":  "What Must Be Done",
+        "oracle_name":  "What Must Be Done",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Sorcery",
+        "oracle_text":  "Choose one —\n• Let the World Burn — Destroy all artifacts and creatures.\n• Release Juno — Return target historic permanent card from your graveyard to the battlefield. It enters with two additional +1/+1 counters on it if it\u0027s a creature. (Artifacts, legendaries, and Sagas are historic.)"
+    },
+    {
+        "printed":  "Summon: Fat Chocobo",
+        "display_name":  "Summon: Fat Chocobo",
+        "oracle_name":  "Summon: Fat Chocobo",
+        "flavor_name":  null,
+        "colors":  "G",
+        "color_identity":  "G",
+        "type_line":  "Enchantment Creature — Saga Bird",
+        "oracle_text":  "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)\nI — Wark — Create a 2/2 green Bird creature token with \"Whenever a land you control enters, this token gets +1/+0 until end of turn.\"\nII, III, IV — Kerplunk — Creatures you control gain trample until end of turn."
+    },
+    {
+        "printed":  "Dwarven Castle Guard",
+        "display_name":  "Dwarven Castle Guard",
+        "oracle_name":  "Dwarven Castle Guard",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Creature — Dwarf Soldier",
+        "oracle_text":  "When this creature dies, create a 1/1 colorless Hero creature token."
+    },
+    {
+        "printed":  "Deadly Embrace",
+        "display_name":  "Deadly Embrace",
+        "oracle_name":  "Deadly Embrace",
+        "flavor_name":  null,
+        "colors":  "B",
+        "color_identity":  "B",
+        "type_line":  "Sorcery",
+        "oracle_text":  "Destroy target creature an opponent controls. Then draw a card for each creature that died this turn."
+    },
+    {
+        "printed":  "Seymour Flux",
+        "display_name":  "Seymour Flux",
+        "oracle_name":  "Seymour Flux",
+        "flavor_name":  null,
+        "colors":  "B",
+        "color_identity":  "B",
+        "type_line":  "Legendary Creature — Spirit Avatar",
+        "oracle_text":  "At the beginning of your upkeep, you may pay 1 life. If you do, draw a card and put a +1/+1 counter on Seymour Flux."
+    },
+    {
+        "printed":  "Dawnbringer Charioteers",
+        "display_name":  "Dawnbringer Charioteers",
+        "oracle_name":  "Dawnbringer Charioteers",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Creature — Human Soldier",
+        "oracle_text":  "Flying, lifelink\nHeroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on this creature."
+    },
+    {
+        "printed":  "Ultimecia, Temporal Threat",
+        "display_name":  "Ultimecia, Temporal Threat",
+        "oracle_name":  "Ultimecia, Temporal Threat",
+        "flavor_name":  null,
+        "colors":  "U",
+        "color_identity":  "U",
+        "type_line":  "Legendary Creature — Human Warlock",
+        "oracle_text":  "When Ultimecia enters, tap all creatures your opponents control.\nWhenever a creature you control deals combat damage to a player, draw a card."
+    },
+    {
+        "printed":  "All-Out Assault",
+        "display_name":  "All-Out Assault",
+        "oracle_name":  "All-Out Assault",
+        "flavor_name":  null,
+        "colors":  "B,R,W",
+        "color_identity":  "B,R,W",
+        "type_line":  "Enchantment",
+        "oracle_text":  "Creatures you control get +1/+1 and have deathtouch.\nWhen this enchantment enters, if it\u0027s your main phase, there is an additional combat phase after this phase followed by an additional main phase. When you next attack this turn, untap each creature you control."
+    },
+    {
+        "printed":  "Aang\u0027s Defense",
+        "display_name":  "Aang\u0027s Defense",
+        "oracle_name":  "Aang\u0027s Defense",
+        "flavor_name":  null,
+        "colors":  "W",
+        "color_identity":  "W",
+        "type_line":  "Instant",
+        "oracle_text":  "Target blocking creature you control gets +2/+2 until end of turn.\nDraw a card."
+    },
+    {
+        "printed":  "Xande, Dark Mage",
+        "display_name":  "Xande, Dark Mage",
+        "oracle_name":  "Xande, Dark Mage",
+        "flavor_name":  null,
+        "colors":  "B,U",
+        "color_identity":  "B,U",
+        "type_line":  "Legendary Creature — Human Wizard",
+        "oracle_text":  "Menace (This creature can\u0027t be blocked except by two or more creatures.)\nXande gets +1/+1 for each noncreature, nonland card in your graveyard."
+    },
+    {
+        "printed":  "Ezio, Brash Novice",
+        "display_name":  "Ezio, Brash Novice",
+        "oracle_name":  "Ezio, Brash Novice",
+        "flavor_name":  null,
+        "colors":  "R,W",
+        "color_identity":  "R,W",
+        "type_line":  "Legendary Creature — Human",
+        "oracle_text":  "Whenever Ezio attacks, put a +1/+1 counter on it.\nAs long as Ezio has two or more counters on it, it has first strike and is an Assassin in addition to its other types."
+    },
+    {
+        "printed":  "Aya of Alexandria",
+        "display_name":  "Aya of Alexandria",
+        "oracle_name":  "Aya of Alexandria",
+        "flavor_name":  null,
+        "colors":  "R,W",
+        "color_identity":  "R,W",
+        "type_line":  "Legendary Creature — Human Assassin",
+        "oracle_text":  "Menace, lifelink\nWhenever a historic creature you control deals combat damage to a player, create a 1/1 black Assassin creature token with menace. (Artifacts, legendaries, and Sagas are historic.)"
+    },
+    {
+        "printed":  "Mystic Monastery",
+        "display_name":  "Mystic Monastery",
+        "oracle_name":  "Mystic Monastery",
+        "flavor_name":  null,
+        "colors":  "",
+        "color_identity":  "R,U,W",
+        "type_line":  "Land",
+        "oracle_text":  "This land enters tapped.\n{T}: Add {U}, {R}, or {W}."
+    },
+    {
+        "printed":  "Freya Crescent",
+        "display_name":  "Freya Crescent",
+        "oracle_name":  "Freya Crescent",
+        "flavor_name":  null,
+        "colors":  "R",
+        "color_identity":  "R",
+        "type_line":  "Legendary Creature — Rat Knight",
+        "oracle_text":  "Jump — During your turn, Freya Crescent has flying.\n{T}: Add {R}. Spend this mana only to cast an Equipment spell or activate an equip ability."
+    },
+    {
+        "printed":  "Rabanastre, Royal City",
+        "display_name":  "Rabanastre, Royal City",
+        "oracle_name":  "Rabanastre, Royal City",
+        "flavor_name":  null,
+        "colors":  "",
+        "color_identity":  "R,W",
+        "type_line":  "Land — Town",
+        "oracle_text":  "This land enters tapped.\n{T}: Add {R} or {W}."
+    },
+    {
+        "printed":  "Master Emerald Shrine",
+        "display_name":  "Master Emerald Shrine",
+        "oracle_name":  "Command Tower",
+        "flavor_name":  "Master Emerald Shrine",
+        "colors":  "",
+        "color_identity":  "",
+        "type_line":  "Land",
+        "oracle_text":  "{T}: Add one mana of any color in your commander\u0027s color identity."
+    },
+    {
+        "printed":  "Treno, Dark City",
+        "display_name":  "Treno, Dark City",
+        "oracle_name":  "Treno, Dark City",
+        "flavor_name":  null,
+        "colors":  "",
+        "color_identity":  "B,U",
+        "type_line":  "Land — Town",
+        "oracle_text":  "This land enters tapped.\n{T}: Add {U} or {B}."
+    },
+    {
+        "printed":  "Abstergo Entertainment",
+        "display_name":  "Abstergo Entertainment",
+        "oracle_name":  "Abstergo Entertainment",
+        "flavor_name":  null,
+        "colors":  "",
+        "color_identity":  "",
+        "type_line":  "Legendary Land",
+        "oracle_text":  "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{3}, {T}, Exile Abstergo Entertainment: Return up to one target historic card from your graveyard to your hand, then exile all graveyards. (Artifacts, legendaries, and Sagas are historic.)"
+    },
+    {
+        "printed":  "Path of Ancestry",
+        "display_name":  "Path of Ancestry",
+        "oracle_name":  "Path of Ancestry",
+        "flavor_name":  null,
+        "colors":  "",
+        "color_identity":  "",
+        "type_line":  "Land",
+        "oracle_text":  "This land enters tapped.\n{T}: Add one mana of any color in your commander\u0027s color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    },
+    {
+        "printed":  "Gilded Lotus",
+        "display_name":  "Gilded Lotus",
+        "oracle_name":  "Gilded Lotus",
+        "flavor_name":  null,
+        "colors":  "",
+        "color_identity":  "",
+        "type_line":  "Artifact",
+        "oracle_text":  "{T}: Add three mana of any one color."
+    },
+    {
+        "printed":  "Golgari Guildgate",
+        "display_name":  "Golgari Guildgate",
+        "oracle_name":  "Golgari Guildgate",
+        "flavor_name":  null,
+        "colors":  "",
+        "color_identity":  "B,G",
+        "type_line":  "Land — Gate",
+        "oracle_text":  "This land enters tapped.\n{T}: Add {B} or {G}."
+    }
+]
