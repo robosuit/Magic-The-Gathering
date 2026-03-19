@@ -5,6 +5,7 @@ This index lists the existing deck notes from the shared `Decks/` folder so you 
 ## Existing Decks
 - [[Caleb's First Deck]]
 - [[Caleb's Counter Blitz]]
+- [[Caleb's Herald Angels]]
 
 ---
 
