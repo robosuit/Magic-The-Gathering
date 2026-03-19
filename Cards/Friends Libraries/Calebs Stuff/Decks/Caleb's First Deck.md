@@ -1,15 +1,15 @@
 # Caleb's First Deck
 
-Tags: #deck/commander #deck/boros #deck/equipment
+Tags: #deck/commander #deck/five-color #deck/equipment
 
 ## Commander
-- [ ] [ ] `RW` [[Cloud, Planet's Champion]] x1 | Legendary Creature - Human Soldier Mercenary
+- [ ] [ ] `WUBRG` [[Kenrith, the Returned King|Noctis Lucis Caelum]] x1 | Legendary Creature - Human Noble
 
 ## Deck Overview
 - **Format:** Commander / EDH shell
-- **Theme/Playstyle:** Boros equipment, legendary creatures, and combat pressure
-- **Game Plan:** Suit up creatures with equipment, turn combat into card advantage and burst damage, and finish with powerful legends and flyers.
-- **Current Status:** Built only from the cards currently in [[Card Library]]. This is a 49-card starting shell that can grow as more cards are scanned.
+- **Theme/Playstyle:** Equipment-heavy legends and combat pressure with Noctis as a five-color value commander
+- **Game Plan:** Suit up creatures with equipment, attack with your best legends and flyers, and let Noctis turn extra mana into cards, counters, haste, and late-game recursion.
+- **Current Status:** Built only from the cards currently in [[Card Library]]. This is a 50-card starting shell that can grow as more cards are scanned.
 
 ---
 
@@ -53,10 +53,11 @@ Tags: #deck/commander #deck/boros #deck/equipment
 - [ ] [ ] `R` [[Judgment Bolt]] x1 | Instant
 - [ ] [ ] `R` [[Suplex]] x1 | Sorcery
 
-## Multicolor Cards (4)
+## Multicolor Cards (5)
 - [ ] [ ] `RW` [[Adult Gold Dragon]] x1 | Creature - Dragon
 - [ ] [ ] `RW` [[Aya of Alexandria]] x1 | Legendary Creature - Human Assassin
 - [ ] [ ] `RW` [[Bayek of Siwa]] x1 | Legendary Creature - Human Assassin
+- [ ] [ ] `RW` [[Cloud, Planet's Champion]] x1 | Legendary Creature - Human Soldier Mercenary
 - [ ] [ ] `RW` [[Ezio, Brash Novice]] x1 | Legendary Creature - Human
 
 ## Colorless Cards (4)
@@ -74,5 +75,6 @@ Tags: #deck/commander #deck/boros #deck/equipment
 ---
 
 ## Notes
-- Start by leaning on Cloud, Beatrix, Adelbert, Lightning, and Barret as your main payoff cards for equipment and combat.
-- The next upgrades this deck wants are more lands, a few mana rocks, and more red/white equipment payoffs as Caleb's library grows.
+- Start by leaning on Cloud, Beatrix, Adelbert, Lightning, and Barret as your main payoff cards for equipment and combat, with Noctis giving the deck a stronger late game from the command zone.
+- Moving Noctis to commander opens the door for future upgrades in any color without needing to rebuild the deck identity from scratch.
+- The next upgrades this deck wants are more lands, a few mana rocks, and more equipment payoffs as Caleb's library grows.

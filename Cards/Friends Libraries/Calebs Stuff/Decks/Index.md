@@ -6,6 +6,7 @@ This index lists the existing deck notes from the shared `Decks/` folder so you 
 - [[Caleb's First Deck]]
 - [[Caleb's Counter Blitz]]
 - [[Caleb's Herald Angels]]
+- [[Caleb's Noctis Royal Return]]
 
 ---
 
