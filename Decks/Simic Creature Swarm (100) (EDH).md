@@ -28,38 +28,24 @@ Tags: #deck/commander #format/edh #color/green #color/blue #color/white
 - [x] [ ] `G` [[Pelakka Wurm]] x1
 - [x] [ ] `G` [[Kavu Predator]] x1
 - [x] [ ] `G` [[Troll Ascetic]] x1
-- [ ] [ ] `G` [[Yavimaya Ape]] x1
-- [ ] [ ] `G` [[Canopy Tactician]] x1
-- [ ] [ ] `G` [[District Guide]] x1
-- [ ] [ ] `G` [[Jade Mage]] x1
-- [ ] [ ] `G` [[Embodiment of Spring]] x1
-- [ ] [ ] `G` [[Elite Scaleguard]] x1
-- [ ] [ ] `G` [[Scute Swarm]] x1
-- [ ] [ ] `G` [[Golden Hind]]* x1 | (from Golgari Token Swarm)
-- [ ] [ ] `G` [[Taunting Elf]] x1
-- [ ] [ ] `G` [[Overgrown Armasaur]] x1
-- [ ] [ ] `G` [[Polukranos, World Eater]] x1 | (Moved from Commander)
-- [ ] [ ] `UG` [[Prime Speaker Zegana]]* x1 | (Moved from Commander)
+- [x] [ ] `G` [[Golden Hind]]* x1 | (from Golgari Token Swarm)
+- [x] [ ] `G` [[Polukranos, World Eater]] x1 | (Moved from Commander)
+- [x] [ ] `UG` [[Prime Speaker Zegana]]* x1 | (Moved from Commander)
 
 ## Green Spells (17)
-- [ ] [ ] `G` [[Kodama's Reach]] x1
-- [ ] [ ] `G` [[Prey Upon]] x1
-- [ ] [ ] `G` [[Overrun]] x1
-- [ ] [ ] `G` [[Primal Might]] x1
-- [ ] [ ] `G` [[Bushwhack]] x1
-- [ ] [ ] `G` [[Circuitous Route]] x1
-- [ ] [ ] `G` [[Regrowth]] x1
-- [ ] [ ] `G` [[Beast Within]] x1
-- [ ] [ ] `G` [[Snakeskin Veil]] x1
-- [ ] [ ] `G` [[Broken Wings]] x1
-- [ ] [ ] `G` [[Ranger's Guile]] x1
-- [ ] [ ] `G` [[Collect the Bounty]] x1
-- [ ] [ ] `G` [[Howl of the Horde]] x1
-- [ ] [ ] `G` [[Commune with Dinosaurs]] x1
-- [ ] [ ] `G` [[Once Upon a Time]] x1
-- [ ] [ ] `G` [[Primeval Bounty]] x1
-- [ ] [ ] `G` [[Garruk's Uprising]] x1
-- [ ] [ ] `G` [[Ordeal of Nylea]] x1
+- [x] [ ] `G` [[Kodama's Reach]] x1
+- [x] [ ] `G` [[Prey Upon]] x1
+- [x] [ ] `G` [[Overrun]] x1
+- [x] [ ] `G` [[Primal Might]] x1
+- [x] [ ] `G` [[Bushwhack]] x1
+- [x] [ ] `G` [[Circuitous Route]] x1
+- [x] [ ] `G` [[Regrowth]] x1
+- [x] [ ] `G` [[Beast Within]] x1
+- [x] [ ] `G` [[Snakeskin Veil]] x1
+- [x] [ ] `G` [[Broken Wings]] x1
+- [x] [ ] `G` [[Primeval Bounty]] x1
+- [x] [ ] `G` [[Garruk's Uprising]] x1
+- [x] [ ] `G` [[Ordeal of Nylea]] x1
 
 ## White Cards (10)
 - [ ] [ ] `W` [[Felidar Retreat]]* x1 | (from Mono-White) - Landfall puts counters on EVERYONE
@@ -75,24 +61,24 @@ Tags: #deck/commander #format/edh #color/green #color/blue #color/white
 
 ## Blue Creatures (5)
 - [ ] [ ] `U` [[Voracious Greatshark]]* x1 | (from Artifact Infinite Draw)
-- [ ] [ ] `U` [[Alphinaud Leveilleur]]* x1 | (from Artifact Infinite Draw)
-- [ ] [ ] `U` [[Arcanis the Omnipotent]]* x1 | (from Artifact Infinite Draw)
-- [ ] [ ] `U` [[Shipwreck Dowser]]* x1 | (from Artifact Infinite Draw)
-- [ ] [ ] `U` [[Fog Bank]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `U` [[Alphinaud Leveilleur]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `U` [[Arcanis the Omnipotent]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `U` [[Shipwreck Dowser]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `U` [[Fog Bank]]* x1 | (from Artifact Infinite Draw)
 
 ## Blue Spells (6)
 - [ ] [ ] `U` [[Into the Roil]]* x1 | (from Artifact Infinite Draw)
 - [ ] [ ] `U` [[Extravagant Replication]]* x1 | (from Artifact Infinite Draw)
-- [ ] [ ] `U` [[Opt]]* x1 | (from Artifact Infinite Draw)
-- [ ] [ ] `U` [[Chart a Course]]* x1 | (from Artifact Infinite Draw)
-- [ ] [ ] `U` [[Negate]]* x1 | (from Artifact Infinite Draw)
-- [ ] [ ] `U` [[Essence Scatter]]* x1 | (from Artifact Infinite Draw)
-- [ ] [ ] `U` [[Think Twice]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `U` [[Opt]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `U` [[Chart a Course]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `U` [[Negate]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `U` [[Essence Scatter]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `U` [[Think Twice]]* x1 | (from Artifact Infinite Draw)
 
 ## Multicolor Creatures (3)
-- [ ] [ ] `UG` [[Tatyova, Benthic Druid]]* x1 | (from Artifact Infinite Draw)
-- [ ] [ ] `WU` [[Cloudblazer]]* x1 | (from Artifact Infinite Draw)
-- [ ] [ ] `WU` [[Drogskol Reaver]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `UG` [[Tatyova, Benthic Druid]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `WU` [[Cloudblazer]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `WU` [[Drogskol Reaver]]* x1 | (from Artifact Infinite Draw)
 
 ## Colorless Artifacts (14)
 - [ ] [ ] `C` [[Sol Ring]] x1
@@ -101,7 +87,7 @@ Tags: #deck/commander #format/edh #color/green #color/blue #color/white
 - [ ] [ ] `C` [[Hedron Archive]] x1
 - [ ] [ ] `C` [[Expedition Map]] x1
 - [ ] [ ] `C` [[Arcane Signet]] x1
-- [ ] [ ] `C` [[Mind Stone]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `C` [[Mind Stone]]* x1 | (from Artifact Infinite Draw)
 - [ ] [ ] `C` [[Gilded Lotus]]* x1 | (from Artifact Infinite Draw)
 - [ ] [ ] `C` [[Mazemind Tome]]* x1 | (from Artifact Infinite Draw)
 - [ ] [ ] `C` [[Burnished Hart]] x1 | (Ramp replacement)
@@ -114,14 +100,14 @@ Tags: #deck/commander #format/edh #color/green #color/blue #color/white
 - [ ] [ ] `G` [[Forest]] x10
 - [ ] [ ] `U` [[Island]] x8
 - [ ] [ ] `W` [[Plains]] x6
-- [ ] [ ] `UG` [[Simic Guildgate]]* x1 | (from Artifact Infinite Draw)
-- [ ] [ ] `UG` [[Thornwood Falls]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `UG` [[Simic Guildgate]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `UG` [[Thornwood Falls]]* x1 | (from Artifact Infinite Draw)
 - [ ] [ ] `UG` [[Temple of Mystery]]* x1 | (from Artifact Infinite Draw)
-- [ ] [ ] `GW` [[Selesnya Guildgate]]* x1 | (from Artifact Infinite Draw)
-- [ ] [ ] `GW` [[Blossoming Sands]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `GW` [[Selesnya Guildgate]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `GW` [[Blossoming Sands]]* x1 | (from Artifact Infinite Draw)
 - [ ] [ ] `GW` [[Temple of Plenty]]* x1 | (from Artifact Infinite Draw)
-- [ ] [ ] `WU` [[Azorius Guildgate]]* x1 | (from Artifact Infinite Draw)
-- [ ] [ ] `WU` [[Tranquil Cove]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `WU` [[Azorius Guildgate]]* x1 | (from Artifact Infinite Draw)
+- [x] [ ] `WU` [[Tranquil Cove]]* x1 | (from Artifact Infinite Draw)
 - [ ] [ ] `WBG` [[Sandsteppe Citadel]]* x1 | (from Artifact Infinite Draw)
 - [ ] [ ] `C` [[Command Tower]]* x1 | (from Artifact Infinite Draw)
 - [ ] [ ] `C` [[Path of Ancestry]]* x1 | (from Artifact Infinite Draw)
@@ -129,9 +115,6 @@ Tags: #deck/commander #format/edh #color/green #color/blue #color/white
 - [ ] [ ] `C` [[Exotic Orchard]] x1
 - [ ] [ ] `C` [[Rogue's Passage]] x1
 - [ ] [ ] `C` [[Cryptic Caves]] x1
-- [ ] [ ] `C` [[Maze of Ith]] x1
-- [ ] [ ] `C` [[Nykthos, Shrine to Nyx]] x1
-- [ ] [ ] `C` [[Scavenger Grounds]] x1
 
 ---
 

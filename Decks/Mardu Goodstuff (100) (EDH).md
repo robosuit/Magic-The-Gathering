@@ -17,7 +17,6 @@ Tags: #deck/commander #format/edh #color/white #color/red #color/black
 - [x] [ ] `W` [[Resolute Reinforcements]]* x1 | (from Boros Burn Aggro)
 - [x] [ ] `W` [[Inspiring Overseer]]* x1 | (from Boros Burn Aggro)
 - [x] [ ] `W` [[Charming Prince]]* x1 | (from Boros Burn Aggro)
-- [x] [ ] `W` [[Serra's Emissary]]* x1 | (from Boros Burn Aggro)
 - [x] [ ] `W` [[Lyra Dawnbringer]]* x1 | (from Mono-White Lifegain Swarm)
 - [x] [ ] `W` [[Knight of Grace]]* x1 | (from Boros Burn Aggro)
 
@@ -33,11 +32,8 @@ Tags: #deck/commander #format/edh #color/white #color/red #color/black
 
 ## Red Creatures (6)
 - [x] [ ] `R` [[Guttersnipe]]* x1 | (from Boros Burn Aggro)
-- [ ] [ ] `R` [[Brash Taunter]]* x1 | (from Boros Burn Aggro)
 - [ ] [ ] `R` [[Fanatical Firebrand]]* x1 | (from Boros Burn Aggro)
 - [ ] [ ] `R` [[Taurean Mauler]]* x1 | (from Boros Burn Aggro)
-- [ ] [ ] `R` [[Anax, Hardened in the Forge]]* x1 | (from Boros Burn Aggro)
-- [ ] [ ] `R` [[Imperial Recruiter]]* x1 | (from Rakdos Minotaur Tribal)
 
 ## Red Spells (8)
 - [x] [ ] `R` [[Abrade]]* x1 | (from Boros Burn Aggro)
@@ -75,12 +71,10 @@ Tags: #deck/commander #format/edh #color/white #color/red #color/black
 - [ ] [ ] `RW` [[Kargan Warleader]]* x1 | (from Boros Burn Aggro)
 
 ## Multicolor Spells (6)
-- [ ] [ ] `W` [[Anguished Unmaking]]* x1 | (from Orzhov Token Swarm)
 - [x] [ ] `WB` [[Mortify]]* x1 | (from Orzhov Token Swarm)
 - [ ] [ ] `RB` [[Terminate]]* x1 | (from Rakdos Minotaur Tribal)
 - [x] [ ] `RW` [[Boros Charm]]* x1 | (from Boros Burn Aggro)
 - [x] [ ] `RW` [[Heroic Reinforcements]]* x1 | (from Boros Burn Aggro)
-- [ ] [ ] `RW` [[Assemble the Legion]]* x1 | (from Boros Burn Aggro)
 - [ ] [ ] `RB` [[Deadly Brew]]* x1 | (from Rakdos Minotaur Tribal)
 
 ## Colorless Artifacts (8)
