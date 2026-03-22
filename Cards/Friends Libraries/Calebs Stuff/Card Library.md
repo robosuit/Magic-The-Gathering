@@ -47,6 +47,9 @@
 - [ ] [ ] [[Selfless Police Captain]] x1 | White | Creature | Human Detective | #color/white #type/creature #subtype/human #subtype/detective
 - [ ] [ ] [[Wall of Omens|The Imperial City of Archades]] x1 | White | Creature | Wall | #color/white #type/creature #subtype/wall
 - [ ] [ ] [[Wild Pack Squad]] x2 | White | Creature | Human Mercenary | #color/white #type/creature #subtype/human #subtype/mercenary
+- [ ] [ ] [[Ondu Greathorn]] x1 | White | Creature | Beast | #color/white #type/creature #subtype/beast
+- [ ] [ ] [[Stone Haven Medic]] x1 | White | Creature | Kor Cleric | #color/white #type/creature #subtype/kor #subtype/cleric
+- [ ] [ ] [[Jeong Jeong’s Deserters]] x1 | White | Creature | Human Rebel Ally | #color/white #type/creature #subtype/human #subtype/rebel #subtype/ally
 
 ### Enchantments
 - [ ] [ ] [[Out of Time]] x1 | White | Enchantment | - | #color/white #type/enchantment
@@ -58,6 +61,9 @@
 - [ ] [ ] [[Fate of the Sun-Cryst]] x2 | White | Instant | - | #color/white #type/instant
 - [ ] [ ] [[Grounded for Life]] x1 | White | Instant | - | #color/white #type/instant
 - [ ] [ ] [[Slash of Light]] x2 | White | Instant | - | #color/white #type/instant
+- [ ] [ ] [[Smite the Monstrous]] x1 | White | Instant | - | #color/white #type/instant
+- [ ] [ ] [[Crumb and Get It]] x1 | White | Instant | - | #color/white #type/instant
+- [ ] [ ] [[Airbender’s Reversal]] x1 | White | Instant | Lesson | #color/white #type/instant #subtype/lesson
 
 ### Sorceries
 - [ ] [ ] [[Aerith Rescue Mission]] x1 | White | Sorcery | - | #color/white #type/sorcery
@@ -79,9 +85,14 @@
 - [ ] [ ] [[Oscorp Research Team]] x2 | Blue | Creature | Human Scientist | #color/blue #type/creature #subtype/human #subtype/scientist
 - [ ] [ ] [[Sahagin]] x1 | Blue | Creature | Merfolk Warrior | #color/blue #type/creature #subtype/merfolk #subtype/warrior
 - [ ] [ ] [[Ultimecia, Temporal Threat]] x1 | Blue | Creature | Human Warlock | #color/blue #type/creature #subtype/human #subtype/warlock
+- [ ] [ ] [[Halimar Tidecaller]] x1 | Blue | Creature | Human Wizard Ally | #color/blue #type/creature #subtype/human #subtype/wizard #subtype/ally
+- [ ] [ ] [[Waterspout Warden]] x1 | Blue | Creature | Frog Soldier | #color/blue #type/creature #subtype/frog #subtype/soldier
+- [ ] [ ] [[Messenger Hawk]] x1 | Blue | Creature | Bird Scout | #color/blue #type/creature #subtype/bird #subtype/scout
 
 ### Enchantments
 - [ ] [ ] [[Spider-Man No More]] x1 | Blue | Enchantment | Aura | #color/blue #type/enchantment #subtype/aura
+- [ ] [ ] [[Gossip’s Talent]] x1 | Blue | Enchantment | Class | #color/blue #type/enchantment #subtype/class
+- [ ] [ ] [[Watery Grasp]] x1 | Blue | Enchantment | Aura | #color/blue #type/enchantment #subtype/aura
 
 ### Instants
 - [ ] [ ] [[Dreams of Laguna]] x3 | Blue | Instant | - | #color/blue #type/instant
@@ -89,10 +100,12 @@
 - [ ] [ ] [[Mind Transfer Protocol]] x1 | Blue | Instant | - | #color/blue #type/instant
 - [ ] [ ] [[School Daze]] x1 | Blue | Instant | - | #color/blue #type/instant
 - [ ] [ ] [[Counterspell|Wild Rose Rebellion]] x1 | Blue | Instant | - | #color/blue #type/instant
+- [ ] [ ] [[Into the Flood Maw]] x1 | Blue | Instant | - | #color/blue #type/instant
 
 ### Sorceries
 - [ ] [ ] [[Relm's Sketching]] x1 | Blue | Sorcery | - | #color/blue #type/sorcery
 - [ ] [ ] [[Retrieve the Esper]] x2 | Blue | Sorcery | - | #color/blue #type/sorcery
+- [ ] [ ] [[Ember Island Production]] x1 | Blue | Sorcery | - | #color/blue #type/sorcery
 
 ---
 
@@ -109,6 +122,11 @@
 - [ ] [ ] [[Spider-Man Noir]] x1 | Black | Creature | Spider Human Hero | #color/black #type/creature #subtype/spider #subtype/human #subtype/hero
 - [ ] [ ] [[Swarm, Being of Bees]] x1 | Black | Creature | Insect Villain | #color/black #type/creature #subtype/insect #subtype/villain
 - [ ] [ ] [[Undercity Dire Rat]] x4 | Black | Creature | Rat | #color/black #type/creature #subtype/rat
+- [ ] [ ] [[Hagra Sharpshooter]] x1 | Black | Creature | Human Assassin Ally | #color/black #type/creature #subtype/human #subtype/assassin #subtype/ally
+- [ ] [ ] [[Daggerfang Duo]] x1 | Black | Creature | Rat Squirrel | #color/black #type/creature #subtype/rat #subtype/squirrel
+- [ ] [ ] [[Thought-Stalker Warlock]] x1 | Black | Creature | Lizard Warlock | #color/black #type/creature #subtype/lizard #subtype/warlock
+- [ ] [ ] [[Foggy Swamp Hunters]] x1 | Black | Creature | Human Ranger Ally | #color/black #type/creature #subtype/human #subtype/ranger #subtype/ally
+- [ ] [ ] [[Pirate Peddlers]] x1 | Black | Creature | Human Pirate | #color/black #type/creature #subtype/human #subtype/pirate
 
 ### Instants
 - [ ] [ ] [[Fatal Push]] x1 | Black | Instant | - | #color/black #type/instant
@@ -135,12 +153,19 @@
 - [ ] [ ] [[Lightning, Security Sergeant]] x1 | Red | Creature | Human Soldier | #color/red #type/creature #subtype/human #subtype/soldier
 - [ ] [ ] [[Spider-Islanders]] x2 | Red | Creature | Spider Horror Citizen | #color/red #type/creature #subtype/spider #subtype/horror #subtype/citizen
 - [ ] [ ] [[Taxi Driver]] x1 | Red | Creature | Human Pilot | #color/red #type/creature #subtype/human #subtype/pilot
+- [ ] [ ] [[Flamecache Gecko]] x1 | Red | Creature | Lizard Warlock | #color/red #type/creature #subtype/lizard #subtype/warlock
+- [ ] [ ] [[Mai, Jaded Edge]] x1 | Red | Legendary Creature | Human Noble | #color/red #type/creature #subtype/human #subtype/noble
 
 ### Instants
 - [ ] [ ] [[Judgment Bolt]] x1 | Red | Instant | - | #color/red #type/instant
+- [ ] [ ] [[Volcanic Upheaval]] x1 | Red | Instant | - | #color/red #type/instant
+- [ ] [ ] [[Stonefury]] x1 | Red | Instant | - | #color/red #type/instant
+- [ ] [ ] [[How to Start a Riot]] x1 | Red | Instant | Lesson | #color/red #type/instant #subtype/lesson
 
 ### Sorceries
 - [ ] [ ] [[Suplex]] x1 | Red | Sorcery | - | #color/red #type/sorcery
+- [ ] [ ] [[Agate Assault]] x1 | Red | Sorcery | - | #color/red #type/sorcery
+- [ ] [ ] [[Bumi Bash]] x1 | Red | Sorcery | - | #color/red #type/sorcery
 
 ---
 
@@ -153,12 +178,20 @@
 - [ ] [ ] [[Colossal Dreadmaw|Brachiosaurus]] x1 | Green | Creature | Dinosaur | #color/green #type/creature #subtype/dinosaur
 - [ ] [ ] [[Jukai Trainee]] x1 | Green | Creature | Human Samurai | #color/green #type/creature #subtype/human #subtype/samurai
 - [ ] [ ] [[Rocksteady, Crash Courser]] x1 | Green | Creature | Rhino Mutant | #color/green #type/creature #subtype/rhino #subtype/mutant
+- [ ] [ ] [[Tajuru Stalwart]] x1 | Green | Creature | Elf Scout Ally | #color/green #type/creature #subtype/elf #subtype/scout #subtype/ally
+- [ ] [ ] [[Oran-Rief Hydra]] x1 | Green | Creature | Hydra | #color/green #type/creature #subtype/hydra
+- [ ] [ ] [[Beastcaller Savant]] x1 | Green | Creature | Elf Shaman Ally | #color/green #type/creature #subtype/elf #subtype/shaman #subtype/ally
+- [ ] [ ] [[Saber-Tooth Moose-Lion]] x1 | Green | Creature | Elk Cat | #color/green #type/creature #subtype/elk #subtype/cat
 
 ### Enchantment Creatures
 - [ ] [ ] [[Summon: Fat Chocobo]] x1 | Green | Enchantment Creature | Saga Bird | #color/green #type/enchantment-creature #subtype/saga #subtype/bird
 
 ### Instants
 - [ ] [ ] [[Nature's Claim|Search for the Frozen Esper]] x1 | Green | Instant | - | #color/green #type/instant
+
+### Sorceries
+- [ ] [ ] [[Seek the Wilds]] x1 | Green | Sorcery | - | #color/green #type/sorcery
+- [ ] [ ] [[For the Common Good]] x1 | Green | Sorcery | - | #color/green #type/sorcery
 
 ---
 
@@ -183,6 +216,10 @@
 - [ ] [ ] [[The Spot, Living Portal]] x1 | Multi-Color | Creature | Human Scientist Villain | #color/multi #type/creature #subtype/human #subtype/scientist #subtype/villain
 - [ ] [ ] [[Wraith, Vicious Vigilante]] x1 | Multi-Color | Creature | Human Detective Hero | #color/multi #type/creature #subtype/human #subtype/detective #subtype/hero
 - [ ] [ ] [[Xande, Dark Mage]] x1 | Multi-Color | Creature | Human Wizard | #color/multi #type/creature #subtype/human #subtype/wizard
+- [ ] [ ] [[Junkblade Bruiser]] x1 | Red / Green | Creature | Raccoon Berserker | #color/red #color/green #color/multi #type/creature #subtype/raccoon #subtype/berserker
+- [ ] [ ] [[Seedglaive Mentor]] x1 | Red / White | Creature | Mouse Soldier | #color/red #color/white #color/multi #type/creature #subtype/mouse #subtype/soldier
+- [ ] [ ] [[Long Feng, Grand Secretariat]] x1 | Green / White | Legendary Creature | Human Advisor | #color/green #color/white #color/multi #type/creature #subtype/human #subtype/advisor
+- [ ] [ ] [[Toph, the First Metalbender]] x1 | Red / Green / White | Legendary Creature | Human Warrior Ally | #color/red #color/green #color/white #color/multi #type/creature #subtype/human #subtype/warrior #subtype/ally
 
 ### Enchantments
 - [ ] [ ] [[All-Out Assault]] x1 | Multi-Color | Enchantment | - | #color/multi #type/enchantment
@@ -203,9 +240,16 @@
 - [ ] [ ] [[Gilded Lotus]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
 - [ ] [ ] [[Magitek Scythe]] x1 | Colorless | Artifact | Equipment | #color/colorless #type/artifact #subtype/equipment
 - [ ] [ ] [[Ultima Weapon]] x1 | Colorless | Artifact | Equipment | #color/colorless #type/artifact #subtype/equipment
+- [ ] [ ] [[Heaped Harvest]] x1 | Colorless | Artifact | Food | #color/colorless #type/artifact #subtype/food
+- [ ] [ ] [[Bumbleflower’s Sharepot]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
 
 ### Artifact Creatures
 - [ ] [ ] [[Spider-Slayer, Hatred Honed]] x1 | Colorless | Artifact Creature | Human Villain | #color/colorless #type/artifact-creature #subtype/human #subtype/villain
+- [ ] [ ] [[Incubator Drone]] x1 | Colorless | Creature | Eldrazi Drone | #color/colorless #type/creature #subtype/eldrazi #subtype/drone
+- [ ] [ ] [[Culling Drone]] x1 | Colorless | Creature | Eldrazi Drone | #color/colorless #type/creature #subtype/eldrazi #subtype/drone
+
+### Sorceries
+- [ ] [ ] [[Processor Assault]] x1 | Colorless | Sorcery | - | #color/colorless #type/sorcery
 
 ### Lands
 - [ ] [ ] [[Abstergo Entertainment]] x1 | Colorless | Land | - | #color/colorless #type/land

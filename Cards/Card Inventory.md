@@ -420,7 +420,7 @@
 #### Creatures
 - [ ] [ ] [[Ovika, Enigma Goliath]] x1 | Blue / Red | Creature | Phyrexian Nightmare | #color/blue #color/red #color/multi #type/creature #creature-type/phyrexian #creature-type/nightmare
 - [ ] [ ] [[Prime Speaker Zegana]] x1 | Blue / Green | Creature | Merfolk Wizard | #color/blue #color/green #color/multi #type/creature #creature-type/merfolk #creature-type/wizard
-- [ ] [ ] [[Ayli, Eternal Pilgrim]] x1 | White / Black | Creature | Kor Cleric | #color/white #color/black #color/multi #type/creature #creature-type/kor #creature-type/cleric
+- [x] [ ] [[Ayli, Eternal Pilgrim]] x1 | White / Black | Creature | Kor Cleric | #color/white #color/black #color/multi #type/creature #creature-type/kor #creature-type/cleric
 - [ ] [ ] [[Aurelia, the Warleader]] x1 | Red / White | Creature | Angel | #color/white #color/red #color/multi #type/creature #creature-type/angel
 - [ ] [ ] [[Tatyova, Benthic Druid]] x1 | Blue / Green | Creature | Merfolk Druid | #color/blue #color/green #color/multi #type/creature #creature-type/merfolk #creature-type/druid
 - [ ] [ ] [[Ruby, Daring Tracker]] x1 | Red / Green | Creature | Human Scout | #color/red #color/green #color/multi #type/creature #creature-type/human #creature-type/scout

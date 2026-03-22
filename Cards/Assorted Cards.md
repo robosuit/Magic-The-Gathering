@@ -38,6 +38,9 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [ ] [ ] [[Leonardo, Big Brother]] x1 | White | Legendary Creature | Mutant Ninja Turtle | #color/white #type/creature #creature-type/mutant #creature-type/ninja #creature-type/turtle
 - [ ] [ ] [[Salt Road Packbeast]] x1 | White | Creature | Beast | #color/white #type/creature #creature-type/beast
 - [ ] [ ] [[Wayspeaker Bodyguard]] x1 | White | Creature | Orc Monk | #color/white #type/creature #creature-type/orc #creature-type/monk
+- [ ] [ ] [[Ondu Greathorn]] x1 | White | Creature | Beast | #color/white #type/creature #creature-type/beast
+- [ ] [ ] [[Stone Haven Medic]] x1 | White | Creature | Kor Cleric | #color/white #type/creature #creature-type/kor #creature-type/cleric
+- [ ] [ ] [[Jeong Jeong’s Deserters]] x1 | White | Creature | Human Rebel Ally | #color/white #type/creature #creature-type/human #creature-type/rebel #creature-type/ally
 
 #### Instants
 - [ ] [ ] [[Ajani's Presence]] x2 | White | Instant | - | #color/white #type/instant
@@ -46,6 +49,9 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [ ] [ ] [[Show of Valor]] x3 | White | Instant | - | #color/white #type/instant
 - [ ] [ ] [[Righteous Blow]] x2 | White | Instant | - | #color/white #type/instant
 - [ ] [ ] [[Inspired Charge]] x1 | White | Instant | - | #color/white #type/instant
+- [ ] [ ] [[Smite the Monstrous]] x1 | White | Instant | - | #color/white #type/instant
+- [ ] [ ] [[Crumb and Get It]] x1 | White | Instant | - | #color/white #type/instant
+- [ ] [ ] [[Airbender’s Reversal]] x1 | White | Instant — Lesson | - | #color/white #type/instant
 
 #### Sorceries
 - [ ] [ ] [[Take Vengeance]] x3 | White | Sorcery | - | #color/white #type/sorcery
@@ -72,6 +78,9 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [ ] [ ] [[Jill, Shiva's Dominant]] x1 | Blue | Legendary Creature | Human Noble Warrior | #color/blue #type/creature #creature-type/human #creature-type/noble #creature-type/warrior
 - [ ] [ ] [[Iceridge Serpent]] x1 | Blue | Creature | Serpent | #color/blue #type/creature #creature-type/serpent
 - [ ] [ ] [[Stockman, Mad Fly-entist]] x1 | Blue | Legendary Creature | Insect Mutant Scientist | #color/blue #type/creature #creature-type/insect #creature-type/mutant #creature-type/scientist
+- [ ] [ ] [[Halimar Tidecaller]] x1 | Blue | Creature | Human Wizard Ally | #color/blue #type/creature #creature-type/human #creature-type/wizard #creature-type/ally
+- [ ] [ ] [[Waterspout Warden]] x1 | Blue | Creature | Frog Soldier | #color/blue #type/creature #creature-type/frog #creature-type/soldier
+- [ ] [ ] [[Messenger Hawk]] x1 | Blue | Creature | Bird Scout | #color/blue #type/creature #creature-type/bird #creature-type/scout
 
 #### Instants
 - [ ] [ ] [[Uncharted Voyage]] x1 | Blue | Instant | - | #color/blue #type/instant
@@ -81,11 +90,17 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [ ] [ ] [[Aerial Formation]] x1 | Blue | Instant | - | #color/blue #type/instant
 - [ ] [ ] [[Refuge]] x1 | Blue | Instant | - | #color/blue #type/instant
 - [ ] [ ] [[Bewildering Blizzard]] x1 | Blue | Instant | - | #color/blue #type/instant
+- [ ] [ ] [[Into the Flood Maw]] x1 | Blue | Instant | - | #color/blue #type/instant
 
 #### Enchantments
 - [ ] [ ] [[Extravagant Replication]] x1 | Blue | Enchantment | - | #color/blue #type/enchantment
 - [ ] [ ] [[Pin to the Earth]] x1 | Blue | Enchantment | - | #color/blue #type/enchantment
 - [ ] [ ] [[Deep Freeze]] x1 | Blue | Enchantment | - | #color/blue #type/enchantment
+- [ ] [ ] [[Gossip’s Talent]] x1 | Blue | Enchantment — Class | - | #color/blue #type/enchantment
+- [ ] [ ] [[Watery Grasp]] x1 | Blue | Enchantment — Aura | - | #color/blue #type/enchantment
+
+#### Sorceries
+- [ ] [ ] [[Ember Island Production]] x1 | Blue | Sorcery | - | #color/blue #type/sorcery
 
 ---
 
@@ -109,6 +124,11 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [ ] [ ] [[Dream Beavers]] x1 | Black | Creature | Beaver Nightmare | #color/black #type/creature #creature-type/beaver #creature-type/nightmare
 - [ ] [ ] [[Oroku Saki, Shredder Rising]] x1 | Black | Legendary Creature | Human Ninja | #color/black #type/creature #creature-type/human #creature-type/ninja
 - [ ] [ ] [[Savanti Romero, Time's Exile]] x1 | Black | Legendary Creature | Demon Wizard | #color/black #type/creature #creature-type/demon #creature-type/wizard
+- [ ] [ ] [[Hagra Sharpshooter]] x1 | Black | Creature | Human Assassin Ally | #color/black #type/creature #creature-type/human #creature-type/assassin #creature-type/ally
+- [ ] [ ] [[Daggerfang Duo]] x1 | Black | Creature | Rat Squirrel | #color/black #type/creature #creature-type/rat #creature-type/squirrel
+- [ ] [ ] [[Thought-Stalker Warlock]] x1 | Black | Creature | Lizard Warlock | #color/black #type/creature #creature-type/lizard #creature-type/warlock
+- [ ] [ ] [[Foggy Swamp Hunters]] x1 | Black | Creature | Human Ranger Ally | #color/black #type/creature #creature-type/human #creature-type/ranger #creature-type/ally
+- [ ] [ ] [[Pirate Peddlers]] x1 | Black | Creature | Human Pirate | #color/black #type/creature #creature-type/human #creature-type/pirate
 
 #### Instants
 - [ ] [ ] [[Feast of Dreams]] x1 | Black | Instant | - | #color/black #type/instant
@@ -166,6 +186,8 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [ ] [ ] [[Immortal Phoenix]] x1 | Red | Creature | Phoenix | #color/red #type/creature #creature-type/phoenix
 - [ ] [ ] [[Fire Elemental]] x1 | Red | Creature | Elemental | #color/red #type/creature #creature-type/elemental
 - [ ] [ ] [[Drakuseth, Maw of Flames]] x1 | Red | Legendary Creature | Dragon | #color/red #type/creature #creature-type/dragon
+- [ ] [ ] [[Flamecache Gecko]] x1 | Red | Creature | Lizard Warlock | #color/red #type/creature #creature-type/lizard #creature-type/warlock
+- [ ] [ ] [[Mai, Jaded Edge]] x1 | Red | Legendary Creature | Human Noble | #color/red #type/creature #creature-type/human #creature-type/noble
 
 #### Instants
 - [ ] [ ] [[Volt Charge]] x2 | Red | Instant | - | #color/red #type/instant
@@ -179,6 +201,9 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [ ] [ ] [[Shock]] x3 | Red | Instant | - | #color/red #type/instant
 - [ ] [ ] [[Lightning of Combustion]] x1 | Red | Instant | - | #color/red #type/instant
 - [ ] [ ] [[Manhole Missile]] x1 | Red | Instant | - | #color/red #type/instant
+- [ ] [ ] [[Volcanic Upheaval]] x1 | Red | Instant | - | #color/red #type/instant
+- [ ] [ ] [[Stonefury]] x1 | Red | Instant | - | #color/red #type/instant
+- [ ] [ ] [[How to Start a Riot]] x1 | Red | Instant — Lesson | - | #color/red #type/instant
 
 #### Sorceries
 - [ ] [ ] [[Pyroclasm]] x1 | Red | Sorcery | - | #color/red #type/sorcery
@@ -189,6 +214,8 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [ ] [ ] [[Engulfing Eruption]] x3 | Red | Sorcery | - | #color/red #type/sorcery
 - [ ] [ ] [[Chandra's Outburst]] x1 | Red | Sorcery | - | #color/red #type/sorcery
 - [ ] [ ] [[Wild Ride]] x1 | Red | Sorcery | - | #color/red #type/sorcery
+- [ ] [ ] [[Agate Assault]] x1 | Red | Sorcery | - | #color/red #type/sorcery
+- [ ] [ ] [[Bumi Bash]] x1 | Red | Sorcery | - | #color/red #type/sorcery
 
 #### Enchantments
 - [ ] [ ] [[Lightning Diadem]] x1 | Red | Enchantment | - | #color/red #type/enchantment
@@ -221,6 +248,10 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [ ] [ ] [[Crowned Ceratok]] x1 | Green | Creature | Rhino | #color/green #type/creature #creature-type/rhino
 - [ ] [ ] [[Krosan Tusker]] x1 | Green | Creature | Boar Beast | #color/green #type/creature #creature-type/boar #creature-type/beast
 - [ ] [ ] [[Sultai Devotee]] x1 | Green | Creature | Zombie Snake Druid | #color/green #type/creature #creature-type/zombie #creature-type/snake #creature-type/druid
+- [ ] [ ] [[Tajuru Stalwart]] x1 | Green | Creature | Elf Scout Ally | #color/green #type/creature #creature-type/elf #creature-type/scout #creature-type/ally
+- [ ] [ ] [[Oran-Rief Hydra]] x1 | Green | Creature | Hydra | #color/green #type/creature #creature-type/hydra
+- [ ] [ ] [[Beastcaller Savant]] x1 | Green | Creature | Elf Shaman Ally | #color/green #type/creature #creature-type/elf #creature-type/shaman #creature-type/ally
+- [ ] [ ] [[Saber-Tooth Moose-Lion]] x1 | Green | Creature | Elk Cat | #color/green #type/creature #creature-type/elk #creature-type/cat
 
 #### Instants
 - [ ] [ ] [[Nature's Panoply]] x1 | Green | Instant | - | #color/green #type/instant
@@ -233,6 +264,8 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [ ] [ ] [[Regrowth]] x1 | Green | Sorcery | - | #color/green #type/sorcery
 - [ ] [ ] [[Kodama's Reach]] x1 | Green | Sorcery | - | #color/green #type/sorcery
 - [ ] [ ] [[Cowabunga!]] x1 | Green | Sorcery | - | #color/green #type/sorcery
+- [ ] [ ] [[Seek the Wilds]] x1 | Green | Sorcery | - | #color/green #type/sorcery
+- [ ] [ ] [[For the Common Good]] x1 | Green | Sorcery | - | #color/green #type/sorcery
 
 ---
 
@@ -254,6 +287,9 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [ ] [ ] [[Tithe Drinker]] x1 | White / Black | Creature | Vampire | #color/white #color/black #color/multi #type/creature #creature-type/vampire
 - [ ] [ ] [[Zurgo, Thunder's Decree]] x1 | Red / White | Legendary Creature | Orc Warrior | #color/white #color/red #color/multi #type/creature #creature-type/orc #creature-type/warrior
 - [ ] [ ] [[Mechanized Ninja Cavalry]] x1 | Red / White | Artifact Creature | Robot Ninja | #color/red #color/white #color/multi #type/artifact #type/creature #creature-type/robot #creature-type/ninja
+- [ ] [ ] [[Junkblade Bruiser]] x1 | Red / Green | Creature | Raccoon Berserker | #color/red #color/green #color/multi #type/creature #creature-type/raccoon #creature-type/berserker
+- [ ] [ ] [[Seedglaive Mentor]] x1 | Red / White | Creature | Mouse Soldier | #color/red #color/white #color/multi #type/creature #creature-type/mouse #creature-type/soldier
+- [ ] [ ] [[Long Feng, Grand Secretariat]] x1 | Green / White | Legendary Creature | Human Advisor | #color/green #color/white #color/multi #type/creature #creature-type/human #creature-type/advisor
 
 #### Instants
 - [ ] [ ] [[Destructive Revelry]] x1 | Red / Green | Instant | - | #color/red #color/green #color/multi #type/instant
@@ -280,6 +316,7 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [ ] [ ] [[Monastery Messenger]] x1 | Multi-Color | Creature | Bird Scout | #color/multi #type/creature #creature-type/bird #creature-type/scout
 - [ ] [ ] [[Neriv, Heart of the Storm]] x1 | Multi-Color | Legendary Creature | Spirit Dragon | #color/multi #type/creature #creature-type/spirit #creature-type/dragon
 - [ ] [ ] [[Temur Tawnyback]] x1 | Multi-Color | Creature | Beast | #color/multi #type/creature #creature-type/beast
+- [ ] [ ] [[Toph, the First Metalbender]] x1 | Red / Green / White | Legendary Creature | Human Warrior Ally | #color/red #color/green #color/white #color/multi #type/creature #creature-type/human #creature-type/warrior #creature-type/ally
 
 #### Sorceries
 - [ ] [ ] [[Grub's Command]] x1 | Multi-Color | Sorcery | - | #color/multi #type/sorcery
@@ -295,9 +332,16 @@ Cards from the Magic collection that are NOT in the Foundations Starter Collecti
 - [ ] [ ] [[Gleaming Barrier]] x1 | Colorless | Artifact Creature | Wall | #color/colorless #type/artifact #type/creature #creature-type/wall
 - [ ] [ ] [[Ultima, Origin of Oblivion]] x1 | Colorless | Legendary Artifact Creature | God | #color/colorless #type/artifact #type/creature #creature-type/god
 - [ ] [ ] [[Mindless Automaton]] x1 | Colorless | Artifact Creature | Construct | #color/colorless #type/artifact #type/creature #creature-type/construct
+- [ ] [ ] [[Incubator Drone]] x1 | Colorless | Creature | Eldrazi Drone | #color/colorless #type/creature #creature-type/eldrazi #creature-type/drone
+- [ ] [ ] [[Culling Drone]] x1 | Colorless | Creature | Eldrazi Drone | #color/colorless #type/creature #creature-type/eldrazi #creature-type/drone
+
+#### Sorceries
+- [ ] [ ] [[Processor Assault]] x1 | Colorless | Sorcery | - | #color/colorless #type/sorcery
 
 #### Artifacts
 - [ ] [ ] [[Dragon Blood]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
+- [ ] [ ] [[Heaped Harvest]] x1 | Colorless | Artifact | Food | #color/colorless #type/artifact #type/food
+- [ ] [ ] [[Bumbleflower’s Sharepot]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
 - [ ] [ ] [[Fireshrieker]] x1 | Colorless | Artifact Equipment | - | #color/colorless #type/artifact #type/equipment
 - [ ] [ ] [[Gruul Signet]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact
 - [ ] [ ] [[Mind Stone]] x1 | Colorless | Artifact | - | #color/colorless #type/artifact

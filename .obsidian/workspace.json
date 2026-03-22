@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Friends Libraries/Calebs Stuff/Decks/Caleb's Counter Blitz.md",
+                "file": "Decks/Simic Creature Swarm (100) (EDH).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caleb's Counter Blitz"
+              "title": "Simic Creature Swarm (100) (EDH)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 439.5
   },
   "right": {
     "id": "7f9783e630a6dd16",
@@ -184,11 +184,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "ece7d365065b292f",
+  "active": "9e70f81943b4fc3f",
   "lastOpenFiles": [
-    "Cards/Friends Libraries/Calebs Stuff/Card Library.md",
-    "Cards/Friends Libraries/Calebs Stuff/Decks/Caleb's Counter Blitz.md",
+    "Decks/Mardu Goodstuff (100) (EDH).md",
+    "Decks/Simic Creature Swarm (100) (EDH).md",
+    "Decks/Rakdos Minotaur Tribal (100) (EDH).md",
+    "Decks/Orzhov Token Swarm (100) (EDH).md",
+    "Decks/Mono-White Lifegain Token Swarm (100) (EDH).md",
+    "Decks/Boros Token Pressure 60.md",
+    "Decks/Mono-White Lifegain Swarm 60.md",
+    "Decks/Boros Burn Aggro (100) (EDH).md",
+    "Decks/Jund Minotaur-Ramp Deck.md",
+    "Cards/Foundations Starter Collection Box Card List.md",
+    "Decks/Golgari Token Swarm (100) (EDH).md",
+    "Decks/Alisaie & Alphinaud Artifacts (100) (EDH).md",
     "Cards/Card Inventory.md",
+    "Decks/Abzan Lifegain Token Swarm (100) (EDH).md",
+    "Cards/Friends Libraries/Calebs Stuff/Decks/Caleb's Counter Blitz.md",
+    "Cards/Friends Libraries/Calebs Stuff/Card Library.md",
     "Cards/Friends Libraries/Calebs Stuff/Decks/Caleb's First Deck.md",
     "Cards/Friends Libraries/Calebs Stuff/__scan2/Card Library.merged.md",
     "Cards/Friends Libraries/Calebs Stuff/__scan2/Card Library.updated.md",
@@ -217,20 +230,7 @@
     "Cards/Friends Libraries/Calebs Stuff/Decks/Index.md",
     "Decks/Artifact Infinite Draw (100) (EDH).md",
     "Temur Tawnyback.md",
-    "Decks/Orzhov Token Swarm (100) (EDH).md",
-    "Decks/Golgari Token Swarm (100) (EDH).md",
-    "Decks/Green Creature Swarm (100) (EDH).md",
     "Decks/Dimir Flash Reanimator 60.md",
-    "Decks/Artifact Spell Storm (100) (EDH).md",
-    "Cards/Assorted Cards.md",
-    "Cards/Foundations Starter Collection Box Card List.md",
-    "Decks/Alisaie & Alphinaud Artifacts (100) (EDH).md",
-    "Decks/Boros Burn Aggro (100) (EDH).md",
-    "Decks/Jund Minotaur-Ramp Deck.md",
-    "Decks/Rakdos Minotaur Tribal (100) (EDH).md",
-    "Decks/Abzan Token Swarm Commander.md",
-    "Decks/Abzan Tokens (100) (EDH).md",
-    "Decks/Golgari Token Swarm Commander.md",
-    "Decks/Boros Burn Aggro Commander.md"
+    "Decks/Artifact Spell Storm (100) (EDH).md"
   ]
 }
